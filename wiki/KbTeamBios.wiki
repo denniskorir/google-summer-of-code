@@ -13,7 +13,10 @@ I held various roles at Google before joining the Open Source Program Office in 
 
 In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder]. 
 
+===Wilco Jansen - Joomla!===
+Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
+Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
 
 
 
