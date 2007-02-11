@@ -1,0 +1,5 @@
+#summary Advice for GSoC Students
+
+= Welcome to the Advice for GSoC Students Page =
+
+Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the usual way people are involved in developing free software.  
