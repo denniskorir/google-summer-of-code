@@ -1,4 +1,4 @@
-#summary Google Summer of Code(tm) Program Wiki
+#summary Google Summer of Code Program Wiki
 
 = Welcome to the GSoC Program Wiki =
 
@@ -17,6 +17,5 @@ Not sure how to choose the best mentoring organization for you? How to write an 
 Check out the AdviceforStudents page.
 
    
-
 
 
