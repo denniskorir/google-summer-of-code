@@ -7,7 +7,7 @@ While participating in Google Summer of Code^TM^ is an incredibly rewarding ende
 Google's program administrators *highly* recommend that your organization takes the time to publicly document how you plan to structure GSoC involvement within the project and how your organization plans to address some of the issues described on this page.  We hope this information will help you to more clearly articulate your project's culture to prospective students, as well as serving as the plan of record for dealing with problems that may arise during the course of the program.
 
 == Applying to GSoC as a Mentoring Organization ==
-We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source project would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
+We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source projects would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
 
 TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developes
 
@@ -68,6 +68,5 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
-
 
 
