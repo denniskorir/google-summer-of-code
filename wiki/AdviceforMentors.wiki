@@ -1,0 +1,73 @@
+#summary Advice for GSoC Mentoring Organizations and Mentors
+
+= Welcome to the Advice for GSoC Mentors Page =
+
+While participating in Google Summer of Code^TM^ is an incredibly rewarding endeavor, creating the necessary structures for participating in the program can be a daunting prospect.  The collective wisdom captured here should help you determine whether your organization has the resources to commit to participating in the program, how to deal with common pitfalls in the mentoring process and how to best encourage your students to both successfully complete their projects and stay on the path to becoming full developers/committers. 
+
+Google's program administrators highly recommend that your organization takes the time to publicly document how you plan to structure GSoC involvement within the project and how your organization plans to address some of the issues described on this page.  This information will help you to more clearly articulate your project's culture to prospective students, as well as serving as the plan of record for dealing with problems that may arise during the course of the program.
+
+== Applying to GSoC as a Mentoring Organization ==
+We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source project would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
+
+TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developes
+
+== Creating Your "Ideas" List ==
+Choosing tasks to include on your project's ideas list can be challenging: some bugs may have remained open for years because a problem is extremely difficult to solve, some tasks which could bore a more advanced student may prove the perfect training ground for a less advanced student.  What steps can you take to make sure your project's Ideas list attracts the right mix of applicants?
+
+TODO: how did you choose the projects on your ideas list, did you put contact information  on your ideas list so potential students could ping, were there any ideas on your initial list that a student ended up finding too difficult or too easy?  
+
+
+== Allocating Resources ==
+
+
+TODO: discuss how much time it really takes to participate in GSoC as a mentor & organization administrator, how to choose mentors and backup mentors, how to distribute mentoring duties throughout members of the project to make sure students are well integrated into the community
+
+== Reviewing Student Applications ==
+
+In order to select the best students for your project, your organization needs to have a good understanding of what you're looking to gain by participating in the program.  Obviously, we're trying to bring new blood into open source, but choosing to work with a total newbie may not be the best decision for your organization.  If you will be working with students who have little or no previous open source experience, your organization's approach and expectations will vary drastically from a project who is looking for more advanced developers.  In an ideal world, your accepted students will have a wide range of development experience and expertise, allowing each to learn both from your organization's mentors and from one another.
+
+TODO: talk about your org's student selection process, any interviewing of students that took place outside of the regular application process, traits to look for that indicate a student will be successful in GSoC and longer  
+
+== Engaging Your Students ==
+
+TODO: talk about how your project made initial contact with accepted students, how mentors and students introduced themselves, how to set student expectations regarding participating in the project, a list of things that accepted students should receive a pointer to (e.g. bug tracker, main development list(s), relevant documentation, etc.), thoughts on how to best use the "community bonding period" now built into the program
+
+== Communication ==
+
+TODO: talk about all communication vehicles your project used with its students (e.g. blogs, mailing lists, IRC meetings, etc.), which were successful and which were not, should separate mailing lists be set up for students?  if so how do you keep students interacting with the project as a whole?  should organizations require that students blog?  if so, how are these blogs meant to be useful in tracking/encouraging student progress?
+
+== Mentoring Best Practices ==
+
+Approaches to mentoring as going to vary widely depending on individual and project preferences, but here are a few thoughts on how to effectively mentor your students that should at least be a good starting point for your organization.
+
+TODO: what did your project do to help your students be successful? what was the particular approach of your mentors that worked quite well?  anything approaches that you will never, never take again? 
+
+== Dealing with Common Mentoring Issues ==
+
+=== Disappearing Students ===
+
+At times, students simply drop out of contact for weeks at a time.  Particularly since the program involves distributed work, it can be difficult to assess why a student has disappeared and whether pursuing the relationship with the student is worthwhile.  If you do find that your disappearing student reappears, determining how to best ensure that s/he remains engaged throughout the rest of the program can also be challenging. 
+
+TODO: did your project experience this?  how did you deal with it? 
+
+=== Personality Conflicts ===
+
+It's a simple fact of life that we are not all going to get along with one another all the time.  That said, there can be times when a student and mentor are well matched technically, but not personality-wise.  There may be times when a student feels her/his mentor's expectations are unreasonable or unfair.  In order to be best prepared, your organization should have a clear plan about dealing with personality conflicts.
+
+TODO: did your project experience this?  how did you deal with it? 
+
+
+=== Shy Students ===
+
+Google's program administrators have commonly heard that it can be difficult to get students to communicate on the project's main development mailing lists; many GSoC participants are new to open source development and sending questions to a public mailing list can be an intimidating prospect.  Even for those not new to open source, posting a question to a mailing list when you know that the project founder and lead developers are subscribers can cause great trepidation.
+  
+TODO: did your project experience this?  how did you deal with it?
+
+=== Unproductivity ===
+
+There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
+
+TODO: did your project experience this?  how did you deal with it?  
+
+
+
