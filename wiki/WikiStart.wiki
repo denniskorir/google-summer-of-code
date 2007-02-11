@@ -1,6 +1,6 @@
-#summary Google Summer of Code Program Wiki
+#summary Google Summer of Code Knowledge Base Wiki
 
-= Welcome to the GSoC Program Wiki =
+= Welcome to the GSoC Knowledge Base Wiki =
 
 _If you're looking for documentation for the GSoC web app, see GsocWebAppHelp._
 
@@ -18,7 +18,13 @@ Not sure how to choose the best mentoring organization for you? How to write an 
 
 Check out the AdviceforStudents page.
 
+===Knowledge Base Team==
+
+Many thanks from the GSoC program administratation team to the Google Summer of Code^TM^ community members who have shared their experiences in the program.  
+
+If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
+
 
 
 
