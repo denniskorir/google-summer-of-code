@@ -1,0 +1,11 @@
+#summary Google Summer of Code^TM^ Program Wiki
+
+= Welcome to the GSoC Program Wiki =
+
+Interested in becoming a mentor or student in the Google Summer of Code^TM^ program?  Have questions about mentoring best practices?  Not sure about how to write your student application?  Wondering how to choose the best applicants for your organization?  
+
+We've started this wiki to provide helpful advice for prospective GSoC mentors and students, mostly composed by former mentors and students. Google's program administrators have also contributed to the wiki based on feedback we've received throughout the program's history.
+
+Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each mentoring organization will need to create its own guidelines for the program.  We hope the information provided on the wiki will be a useful starting point in drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that would be helpful.
+
+
