@@ -18,6 +18,11 @@ Not sure how to choose the best mentoring organization for you? How to write an 
 
 Check out the AdviceforStudents page.
 
+==More Help==
+Interested in another perspective?  Have other topics you'd like to discuss?  We've created two private mailing lists, one for all program mentors and one for students.  See the [http://code.google.com/p/google-summer-of-code/ Project Home Page] for a full list of all program mailing lists.
+
+The purpose of these lists is to give all program participants a place to communicate and seek advice from peers about any issues that may arise during the course of the program.  They are purposely closed so that this peer communication remains private and no one posting to these lists has to be concerned that any questions or discussions harm the relationship between mentor and student.
+
 ===Knowledge Base Team==
 
 Many thanks from the GSoC program administratation team to the Google Summer of Code^TM^ community members who have shared their experiences in the program.  
