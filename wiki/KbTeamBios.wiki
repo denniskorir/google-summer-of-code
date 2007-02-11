@@ -1,0 +1,20 @@
+#summary GSoC Knowledge Base Team Bios
+
+= Welcome to the Knowledge Base Team Bios Page =
+
+Meet the contributors to the Google Summer of Code^tm^ Knowledge Base.
+
+_Please keep bios in order by first name._
+
+===Leslie Hawthorn - Google, Inc.===
+2007 will be my second GSoC.  :)
+
+I held various roles at Google before joining the Open Source Program Office in March 2006, and I co-managed the Google Summer of Code program for 2006 along with cdibona & gstein.
+
+In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder]. 
+
+
+
+
+
+
