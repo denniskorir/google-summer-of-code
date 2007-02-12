@@ -71,6 +71,16 @@ So, a word to the wise: you will say things that you will later wish you'd thoug
 
 TODO: add more here, personal anecdotal evidence is particularly useful here
 
+Angie Byron says:
+
+  I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet on my first day for being off-topic. ;) A couple different things helped:
+
+  a) I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
+
+  b) Whenever someone asked for a patch review, or to have a bug validated, or started a discussion that was at my level, I would join in and try and participate. This helped me to meet other developers on a 'contributor' level, which helped me to earn their respect.
+
+  c) I started to get really involved with doing user support and documentation. This is stuff that tends to get neglected and that developers typically don't like to do, so when someone steps up in these areas they really take notice. It also helps you understand the project better, because trying to answer other peoples' questions exposes you to lots of different facets you wouldn't otherwise know about.
+
 == Communication ==
 
 While your mentor is your primary point of contact with the organization, don't forget that there's an entire community out there to help you.  Communicate early and communicate often, both with your mentor and the community as a whole. Distributed development can be more difficult by its very nature, as you can't simply talk to your mentor in a hallway to get good advice; get used to being proactive in your questions, 
@@ -78,6 +88,11 @@ While your mentor is your primary point of contact with the organization, don't 
 Remember too that documenting your design decisions and any changes to your milestones or development plan, etc., will not only be useful to you, but will help to keep you and your mentor on the same page regarding expectations for your work.
 
 TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
+
+
+
+
+
 
 
 
