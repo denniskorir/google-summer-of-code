@@ -73,7 +73,7 @@ TODO: add more here, personal anecdotal evidence is particularly useful here
 
 Angie Byron says:
 
-  I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet on my first day for being off-topic. ;) A couple different things helped:
+  I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet for being off-topic. ;) A couple different things helped:
 
   a) I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
 
@@ -88,7 +88,6 @@ While your mentor is your primary point of contact with the organization, don't 
 Remember too that documenting your design decisions and any changes to your milestones or development plan, etc., will not only be useful to you, but will help to keep you and your mentor on the same page regarding expectations for your work.
 
 TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
-
 
 
 
