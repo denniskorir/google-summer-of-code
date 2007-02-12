@@ -6,6 +6,11 @@ Meet the contributors to the Google Summer of Code^tm^ Knowledge Base.
 
 _Please keep bios in order by first name._
 
+===Angie Byron - Drupal===
+I got my start, both in the [http://drupal.org/ Drupal] project and as an open source developer, when I was a student during GSoC 2005. I am now completely immersed in the Drupal project, working full-time as a [http://lullabot.com Lullabot], and get to help with pretty much everything, including creating and testing core patches, documentation, user support, developing contributed modules, training, and even creating the odd graphic here and there.
+
+GSoC has completely transformed my life, and I'm eager to help make 2007 a rousing success so that others may experience this as well. :)
+
 ===Leslie Hawthorn - Google, Inc.===
 2007 will be my second GSoC.  :)
 
@@ -13,7 +18,7 @@ I held various roles at Google before joining the Open Source Program Office in 
 
 In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder].
 
-===Robert Douglass - Drupal.org===
+===Robert Douglass - Drupal===
 
 Back in 2007 for my 3rd Summer of Code :D
 
@@ -25,6 +30,5 @@ Along the way I've seen how well the Summer of Code concept works, and want to s
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
 Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
-
 
 
