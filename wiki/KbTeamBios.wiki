@@ -11,7 +11,13 @@ _Please keep bios in order by first name._
 
 I held various roles at Google before joining the Open Source Program Office in March 2006, and I co-managed the Google Summer of Code program for 2006 along with cdibona & gstein.
 
-In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder]. 
+In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder].
+
+===Robert Douglass - Drupal.org===
+
+Back in 2007 for my 3rd Summer of Code :D
+
+I am a [http://lullabot.com Lullabot] by day, and a [http://drupal.org/user/5449 Drupal contributor], well, by day, by night, and all the rest of the time. I co-authored the [http://www.amazon.com/Building-Online-Communities-Drupal-WordPress/dp/1590595629/sr=8-3/qid=1171291491/ref=pd_bbs_sr_3/002-0249664-7274410?ie=UTF8&s=books very first book about Drupal], and am a technical review for [http://www.amazon.com/Pro-Drupal-Development-John-VanDyk/dp/1590597559/sr=8-2/qid=1171291491/ref=pd_bbs_sr_2/002-0249664-7274410?ie=UTF8&s=books another book], soon to be published.
 
 ===Wilco Jansen - Joomla!===
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
