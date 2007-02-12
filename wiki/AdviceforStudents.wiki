@@ -95,7 +95,7 @@ TODO: please add more here about communication styles, were regular communicatio
 Even for someone who positively thrives in an academic setting, having a big, open summer with far-away deadlines where you are forced to structure your own time can be very challenging. Many talented, smart, driven people end up not making it through Summer of Code because of this difficulty.
 
 A couple things can help with this:
-* Before you start writing a line of code (ideally, during the application process), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
-* Set up a schedule with your mentor to do at least weekly status reports. It'll be much herder to fall behind if you know you have to get at least "something" done by Thursday, for example.
+  * Before you start writing a line of code (ideally, during the application process), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
+  * Set up a schedule with your mentor to do at least weekly status reports. It'll be much herder to fall behind if you know you have to get at least "something" done by Thursday, for example.
 
 TODO: Flesh this out a bit more...
