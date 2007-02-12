@@ -28,6 +28,14 @@ Additionally, some organizations are considering additional due diligence beyond
 
 TODO: add any information about how you chose a mentoring organization, why you chose the one(s) you did, what initial positive indicators turned out to be spot on about the organization
 
+(AB: I added my personal story below, but it doesn't really "fit" with the rest of this text... looking at how to re-work this section slightly so that "how to pick a mentoring organization" and "what is expected of you by the mentoring organization" are two different things.)
+
+Angie Byron says:
+
+  For a long time I've had an interest in activism, and helped contribute graphics and posters to the [http://spreadfirefox.com Spread Firefox] community for awhile. The first thing I do whenever I visit a new site is "view source" to see what's being used to generate it. I found references to [http://drupal.org/ Drupal], so that project stuck out in my mind when I saw it on Google's mentor list.
+
+  After some more research, I discovered that the CMS was used by a number of political and grassroots organizations and so, coupled with the fact that it was written in PHP (which is my primary language of choice), I knew that Drupal would be a great fit as a mentoring organization. 
+
 == Choosing a Project ==
 
 Remember, GSoC takes place over just three months, so choose a project that is reasonable to complete in that time frame.  While we've built additional time into the program to allow you to get up to speed on your organization's community and documentation before you start coding, we repeatedly hear from mentors that their students undertook projects which were too complex to complete within the GSoC time frame.  Undertaking an ambitious project is laudable, but don't choose a project and submit a proposal that will end up being too challenging and, therefore, frustrating for you.  If you're having trouble determining whether your idea needs further distillation or refining, consider talking with the organization's developers and asking for their thoughts; it's an excellent way to get to know them.
@@ -70,3 +78,6 @@ While your mentor is your primary point of contact with the organization, don't 
 Remember too that documenting your design decisions and any changes to your milestones or development plan, etc., will not only be useful to you, but will help to keep you and your mentor on the same page regarding expectations for your work.
 
 TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
+
+
+
