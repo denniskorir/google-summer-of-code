@@ -19,11 +19,12 @@ Back in 2007 for my 3rd Summer of Code :D
 
 I am a [http://lullabot.com Lullabot] by day, and a [http://drupal.org/user/5449 Drupal contributor], well, by day, by night, and all the rest of the time. I co-authored the [http://www.amazon.com/Building-Online-Communities-Drupal-WordPress/dp/1590595629/sr=8-3/qid=1171291491/ref=pd_bbs_sr_3/002-0249664-7274410?ie=UTF8&s=books very first book about Drupal], and am a technical review for [http://www.amazon.com/Pro-Drupal-Development-John-VanDyk/dp/1590597559/sr=8-2/qid=1171291491/ref=pd_bbs_sr_2/002-0249664-7274410?ie=UTF8&s=books another book], soon to be published.
 
+Along the way I've seen how well the Summer of Code concept works, and want to share my experiences and any tips I have with others so that they get the most out of the program.
+
 ===Wilco Jansen - Joomla!===
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
 Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
-
 
 
 
