@@ -61,7 +61,19 @@ TODO: anything to add here?
 
 While it's a great idea to due diligence in this area before submitting your proposal, should your application be accepted, you will definitely need to spend some time integrating with your organization's community.  How to best bond with your new developer colleagues will vary widely, but it's essential that you do so; this aspect of participating in GSoC is so important that Google is announcing the program over three months before coding begins to ensure that all students have time to get to know their organizations developer (and user) communities.  
 
+
 TODO: how did you bond with your community?  what did they do to help integrate you?  what helped and what did not?
+
+Angie Byron says:
+
+  I found what helped me the most with getting integrated in the community was helping with user support and documentation. This is stuff that tends to get a bit neglected in open source projects, so when someone steps up in these areas, the rest of the community really appreciates it. It's also a great way to understand the project better.
+
+  I hung out in the support IRC channel, and whenever anyone asked a question I'd challenge myself to try and find an answer. At first, I was mostly just learning things from other people, but gradually I found I was able to answer a couple questions myself, and pretty soon I was actually answering a couple developers' questions. :D
+
+  In addition to this, whenever I'd discover something new that wasn't already in the documentation, I'd document it. Nothing helps to ensure you really understand something more than trying to teach other people about it. :)
+
+  After awhile, this kind of thing earns you a reputation in the community, and your reputation in an open source community is your best asset.
+
 
 == The Intimidation Factor ==
 
@@ -75,11 +87,9 @@ Angie Byron says:
 
   I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet for being off-topic. ;) A couple different things helped:
 
-  a) I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
+  1. I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
 
-  b) Whenever someone asked for a patch review, or to have a bug validated, or started a discussion that was at my level, I would join in and try and participate. This helped me to meet other developers on a 'contributor' level, which helped me to earn their respect.
-
-  c) I started to get really involved with doing user support and documentation. This is stuff that tends to get neglected and that developers typically don't like to do, so when someone steps up in these areas they really take notice. It also helps you understand the project better, because trying to answer other peoples' questions exposes you to lots of different facets you wouldn't otherwise know about.
+  2. Whenever someone asked for a patch review, or to have a bug validated, or started a discussion that was at my level, I would join in and try and participate. This helped me to meet other developers on a 'contributor' level, which helped me to earn their respect.
 
 
 == Communication ==
