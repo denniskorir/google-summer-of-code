@@ -100,9 +100,9 @@ Angie Byron says:
 
   I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet for being off-topic. ;) A couple different things helped:
 
-  1. I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
+  a) I started just idling in the channel and watching how the developers interacted with each other. I got to see patterns of what types of questions comments were/weren't allowed, when it was okay to chit-chat vs. when it was time to be quiet because developers were working on hashing out a serious problem, and so on.
 
-  2. Whenever someone asked for a patch review, or to have a bug validated, or started a discussion that was at my level, I would join in and try and participate. This helped me to meet other developers on a 'contributor' level, which helped me to earn their respect.
+  b) Whenever someone asked for a patch review, or to have a bug validated, or started a discussion that was at my level, I would join in and try and participate. This helped me to meet other developers on a 'contributor' level, which helped me to earn their respect.
 
 
 == Communication ==
