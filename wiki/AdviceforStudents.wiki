@@ -46,9 +46,22 @@ TODO: anything to add here?
 
 Your mentoring organization may have a template they would like you to use, which will be available when you apply using the GSoC web app.  However, a template is just a start, and writing a proposal is very different than writing code or even an essay.  Don't forget that your online application can and should be supplemented with additional materials, such as links to your Curriculum Vitae, repository locations for other open source code you've committed, etc.  
 
+TODO: add any suggestions about writing an application, what looks good, what doesn't, any preparation you did before writing the app, any help you sought from your org when composing it, etc.
+
 Here are some suggestions to help you write your application, in addition to the suggestions in the FAQs:
 
-TODO: add any suggestions about writing an application, what looks good, what doesn't, any preparation you did before writing the app, any help you sought from your org when composing it, etc.
+  * *Promote your idea.* Describe your idea in detail. What is its ultimate goal? What components will it have? What benefits does it have for the project itself and its community? How do you plan to achieve completion of your project? If a specification already exists, what will you do that will go above and beyond expectations?
+
+  * *Promote yourself*. Talk about what makes you stand out from the rest of the crowd. Talk about your past experiences, what makes you tick. Why are you interested in open source software, and your given project in particular? What interests do you have, and how do these interests relate to the project for which you're applying? There is a basic assumption that people applying for Summer of Code will have at least some programming skills already. So rather than spend a lot of time elaborating on these (though by all means, do talk about what you know), spend time talking about you.
+
+  * *Show enthusiasm.* Summer of Code is a very exciting opportunity, and open source development itself is extremely exciting. Most mentors are not just looking for people who want a summer job to pass the time, but for devoted people who have an intrinsic passion for open source, and are (or will become) zealots for the given mentoring organization in particular. ;)
+
+  * *Tailor your application to the project.* It is painfully obvious when someone copies/pastes parts (or even the entirety) of an applications to multiple organizations. This can be seen from a mile away, and it is a sure-fire way for your application to not be taken seriously. Each application you send should be targeted and tailored for the specific mentoring organization and project to which you are applying.
+
+  * *Get feedback on your idea from the community.* Discussing your idea with some established folks in your target organization's community is vital. If your idea duplicates existing efforts or code (and does not provide a very convincing reason for doing so), it will be rejected. Try to have your application reviewed by someone before you submit it, whether that be the mentor for a particular project itself (in the case of already generated ideas on the following pages), or a person with expertise in a certain area. Don't be afraid to ask the organization's community for help; they want you to succeed just as much as you do. :)
+
+  * *Don't wait until the last minute.* Most organizations get a huge flurry of submissions on the last day. Students who get their applications earlier will generally have their applications reviewed more thoroughly, and also have time for revisions. Start planning your application as soon as possible!
+
 
 == Responding to Requests for Further Information ==
 Often, a mentoring organization may ask you for further information or clarification on your proposal.  When responding to these requests, keep your responses concise and targeted.  Organizations are reviewing literally hundreds of proposals, so your ability to communicate clearly and effectively will be a great asset to you.  
