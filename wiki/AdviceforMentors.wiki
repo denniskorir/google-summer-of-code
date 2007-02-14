@@ -24,6 +24,23 @@ On the other hand, some students will have their own ideas, or will thrive when 
 
 The lesson here? To attract the widest variety of students, provide a variety of proposal ideas in different stages of detail. If your project needs a certain feature, and it is crystal clear how you need it implemented, spell it out. If you'd like to see general development in a certain direction, leave the door open for the students' proposals to be creative and encourage them to fill in the details themselves.
 
+=== Scope and Scale ===
+
+It is in everybody's best interest that your student's complete their projects with flying colors. A small amount of useful code is worth more than a mountain of almost finished code. A happy student at the end of the summer is more likely to keep working on his/her project than a frustrated one. Choose the scope and scale of your projects to reflect the following constraints:
+
+  * The brief duration of the program.
+  * The initial time that will be spent managing infrastructure and getting things set up.
+  * The fact that most students need the first month just to get their bearings and actually start producing code.
+  * The fact that any project that is worthwhile has inherent difficulties and real intellectual challenges, some of which won't be anticipated or predicted at the onset of the project.
+
+Therefore, whether the idea for the project comes from you or from your student, be ruthless in scaling it back until it really fits within the time constraints. If all goes well, you and the student will have a lot of time after the program to implement phase 2 of the project, and add all those features that would be "nice to have".
+
+=== Be Accessible ===
+
+A successful SoC student will have good communication skills. This is a simple fact of the nature of distributed projects (such as most open source projects). The people involved must regularly overcome the barriers of distance, language, culture and time zones in order to come to agreements and exchange knowledge. 
+
+By making yourself available to discuss the proposed projects in advance, you are inviting the good communicators to reach out to you and demonstrate that they are suited for working on a virtual team where independence and cooperation must coexist. They will ask for suggestions on their proposals, bounce their ideas off you to see if they fit your project, and reveal aspects of their personality that will be useful to you when evaluating their applications later.
+
 TODO: how did you choose the projects on your ideas list, did you put contact information  on your ideas list so potential students could ping, were there any ideas on your initial list that a student ended up finding too difficult or too easy?  
 
 
@@ -78,6 +95,8 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
+
+
 
 
 
