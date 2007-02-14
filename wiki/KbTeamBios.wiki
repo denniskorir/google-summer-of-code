@@ -26,9 +26,19 @@ I am a [http://lullabot.com Lullabot] by day, and a [http://drupal.org/user/5449
 
 Along the way I've seen how well the Summer of Code concept works, and want to share my experiences and any tips I have with others so that they get the most out of the program.
 
+===Ross Gardler - The Apache Software Foundation===
+
+My third GSoC season - I must be liking this thing.
+
+I've been using and contributing to open source in various forms for about 10 years now. Over that time I have become more and more deeply immersed in the [http://www.apache.org ASF]. My involvement has bounced between using open source as part of my teaching and research at Universities in the UK and West Indies and using it as an independent contractor in the UK. At the start of 2007 I joined the [http://www.oss-watch.ac.uk OSS Watch] to provide specific support for community development in open source projects within the UK educational sector.
+
+For me the strength of GSoC is the fact that people come out of it knowing more about how to work in an open development community and how to help others become immersed in such a community. It's not just the mentees that learn, the mentors learn a great deal too.
+
 ===Wilco Jansen - Joomla!===
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
 Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
+
+
 
 
