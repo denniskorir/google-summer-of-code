@@ -46,6 +46,11 @@ TODO: how did you choose the projects on your ideas list, did you put contact in
 
 == Allocating Resources ==
 
+A good rule of thumb when finding and assigning mentors is to have two mentors per student. It is also a good idea to have a spare mentor or two who can pay attention to many students and keep track of the big picture. 
+
+Why so many mentors? Assisting in someone's learning is a time-intensive operation. You must be able to keep up with the details and development of the project and be willing to spend time, even daily, communicating with the student. Furthermore, it is the Summer, and chances are, you'll be taking some time off along the way. Having two mentors helps guarantee that neither one gets too heavily burdened by the responsibility of mentoring, and helps avoid the situation where a student's progress is blocked by an unavailable mentor.
+
+It helps ease the burden of the individual mentors if you encourage your student to tap the wider community resources available to your project. Do you have developer mailing lists, support forums, IRC channels or a wiki? All of these should be on the list of places for students to go to get help. While it is the mentor's job to be personally involved in the student's success, it is all too easy for the student to view the mentor as one-stop-shopping for answers and support.
 
 TODO: discuss how much time it really takes to participate in GSoC as a mentor & organization administrator, how to choose mentors and backup mentors, how to distribute mentoring duties throughout members of the project to make sure students are well integrated into the community
 
