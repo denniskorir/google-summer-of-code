@@ -14,6 +14,16 @@ TODO: talk about why your project chose to apply to GSoC, what you hoped to gain
 == Creating Your "Ideas" List ==
 Choosing tasks to include on your project's ideas list can be challenging: some bugs may have remained open for years because a problem is extremely difficult to solve, some tasks which could bore a more advanced student may prove the perfect training ground for a less advanced student.  What steps can you take to make sure your project's Ideas list attracts the right mix of applicants?
 
+=== Be Specific. No, Be General ===
+
+Some students will be attracted to ideas that are carefully described and documented by your team. Providing a thorough roadmap for the implementation of the idea helps prospective students judge whether they are a good fit for the program, and whether they feel confident in their ability to actually complete the work. 
+
+The more specifically you describe your ideas before the program begins, the more students will apply with those ideas as their proposals. Sorting through these proposals is difficult because you know where the idea came from, thus the student applicants don't have a chance to show creativity (by thinking of the idea to begin with), and you are left trying to weigh the other factors in their application, like their prior experience or grade point average.
+
+On the other hand, some students will have their own ideas, or will thrive when given a vague goal and have to provide the details for achieving that goal on their own. It is a disadvantage for these students when you provide super-specific specifications in advance of the program. The applications of these "creative" students are easier to judge. First, they are presenting their *own* idea. The merit of the idea, as well as how it is presented, speaks loudly for the abilities of the student. Second, if any details are provided as to how the student hopes to implement their idea, you get a good sense of how familiar they already are with your project and the problem space they'll be dealing with.
+
+The lesson here? To attract the widest variety of students, provide a variety of proposal ideas in different stages of detail. If your project needs a certain feature, and it is crystal clear how you need it implemented, spell it out. If you'd like to see general development in a certain direction, leave the door open for the students' proposals to be creative and encourage them to fill in the details themselves.
+
 TODO: how did you choose the projects on your ideas list, did you put contact information  on your ideas list so potential students could ping, were there any ideas on your initial list that a student ended up finding too difficult or too easy?  
 
 
@@ -68,5 +78,6 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
+
 
 
