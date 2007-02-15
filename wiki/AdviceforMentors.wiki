@@ -9,6 +9,10 @@ Google's program administrators *highly* recommend that your organization takes 
 == Applying to GSoC as a Mentoring Organization ==
 We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source projects would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
 
+There are a number of benefits to being a mentoring organisation in the Google Summer of Code^TM^. There is the obvious one, you get a paid software developer for a few months. But this is only the surface. Your mentors will learn more about how to effectively bring people into your community, how to make them feel involved and how to guide them through those difficult first steps into open source. As a result your project will be in a better position to guide new arrivals that come from more traditional channels.
+
+For this benefit to be fully realised it is important to ensure that your whole project community are on board with the mentoring task. Just because an individual is named as the mentor, it doesn't mean that they are the only one who deals with the mentees issues. The mentee is just another member of the community, just like any other. Of course the mentor has a few added responsibilities. It is them who has to ensure that the mentee is comfortable and that they are able to ge the most from the community,
+
 TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developers
 
 == Creating Your "Ideas" List ==
@@ -110,6 +114,5 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
-
 
 
