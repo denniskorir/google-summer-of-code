@@ -138,6 +138,8 @@ A couple things can help with this:
   * Before you start writing a line of code (ideally, this is part of your application itself), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
   * Set up a schedule with your mentor to do at least weekly status reports. It'll be much harder to fall behind if you know you have to get at least "something" done by Thursday, for example. It also ensures that you are keeping communication up, and that you're both on the same page regarding your progress.
   * Break the project down into smaller, more manageable tasks that are actionable. The more specific the task is, the easier it is to accomplish on its own, and the faster you reach your end goal.
+  * Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, compilation processes, and so on. Ideally, you should have a thorough grasp of these before you even start on your project.
+  * If you're not already familiar with the source code of your project of choice, remember to to allow time for simply learning the code. Students coming from traditional academic settings may have more practice with building applications themselves from the ground up, and not be familiar with "getting into someone else's head" and understanding why code works the way it does.
 
 Angie Byron says:
 
