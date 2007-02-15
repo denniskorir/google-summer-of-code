@@ -35,6 +35,10 @@ It is in everybody's best interest that your students complete their projects wi
 
 Therefore, whether the idea for the project comes from you or from your student, be ruthless in scaling it back until it really fits within the time constraints. If all goes well, you and the student will have a lot of time after the program to implement phase 2 of the project, and add all those features that would be "nice to have".
 
+=== Generating Ideas ===
+
+The Summer of Code project can be useful to your project in ways that are not directly tied to gaining code and new contributors. For example, most projects have a portion of their community that is brimming with ideas and feature requests, but is not directly able to initiate the implementation of their ideas (ie they can't code). These are the people you want to engage when creating proposals for students to work on. Use your project's website and mailing list to collect ideas from all segments of your community, and keep them up to date with the status of the projects as the program progresses. Your students and your community will benefit from this. 
+
 === Be Accessible ===
 
 A successful SoC student will have good communication skills. This is a simple fact of the nature of distributed projects (such as most open source projects). The people involved must regularly overcome the barriers of distance, language, culture and time zones in order to come to agreements and exchange knowledge. 
@@ -106,7 +110,6 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
-
 
 
 
