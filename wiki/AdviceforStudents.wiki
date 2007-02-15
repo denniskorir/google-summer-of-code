@@ -46,7 +46,7 @@ Angie Byron says:
 
   Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, and so on. If you're not already using these in your everyday development, getting up to speed can present a challenge. And even if you're actively using them, you still need to know how your organization does things and how it might be different from what you're used to.
 
-  Also, if you're not already familiar with the source code of your organization's project of choice, remember to to allow time for simply learning the code. This "getting into someone else's head" and understanding why code works the way it does can be especially challenging for students coming from academic setting, where reading someone else's code is considered "cheating" and projects are done individually.
+  Also, if you're not already familiar with the source code of your organization's project of choice, remember to to allow time for simply learning the code. This "getting into someone else's head" and understanding why code works the way it does can be especially challenging for students coming from an academic setting, where reading someone else's code is considered "cheating" and projects are done individually.
 
   Ideally, you should have a thorough grasp on all of these before you even start on your project.
 
