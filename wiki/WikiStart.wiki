@@ -6,6 +6,8 @@ We've started this wiki to provide helpful advice for prospective and accepted G
 
 Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on the wiki will be a useful starting point in drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that would be helpful.
 
+The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:gsoc@google.com let us know]. 
+
 ==Advice for Mentors==
 Wondering how to choose the best applicants for your project?  How to deal with a student reticent to post questions to the project-wide mailing list? How to keep your project's students engaged with the community long past the program's conclusion?  
 
@@ -27,6 +29,5 @@ Many thanks from the GSoC program administratation team to the Google Summer of 
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
 
 
