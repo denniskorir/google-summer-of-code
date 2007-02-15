@@ -113,6 +113,12 @@ Remember too that documenting your design decisions and any changes to your mile
 
 TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
 
+Angie Byron says:
+
+  The hardest lesson I had to learn about communication was that it's okay to ask for help. Sounds silly, right? But you feel a lot of pressure for being one of the few who is accepted into SoC. It's easy to fall into the trap of trying to impress your mentor and community by not asking questions so that you come across as smart, only to spin your wheels hopelessly on some silly problem and waste valuable time.
+
+  Obviously, don't go around bugging people about every little thing (always try to figure it out yourself and do some basic troubleshooting first), but also don't feel like if you ask questions people are going to think any less of you. Remember that SoC is a learning experience, and your mentor and the rest of the community are there to guide you along your journey. Also remember that even the "super hackers" in your community asked lots of questions to get to that level. :)
+
 == Time Management ==
 
 Even for someone who positively thrives in an academic setting, having a big, open summer with far-away deadlines where you are forced to structure your own time can be very challenging. Many talented, smart, driven people end up not making it through Summer of Code because of this difficulty.
@@ -135,4 +141,3 @@ Angie Byron says:
   c) Each time you check something off, you're that much closer to being done!
 
   Some people use fancy-schmancy project planning tools and GANTT charts and all that kind of stuff to do this. I use post-it notes. :P I write down, "This is the stuff I have to do today," prioritize it by urgency, then take the first thing on that list and try and "think-through" what it would take to finish that, and write that on a separate page. Then I just go through and mark things off as I finish them, and voila! I can look back and see that I actually made progress today! ;)
-
