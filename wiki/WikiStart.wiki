@@ -2,8 +2,6 @@
 
 = Welcome to the GSoC Knowledge Base Wiki =
 
-_If you're looking for documentation for the GSoC web app, see GsocWebAppHelp._
-
 We've started this wiki to provide helpful advice for prospective and accepted Google Summer of Code^TM^ mentors and students, mostly composed by former mentors and students. Google's program administrators have also contributed to the wiki based on feedback we've received throughout the program's history.
 
 Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on the wiki will be a useful starting point in drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that would be helpful.
@@ -29,7 +27,6 @@ Many thanks from the GSoC program administratation team to the Google Summer of 
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
 
 
 
