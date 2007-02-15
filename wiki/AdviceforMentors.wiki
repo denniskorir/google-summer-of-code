@@ -11,7 +11,7 @@ We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  
 
 There are a number of benefits to being a mentoring organisation in the Google Summer of Code^TM^. There is the obvious one, you get a paid software developer for a few months. But this is only the surface. Your mentors will learn more about how to effectively bring people into your community, how to make them feel involved and how to guide them through those difficult first steps into open source. As a result your project will be in a better position to guide new arrivals that come from more traditional channels.
 
-For this benefit to be fully realised it is important to ensure that your whole project community are on board with the mentoring task. Just because an individual is named as the mentor, it doesn't mean that they are the only one who deals with the mentees issues. The mentee is just another member of the community, just like any other. Of course the mentor has a few added responsibilities. It is them who has to ensure that the mentee is comfortable and that they are able to ge the most from the community,
+For this benefit to be fully realised it is important to ensure that your whole project community are on board with the mentoring task. Just because an individual is named as the mentor, it doesn't mean that they are the only one who deals with the mentees issues. The mentee is just another member of the community, just like any other. Of course the mentor has a few added responsibilities. It is them who has to ensure that the mentee is comfortable and that they are able to get the most from the community.
 
 TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developers
 
@@ -48,6 +48,8 @@ The Summer of Code project can be useful to your project in ways that are not di
 A successful SoC student will have good communication skills. This is a simple fact of the nature of distributed projects (such as most open source projects). The people involved must regularly overcome the barriers of distance, language, culture and time zones in order to come to agreements and exchange knowledge. 
 
 By making yourself available to discuss the proposed projects in advance, you are inviting the good communicators to reach out to you and demonstrate that they are suited for working on a virtual team where independence and cooperation must coexist. They will ask for suggestions on their proposals, bounce their ideas off you to see if they fit your project, and reveal aspects of their personality that will be useful to you when evaluating their applications later.
+
+In most mentor organisations there will be more applications than slots available. This was certainly true at the ASF where the sheer number of projects we have means that we have had at least four times as many proposals as funded slots in previous years. In order to select the best projects committers interested in the GSoC programme have reviewed all the students applications, so the quality of the proposal was important. However, we added considerable weight to those proposals that had entered into a dialogue with the project community already. Just being smart is not good enough in open source, the ability to ask for and accept guidance is even more important.
 
 TODO: how did you choose the projects on your ideas list, did you put contact information  on your ideas list so potential students could ping, were there any ideas on your initial list that a student ended up finding too difficult or too easy?  
 
@@ -114,5 +116,4 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
-
 
