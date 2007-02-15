@@ -42,6 +42,14 @@ Remember, GSoC takes place over just three months, so choose a project that is r
   
 TODO: anything to add here?
 
+Angie Byron says:
+
+  Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, and so on. If you're not already using these in your everyday development, getting up to speed can present a challenge. And even if you're actively using them, you still need to know how your project does things and how it might be different from what you're used to.
+
+  Also, if you're not already familiar with the source code of your project of choice, remember to to allow time for simply learning the code. Students coming from academic settings may have more practice with building applications themselves from the ground up, and not be familiar with "getting into someone else's head" and understanding why code works the way it does. This can be very challenging.
+
+  Ideally, you should have a thorough grasp on all of these before you even start on your project.
+
 == Writing Your Application ==
 
 Your mentoring organization may have a template they would like you to use, which will be available when you apply using the GSoC web app.  However, a template is just a start, and writing a proposal is very different than writing code or even an essay.  Don't forget that your online application can and should be supplemented with additional materials, such as links to your Curriculum Vitae, repository locations for other open source code you've committed, etc.  
@@ -138,8 +146,6 @@ A couple things can help with this:
   * Before you start writing a line of code (ideally, this is part of your application itself), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
   * Set up a schedule with your mentor to do at least weekly status reports. It'll be much harder to fall behind if you know you have to get at least "something" done by Thursday, for example. It also ensures that you are keeping communication up, and that you're both on the same page regarding your progress.
   * Break the project down into smaller, more manageable tasks that are actionable. The more specific the task is, the easier it is to accomplish on its own, and the faster you reach your end goal.
-  * Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, compilation processes, and so on. Ideally, you should have a thorough grasp of these before you even start on your project.
-  * If you're not already familiar with the source code of your project of choice, remember to to allow time for simply learning the code. Students coming from traditional academic settings may have more practice with building applications themselves from the ground up, and not be familiar with "getting into someone else's head" and understanding why code works the way it does.
 
 Angie Byron says:
 
