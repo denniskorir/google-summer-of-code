@@ -78,9 +78,17 @@ It is also helpful to discuss with your mentors exactly what traits and qualitie
 
 == Engaging Your Students ==
 
+Once accepted students will, in many cases, ave no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites, if not, now is the time.
+
+Reassure the student that the community will help them understand the new processes and technologies they face. Make it clear that, as long as they can demonstrate that they read whatever documentation is available, i.e. they can ask an informed question, the community will be more than happy to provide additional guidance (especially if the student then clarifies the documentation).
+
 TODO: talk about how your project made initial contact with accepted students, how mentors and students introduced themselves, how to set student expectations regarding participating in the project, a list of things that accepted students should receive a pointer to (e.g. bug tracker, main development list(s), relevant documentation, etc.), thoughts on how to best use the "community bonding period" now built into the program
 
 == Communication ==
+
+Since one of the objectives of GSoC is to introduce students to real open source development, it is (in my view) important that communications are only made through the usual community channels. Furthermore. students should not be forced to do anything that other contributors do not do, so if the student wants to blog, let them do so, but do not force them.
+
+Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated on what they produce, but on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
 
 TODO: talk about all communication vehicles your project used with its students (e.g. blogs, mailing lists, IRC meetings, etc.), which were successful and which were not, should separate mailing lists be set up for students?  if so how do you keep students interacting with the project as a whole?  should organizations require that students blog?  if so, how are these blogs meant to be useful in tracking/encouraging student progress?
 
@@ -108,6 +116,10 @@ TODO: did your project experience this?  how did you deal with it?
 === Shy Students ===
 
 Google's program administrators have commonly heard that it can be difficult to get students to communicate on the project's main development mailing lists; many GSoC participants are new to open source development and sending questions to a public mailing list can be an intimidating prospect.  Even for those not new to open source, posting a question to a mailing list when you know that the project founder and lead developers are subscribers can cause great trepidation.
+
+It's scary posting to a list of people you do not know, especially when the perception is that they all know more than you. So, consider how to lower them into the list gently. One trick is to ask them a few questions about integrating their work with existing code. Ask these questions in your initial welcome mail (sent off list) and suggest that you do not know the answers, but someone on the list will. 
+
+Now the student can either post answers to the list (a real confidence booster) or will be asking questions their mentor does not know the answer to. Both of which are less frightening than asking a potentially dumb question of your own. Once they have posted and not been shouted down the next post is easier.
   
 TODO: did your project experience this?  how did you deal with it?
 
@@ -116,4 +128,3 @@ TODO: did your project experience this?  how did you deal with it?
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
 TODO: did your project experience this?  how did you deal with it?  
-
