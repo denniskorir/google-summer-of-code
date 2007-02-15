@@ -62,6 +62,17 @@ Here are some suggestions to help you write your application, in addition to the
 
   * *Don't wait until the last minute.* Most organizations get a huge flurry of submissions on the last day. Students who get their applications earlier will generally have their applications reviewed more thoroughly, and also have time for revisions. Start planning your application as soon as possible!
 
+Angie Byron says:
+
+  It spent about a week writing my application, in between other things. I went after one of the bounties offered by my mentoring organization: a Quiz module for Drupal.
+
+  First, I read all of the background material and discussion that had taken place on the forums and mailing list around the idea. This helped me to better understand the motivations for the project, and also get to learn the names of some of the people interested in it who I could later contact for additional feedback/insight and as testers. I also did some general skimming of Drupal's documentation: the handbooks, the API docs, and so on, to get a "feel" of the project. Finally, I checked to see if they had any specific SoC requirements beyond what Google had outlined.
+
+  Next, I e-mailed the mentor for the Quiz module bounty to let him know that I was interested in applying, and to introduce myself to him. In this way, we got to know each other a little bit even before I had applied formally, which helped my name to stick out a bit from the rest. I asked if he'd be willing to look over an initial draft of my application, and he said he'd be happy to. He also gave me some helpful tips on additional places to look for information, and some things to specifically mention in the application.
+
+  Next came actually writing up the application. I first described the goals in detail to get across my understanding of the project, but was careful not to just blatantly copy/paste stuff from the description; rather, I re-wrote it in my own words, and also added some more things that I thought of which could make the project better. I also tried to draw attention to personal qualities I had that made me suitable for the project, such as my experience both as a student and a teacher, my knowledge of XHTML/PHP/SQL, and my diverse IT background outside of web programming. I also spent time focusing on the benefits that the module would have for the Drupal community itself, in terms of widening its appeal, and how the module could also be useful outside of the academic setting.
+
+  Finally, came submission time. I sent the application to a teacher first for some last-minute proof-reading, and then onto the bounty's mentor as a final check. He gave the thumbs up and I submitted it. Then spent pretty much every waking moment of the next few weeks with my stomach clenched in anticipation/fear. ;)
 
 == Responding to Requests for Further Information ==
 Often, a mentoring organization may ask you for further information or clarification on your proposal.  When responding to these requests, keep your responses concise and targeted.  Organizations are reviewing literally hundreds of proposals, so your ability to communicate clearly and effectively will be a great asset to you.  
@@ -124,7 +135,7 @@ Angie Byron says:
 Even for someone who positively thrives in an academic setting, having a big, open summer with far-away deadlines where you are forced to structure your own time can be very challenging. Many talented, smart, driven people end up not making it through Summer of Code because of this difficulty.
 
 A couple things can help with this:
-  * Before you start writing a line of code (ideally, during the application process), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
+  * Before you start writing a line of code (ideally, this is part of your application itself), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
   * Set up a schedule with your mentor to do at least weekly status reports. It'll be much harder to fall behind if you know you have to get at least "something" done by Thursday, for example. It also ensures that you are keeping communication up, and that you're both on the same page regarding your progress.
   * Break the project down into smaller, more manageable tasks that are actionable. The more specific the task is, the easier it is to accomplish on its own, and the faster you reach your end goal.
 
