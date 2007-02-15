@@ -1,5 +1,0 @@
-#summary GSoC Web App Documentation Start Page
-
-= Welcome to the GSoC Web App User's Guide =
-
-TODO: write documentation
