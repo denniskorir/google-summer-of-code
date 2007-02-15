@@ -113,12 +113,26 @@ Remember too that documenting your design decisions and any changes to your mile
 
 TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
 
-== Scheduling ==
+== Time Management ==
 
 Even for someone who positively thrives in an academic setting, having a big, open summer with far-away deadlines where you are forced to structure your own time can be very challenging. Many talented, smart, driven people end up not making it through Summer of Code because of this difficulty.
 
 A couple things can help with this:
   * Before you start writing a line of code (ideally, during the application process), lay out a basic schedule for yourself, identifying major milestones and when they should be done. Remember to try to allow ample time for unexpected things that might come up.
-  * Set up a schedule with your mentor to do at least weekly status reports. It'll be much herder to fall behind if you know you have to get at least "something" done by Thursday, for example.
+  * Set up a schedule with your mentor to do at least weekly status reports. It'll be much harder to fall behind if you know you have to get at least "something" done by Thursday, for example. It also ensures that you are keeping communication up, that there are no surprises, and you're on the same page regarding your progress.
+  * Break the project down into smaller, more manageable tasks that are actionable. The more specific the task is, the easier it is to accomplish on its own, and the faster you reach your end goal.
 
-TODO: Flesh this out a bit more...
+Angie Byron says:
+
+  The best advice I can give students regarding time management is to break their projects down into smaller, bite-sized chunks. "Finish my SoC project" is not a good thing at all to have on your to-do list. It creates one big, amorphus ball of "stuff" you have to do, and it's is easy to get demoralized when you see it staring at you every day. You can fall into a procrastination trap thinking, "Ugh... I don't even know where to start with this... I'll try again tomorrow..."
+
+  Instead, break your project down into smaller, more manageable tasks like, "Research into foo thing to evaluate different approaches," "Write a function to do bar with baz and blah inputs that returns boing" and "Create icon for the yadda yadda button." Ths process accomplishes three things:
+
+  a) It will almost lay out a 'roadmap' to follow from start to completion if you do it thoroughly enough.
+
+  b) You'll end up with far fewer surprises at the end because you're almost forcing yourself to think through everything up front.
+
+  c) Each time you check something off, you're that much closer to being done!
+
+  Some people use fancy-schmancy project planning tools and GANTT charts and all that kind of stuff to do this. I use post-it notes. :P I write down, "This is the stuff I have to do today," prioritize it by urgency, then take the first thing on that list and try and "think-through" what it would take to finish that, and write that on a separate page. Then I just go through and mark things off as I finish them, and voila! I can look back and see that I actually made progress today! ;)
+
