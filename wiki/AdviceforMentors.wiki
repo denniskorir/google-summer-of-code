@@ -9,7 +9,7 @@ Google's program administrators *highly* recommend that your organization takes 
 == Applying to GSoC as a Mentoring Organization ==
 We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source projects would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
 
-TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developes
+TODO: talk about why your project chose to apply to GSoC, what you hoped to gain from participating, what you think makes an organization a good fit for the program and which projects may be better served through different types of outreach to get new developers
 
 == Creating Your "Ideas" List ==
 Choosing tasks to include on your project's ideas list can be challenging: some bugs may have remained open for years because a problem is extremely difficult to solve, some tasks which could bore a more advanced student may prove the perfect training ground for a less advanced student.  What steps can you take to make sure your project's Ideas list attracts the right mix of applicants?
@@ -58,7 +58,13 @@ TODO: discuss how much time it really takes to participate in GSoC as a mentor &
 
 In order to select the best students for your project, your organization needs to have a good understanding of what you're looking to gain by participating in the program.  Obviously, we're trying to bring new blood into open source, but choosing to work with a total newbie may not be the best decision for your organization.  If you will be working with students who have little or no previous open source experience, your organization's approach and expectations will vary drastically from a project who is looking for more advanced developers.  In an ideal world, your accepted students will have a wide range of development experience and expertise, allowing each to learn both from your organization's mentors and from one another.
 
-TODO: talk about your org's student selection process, any interviewing of students that took place outside of the regular application process, traits to look for that indicate a student will be successful in GSoC and longer  
+During the selection process, it is important to have good communication lines open between the various mentors who are reviewing applications. Depending on the number of applications your project gets, this is a large task, so be prepared. Having hundreds of applications to review is typical for some of the bigger projects.
+
+You will most likely want to start your reviewing process by eliminating those applications which clearly don't meet the standards of the program. Whether the applicant lacks qualifications, or is simply proposing something that doesn't fit to your project, paring down the field before seriously reviewing the top applications is a big time saver.
+
+Your project has quite a bit of control over the selection process. For example, some projects require an interview with the students before they make their final selections. This can be done via IRC, phone, Email, or however you choose. This is not a requirement, but it may serve to connect you with the applicants who will work best with your project.
+
+It is also helpful to discuss with your mentors exactly what traits and qualities you are hoping to find in students through the application process. Communicating this to your applicants is also desirable. For instance, if your project hopes to solve a particular problem that requires very strong skills in some particular area, and you will be looking especially carefully for students who fit these needs, be clear about the fact during the application process. The better you are able to communicate what it is you are looking for, the easier and more transparent the selection process will be.
 
 == Engaging Your Students ==
 
