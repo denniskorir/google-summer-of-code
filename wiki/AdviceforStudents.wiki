@@ -32,7 +32,7 @@ TODO: add any information about how you chose a mentoring organization, why you 
 
 Angie Byron says:
 
-  For a long time I've had an interest in activism, and helped contribute graphics and posters to the [http://spreadfirefox.com Spread Firefox] community for awhile. The first thing I do whenever I visit a new site is "view source" to see what's being used to generate it. I found references to [http://drupal.org/ Drupal], so that project stuck out in my mind when I saw it on Google's mentor list.
+  For a long time I've had an interest in activism, and helped contribute graphics and posters to the [http://spreadfirefox.com Spread Firefox] community for awhile. The first thing I do whenever I visit a new site is "view source" to see what's being used to generate it. I found references to [http://drupal.org/ Drupal], so that organization stuck out in my mind when I saw it on Google's mentor list.
 
   After some more research, I discovered that the CMS was used by a number of political and grassroots organizations and so, coupled with the fact that it was written in PHP (which is my primary language of choice), I knew that Drupal would be a great fit as a mentoring organization. 
 
@@ -44,9 +44,9 @@ TODO: anything to add here?
 
 Angie Byron says:
 
-  Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, and so on. If you're not already using these in your everyday development, getting up to speed can present a challenge. And even if you're actively using them, you still need to know how your project does things and how it might be different from what you're used to.
+  Remember to allow time for learning the various "support" activities around the project, such as version control systems, unit testing, and so on. If you're not already using these in your everyday development, getting up to speed can present a challenge. And even if you're actively using them, you still need to know how your organization does things and how it might be different from what you're used to.
 
-  Also, if you're not already familiar with the source code of your project of choice, remember to to allow time for simply learning the code. Students coming from academic settings may have more practice with building applications themselves from the ground up, and not be familiar with "getting into someone else's head" and understanding why code works the way it does. This can be very challenging.
+  Also, if you're not already familiar with the source code of your organization's project of choice, remember to to allow time for simply learning the code. This "getting into someone else's head" and understanding why code works the way it does can be especially challenging for students coming from academic setting, where reading someone else's code is considered "cheating" and projects are done individually.
 
   Ideally, you should have a thorough grasp on all of these before you even start on your project.
 
