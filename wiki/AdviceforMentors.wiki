@@ -93,7 +93,7 @@ TODO: talk about how your project made initial contact with accepted students, h
 
 Since one of the objectives of GSoC is to introduce students to real open source development, it is (in my view) important that communications are only made through the usual community channels. Furthermore. students should not be forced to do anything that other contributors do not do, so if the student wants to blog, let them do so, but do not force them.
 
-Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated on what they produce, but on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
+Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated solely on what they produce, but also on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
 
 TODO: talk about all communication vehicles your project used with its students (e.g. blogs, mailing lists, IRC meetings, etc.), which were successful and which were not, should separate mailing lists be set up for students?  if so how do you keep students interacting with the project as a whole?  should organizations require that students blog?  if so, how are these blogs meant to be useful in tracking/encouraging student progress?
 
@@ -108,6 +108,12 @@ TODO: what did your project do to help your students be successful? what was the
 === Disappearing Students ===
 
 At times, students simply drop out of contact for weeks at a time.  Particularly since the program involves distributed work, it can be difficult to assess why a student has disappeared and whether pursuing the relationship with the student is worthwhile.  If you do find that your disappearing student reappears, determining how to best ensure that s/he remains engaged throughout the rest of the program can also be challenging. 
+
+Don't bother hunting for missing students. A couple of mails along the lines of "Are you OK? Need any assistance?", followed by "I'm worried about your work here, it may affect your evaluation. Take a little time to inform me of your situation so I can accommodate it" are sufficient.
+
+For students who disappear without notice and then reappear it is important to set some early (and tough) objectives for them to meet in order to catch up. If their absence was genuinely unavoidable they will be happy to work at meeting these objectives. If they are a freeloader they will spend more time coming up with excuses.
+
+Get rid of the freeloaders quickly. There is no point in wasting your volunteer time and Googles money on such people.
 
 TODO: did your project experience this?  how did you deal with it? 
 
