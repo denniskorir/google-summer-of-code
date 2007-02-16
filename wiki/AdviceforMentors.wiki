@@ -62,6 +62,8 @@ Why so many mentors? Assisting in someone's learning is a time-intensive operati
 
 It helps ease the burden of the individual mentors if you encourage your student to tap the wider community resources available to your project. Do you have developer mailing lists, support forums, IRC channels or a wiki? All of these should be on the list of places for students to go to get help. While it is the mentor's job to be personally involved in the student's success, it is all too easy for the student to view the mentor as one-stop-shopping for answers and support.
 
+It's almost impossible to put a figure to how much time mentors will spend with students. It depends a great deal on the student, the level of community support, the project structure and many factors completely out of the control of those involved. However, as a rule of thumb, Apache mentors have reported that they spent between 1 and 4 hours per week assisting students in previous years.
+
 TODO: discuss how much time it really takes to participate in GSoC as a mentor & organization administrator, how to choose mentors and backup mentors, how to distribute mentoring duties throughout members of the project to make sure students are well integrated into the community
 
 == Reviewing Student Applications ==
