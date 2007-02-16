@@ -28,8 +28,6 @@ Additionally, some organizations are considering additional due diligence beyond
 
 TODO: add any information about how you chose a mentoring organization, why you chose the one(s) you did, what initial positive indicators turned out to be spot on about the organization
 
-(AB: I added my personal story below, but it doesn't really "fit" with the rest of this text... looking at how to re-work this section slightly so that "how to pick a mentoring organization" and "what is expected of you by the mentoring organization" are two different things.)
-
 Angie Byron says:
 
   For a long time I've had an interest in activism, and helped contribute graphics and posters to the [http://spreadfirefox.com Spread Firefox] community for awhile. The first thing I do whenever I visit a new site is "view source" to see what's being used to generate it. I found references to [http://drupal.org/ Drupal], so that organization stuck out in my mind when I saw it on Google's mentor list.
@@ -72,7 +70,7 @@ Here are some suggestions to help you write your application, in addition to the
 
 Angie Byron says:
 
-  It spent about a week writing my application, in between other things. I went after one of the bounties offered by my mentoring organization: a Quiz module for Drupal.
+  I spent about a week writing my application, in between other things. I went after one of the bounties offered by my mentoring organization: a Quiz module for Drupal.
 
   First, I read all of the background material and discussion that had taken place on the forums and mailing list around the idea. This helped me to better understand the motivations for the project, and also helped me to learn the names of some of the people interested in it, who I could later contact for additional feedback/insight and as testers. I also did some general skimming of Drupal's documentation: the handbooks, the API docs, and so on, to get a "feel" of the project. Finally, I checked to see if they had any specific SoC requirements beyond what Google had outlined.
 
