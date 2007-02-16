@@ -80,9 +80,12 @@ It is also helpful to discuss with your mentors exactly what traits and qualitie
 
 == Engaging Your Students ==
 
-Once accepted students will, in many cases, ave no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites, if not, now is the time.
+Once accepted students will, in many cases, have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites, if not, now is the time.
 
 Reassure the student that the community will help them understand the new processes and technologies they face. Make it clear that, as long as they can demonstrate that they read whatever documentation is available, i.e. they can ask an informed question, the community will be more than happy to provide additional guidance (especially if the student then clarifies the documentation).
+
+It is also important that the students should concentrate on what they will bring to the project, they should ask themselves every day if what they are doing is creating value for
+the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
 
 TODO: talk about how your project made initial contact with accepted students, how mentors and students introduced themselves, how to set student expectations regarding participating in the project, a list of things that accepted students should receive a pointer to (e.g. bug tracker, main development list(s), relevant documentation, etc.), thoughts on how to best use the "community bonding period" now built into the program
 
