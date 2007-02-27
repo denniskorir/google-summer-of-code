@@ -4,6 +4,8 @@
 
 Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the "usual" way people are involved in developing free software.  The information on this page, written by GSoC students for students, is meant to help you choose a mentoring organization, write your application and hone your skills as an open source developer.
 
+In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project for GSoC 2006, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
+
 = Applying to GSoC =
 
 == Choosing a Mentoring Organization ==
@@ -158,3 +160,5 @@ Angie Byron says:
   c) Each time you check something off, you're that much closer to being done!
 
   Some people use fancy-schmancy project planning tools and GANTT charts and all that kind of stuff to do this. I use post-it notes. :P I write down, "This is the stuff I have to do today," prioritize it by urgency, then take the first thing on that list and try and "think-through" what it would take to finish that, and write that on a separate page. Then I just go through and mark things off as I finish them, and voila! I can look back and see that I actually made progress today! ;)
+
+
