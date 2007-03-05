@@ -52,8 +52,6 @@ By making yourself available to discuss the proposed projects in advance, you ar
 
 In most mentor organisations there will be more applications than slots available. This was certainly true at the ASF where the sheer number of projects we have means that we have had at least four times as many proposals as funded slots in previous years. In order to select the best projects committers interested in the GSoC programme have reviewed all the students applications, so the quality of the proposal was important. However, we added considerable weight to those proposals that had entered into a dialogue with the project community already. Just being smart is not good enough in open source, the ability to ask for and accept guidance is even more important.
 
-TODO: how did you choose the projects on your ideas list, did you put contact information  on your ideas list so potential students could ping, were there any ideas on your initial list that a student ended up finding too difficult or too easy?  
-
 
 == Allocating Resources ==
 
@@ -64,8 +62,6 @@ Why so many mentors? Assisting in someone's learning is a time-intensive operati
 It helps ease the burden of the individual mentors if you encourage your student to tap the wider community resources available to your project. Do you have developer mailing lists, support forums, IRC channels or a wiki? All of these should be on the list of places for students to go to get help. While it is the mentor's job to be personally involved in the student's success, it is all too easy for the student to view the mentor as one-stop-shopping for answers and support.
 
 It's almost impossible to put a figure to how much time mentors will spend with students. It depends a great deal on the student, the level of community support, the project structure and many factors completely out of the control of those involved. However, as a rule of thumb, Apache mentors have reported that they spent between 1 and 4 hours per week assisting students in previous years.
-
-TODO: discuss how much time it really takes to participate in GSoC as a mentor & organization administrator, how to choose mentors and backup mentors, how to distribute mentoring duties throughout members of the project to make sure students are well integrated into the community
 
 == Reviewing Student Applications ==
 
@@ -85,10 +81,8 @@ Once accepted students will, in many cases, have no idea where to start. So, the
 
 Reassure the student that the community will help them understand the new processes and technologies they face. Make it clear that, as long as they can demonstrate that they read whatever documentation is available, i.e. they can ask an informed question, the community will be more than happy to provide additional guidance (especially if the student then clarifies the documentation).
 
-It is also important that the students should concentrate on what they will bring to the project, they should ask themselves every day if what they are doing is creating value for
-the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
+It is also important that the students should concentrate on what they will bring to the project, they should ask themselves every day if what they are doing is creating value for the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
 
-TODO: talk about how your project made initial contact with accepted students, how mentors and students introduced themselves, how to set student expectations regarding participating in the project, a list of things that accepted students should receive a pointer to (e.g. bug tracker, main development list(s), relevant documentation, etc.), thoughts on how to best use the "community bonding period" now built into the program
 
 == Communication ==
 
@@ -96,7 +90,6 @@ Since one of the objectives of GSoC is to introduce students to real open source
 
 Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated solely on what they produce, but also on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
 
-TODO: talk about all communication vehicles your project used with its students (e.g. blogs, mailing lists, IRC meetings, etc.), which were successful and which were not, should separate mailing lists be set up for students?  if so how do you keep students interacting with the project as a whole?  should organizations require that students blog?  if so, how are these blogs meant to be useful in tracking/encouraging student progress?
 
 == Mentoring Best Practices ==
 
@@ -114,15 +107,12 @@ Don't bother hunting for missing students. A couple of mails along the lines of 
 
 For students who disappear without notice and then reappear it is important to set some early (and tough) objectives for them to meet in order to catch up. If their absence was genuinely unavoidable they will be happy to work at meeting these objectives. If they are a freeloader they will spend more time coming up with excuses.
 
-Get rid of the freeloaders quickly. There is no point in wasting your volunteer time and Googles money on such people.
+Get rid of the freeloaders quickly. There is no point in wasting your volunteer time and Google's money on such people.
 
-TODO: did your project experience this?  how did you deal with it? 
 
 === Personality Conflicts ===
 
 It's a simple fact of life that we are not all going to get along with one another all the time.  That said, there can be times when a student and mentor are well matched technically, but not personality-wise.  There may be times when a student feels her/his mentor's expectations are unreasonable or unfair.  In order to be best prepared, your organization should have a clear plan about dealing with personality conflicts.
-
-TODO: did your project experience this?  how did you deal with it? 
 
 
 === Shy Students ===
@@ -133,10 +123,8 @@ It's scary posting to a list of people you do not know, especially when the perc
 
 Now the student can either post answers to the list (a real confidence booster) or will be asking questions their mentor does not know the answer to. Both of which are less frightening than asking a potentially dumb question of your own. Once they have posted and not been shouted down the next post is easier.
   
-TODO: did your project experience this?  how did you deal with it?
 
 === Unproductivity ===
 
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
-TODO: did your project experience this?  how did you deal with it?  
