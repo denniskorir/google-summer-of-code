@@ -19,6 +19,8 @@ Not sure how to choose the best mentoring organization for you? How to write an 
 Check out the AdviceforStudents page.
 
 ==Useful Links==
+Want to submit an application to be a mentoring organization?  Visit the [http://groups.google.com/group/google-summer-of-code-announce/web/gsoc-mentor-organization-application-how-to Mentor Organization Application How-To page].
+
 If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate last year, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
 
 ==More Help==
@@ -32,6 +34,8 @@ Many thanks from the GSoC program administratation team to the Google Summer of 
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
+
+
 
 
 
