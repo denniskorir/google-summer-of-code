@@ -11,3 +11,7 @@ This year, one of our students asked if he could translate the flyer for us, and
 
 [http://code.google.com/soc/GSoCFlyer07.pdf English]
 
+[http://live.gnome.org/SummerOfCode2007/Poster Google Summer of Code flyer for GNOME]
+  * Available as SVG, PDF and PNG
+  * Languages: Arabic, English, Danish, Dutch, French, German, Greek, Macedonian, Spanish
+
