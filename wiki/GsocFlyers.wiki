@@ -9,7 +9,11 @@ This year, one of our students asked if he could translate the flyer for us, and
 
 [http://umit.sf.net/umit_proposals_2007/GSoCFlyer_PT_br_07.pdf Brasilian Portugese]
 
+[http://soc.bouwers.info/summercode_flyer_07_DUTCH.pdf Dutch]
+
 [http://code.google.com/soc/GSoCFlyer07.pdf English]
+
+[http://www.opsiland.info/summercode_flyer_07_ESPANOL.pdf Spanish]
 
 == Organization Specific Flyers ==
 
