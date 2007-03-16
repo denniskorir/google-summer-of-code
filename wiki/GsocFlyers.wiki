@@ -1,11 +1,15 @@
-#Flyers to Advertise the Google Summer of Code Program
+#summary Flyers to Advertise the Google Summer of Code Program
 
 = Advertising Google Summer of Code 2007 =
 
 Each year, we've created an English language flyer and asked the community to help us advertise the program by papering their local campuses and student watering holes.
 
-This year, one of our students asked if he could translate the flyer for us, and we're hoping more GSoCers follow suit.  All flyers are linked to below are PDF.
+This year, our community members have generously provided us with translations of the program flyer in various languages.  Some organizations have created their own flyers to advertise the program.
 
+== How You Can Help ==
+  * Translate the program flyer.  You can send the translated text via email to us at gsoc@google.com or by sharing a Google Doc with [mailto:lhospo@gmail.com Leslie Hawthorn] and [mailto:tlkgospo@gmail.com Tiffany Griffith].
+
+= Flyers =
 
 [http://umit.sf.net/umit_proposals_2007/GSoCFlyer_PT_br_07.pdf Brasilian Portugese]
 
