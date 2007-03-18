@@ -31,3 +31,6 @@ This year, our community members have generously provided us with translations o
   * English only
   * BSD Licensed
 
+[http://wiki.squeak.org/squeak/uploads/5935/SqueakSoCFlyer.pdf Squeak]
+  * Available as PDF
+  * English only
