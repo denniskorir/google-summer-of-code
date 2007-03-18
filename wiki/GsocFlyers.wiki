@@ -22,6 +22,10 @@ This year, our community members have generously provided us with translations o
 
 == Organization Specific Flyers ==
 
+[http://my.bzflag.org/w/Google_Summer_of_Code#Promotion_Flyers BZFlag]
+  * Available as PDF and PNG
+  * Languages: English, German, Spanish
+
 [http://fedoraproject.org/wiki/SummerOfCode/Posters The Fedora Project]
   * Available as SVG, PDF and PNG
   * Languages: English, French
