@@ -22,6 +22,10 @@ This year, our community members have generously provided us with translations o
 
 == Organization Specific Flyers ==
 
+[http://fedoraproject.org/wiki/SummerOfCode/Posters The Fedora Project]
+  * Available as SVG, PDF and PNG
+  * Languages: English, French
+
 [http://live.gnome.org/SummerOfCode2007/Poster GNOME]
   * Available as SVG, PDF and PNG
   * Languages: Arabic, English, Danish, Dutch, French, German, Greek, Macedonian, Spanish
