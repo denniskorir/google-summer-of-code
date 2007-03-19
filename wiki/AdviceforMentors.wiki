@@ -128,3 +128,6 @@ Now the student can either post answers to the list (a real confidence booster) 
 
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
 
+== More Resources ==
+
+Federico Mena-Quintero, GNOME mentor for GSoC 2006, has posted a great [http://primates.ximian.com/~federico/docs/summer-of-code-mentoring-howto/index.html mentoring how-to document].
