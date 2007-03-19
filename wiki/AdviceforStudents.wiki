@@ -6,6 +6,8 @@ Whether or not you're new to open source development, the work you'll do as part
 
 In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project for GSoC 2006, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
 
+Alex Russell from the Dojo Project has also posted some [http://alex.dojotoolkit.org/?p=604 great advice for students].
+
 = Applying to GSoC =
 
 == Choosing a Mentoring Organization ==
