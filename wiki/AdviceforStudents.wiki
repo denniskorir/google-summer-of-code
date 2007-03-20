@@ -8,6 +8,7 @@ In addition to the advice here, Patrick Barnes, organization administrator for t
 
 Alex Russell from the Dojo Project has also posted some [http://alex.dojotoolkit.org/?p=604 great advice for students].
 
+Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose posted PSU's application guidelines], which also contain some good overall tips for effective proposal writing in general.  Great advice from a mentor and organization administrator who has been with us for three year now.  :)
 
 = Applying to GSoC =
 
@@ -165,5 +166,4 @@ Angie Byron says:
   c) Each time you check something off, you're that much closer to being done!
 
   Some people use fancy-schmancy project planning tools and GANTT charts and all that kind of stuff to do this. I use post-it notes. :P I write down, "This is the stuff I have to do today," prioritize it by urgency, then take the first thing on that list and try and "think-through" what it would take to finish that, and write that on a separate page. Then I just go through and mark things off as I finish them, and voila! I can look back and see that I actually made progress today! ;)
-
 
