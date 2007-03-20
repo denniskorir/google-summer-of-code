@@ -34,6 +34,10 @@ This year, our community members have generously provided us with translations o
   * Available as SVG, PDF and PNG
   * Languages: Arabic, English, Danish, Dutch, French, German, Greek, Macedonian, Spanish
 
+[http://haiku-os.org/files/downloads/2007-03-15_gsoc2007-haiku-flyer.pdf Haiku]
+  * Available as PDF
+  * English only
+
 [http://pgfoundry.org/docman/view.php/1000047/466/soc_2007_flyer.odt PostgreSQL]
   * Available as ODT
   * English only
