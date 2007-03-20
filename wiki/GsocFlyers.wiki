@@ -12,11 +12,15 @@ This year, our community members have generously provided us with translations o
 
 = Flyers =
 
+All these flyers are available as PDF only.
+
 [http://umit.sf.net/umit_proposals_2007/GSoCFlyer_PT_br_07.pdf Brasilian Portugese]
 
 [http://soc.bouwers.info/summercode_flyer_07_DUTCH.pdf Dutch]
 
 [http://code.google.com/soc/GSoCFlyer07.pdf English]
+
+[http://people.xiph.org/~arek/summercode_flyer_07_polish.pdf Polish]
 
 [http://www.opsiland.info/summercode_flyer_07_ESPANOL.pdf Spanish]
 
