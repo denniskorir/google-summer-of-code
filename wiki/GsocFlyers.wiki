@@ -20,6 +20,8 @@ All these flyers are available as PDF only.
 
 [http://code.google.com/soc/GSoCFlyer07.pdf English]
 
+[http://www.quendi.de/data/summercode_flyer_07_german.pdf German]
+
 [http://people.xiph.org/~arek/summercode_flyer_07_polish.pdf Polish]
 
 [http://www.opsiland.info/summercode_flyer_07_ESPANOL.pdf Spanish]
