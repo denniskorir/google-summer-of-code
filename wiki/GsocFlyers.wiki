@@ -44,6 +44,10 @@ All these flyers are available as PDF only.
   * Available as PDF
   * English only
 
+[http://www.photopla.net/070322gsoc/ hugin/panotools]
+  * Many formats
+  * English only
+
 [http://pgfoundry.org/docman/view.php/1000047/466/soc_2007_flyer.odt PostgreSQL]
   * Available as ODT
   * English only
