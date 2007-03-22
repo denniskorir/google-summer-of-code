@@ -32,6 +32,10 @@ All these flyers are available as PDF only.
   * Available as PDF and PNG
   * Languages: English, German, Spanish
 
+[http://clam.iua.upf.edu/download/misc/soc-clam-flyer.png CLAM]
+  * Available as PNG
+  * English only
+
 [http://fedoraproject.org/wiki/SummerOfCode/Posters The Fedora Project]
   * Available as SVG, PDF and PNG
   * Languages: English, French
