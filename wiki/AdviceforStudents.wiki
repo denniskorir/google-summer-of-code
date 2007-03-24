@@ -10,6 +10,8 @@ Alex Russell from the Dojo Project has also posted some [http://alex.dojotoolkit
 
 Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose posted PSU's application guidelines], which also contain some good overall tips for effective proposal writing in general.  Great advice from a mentor and organization administrator who has been with us for three years now.  :)
 
+The folks at the Drupal project also have some great [http://drupal.org/node/59037 application guidelines for students].
+
 = Applying to GSoC =
 
 == Choosing a Mentoring Organization ==
