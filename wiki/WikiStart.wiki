@@ -2,7 +2,7 @@
 
 = Welcome to the GSoC Knowledge Base Wiki =
 
-*Looking for information on using the Google Summer of Code web app?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web web app documentation].*  You should also take some time to peruse the [http://code.google.com/support/bin/topic.py?topic=10442 program FAQs].
+*Looking for information on using the Google Summer of Code web app or the program mailing lists?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web documentation].*  You should also take some time to peruse the [http://code.google.com/support/bin/topic.py?topic=10442 program FAQs].
 
 == Purpose of this Wiki ==
 We've started this wiki to provide helpful advice for prospective and accepted Google Summer of Code^TM^ mentors and students, mostly composed by former mentors and students. Google's program administrators have also contributed to the wiki based on feedback we've received throughout the program's history.
