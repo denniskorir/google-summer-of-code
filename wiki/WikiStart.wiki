@@ -12,12 +12,16 @@ Remember, this wiki is meant to provide guidance *only*.  What works well for on
 The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:gsoc@google.com let us know]. 
 
 ==Useful Links==
-We've created a [http://googlesummerofcode.blogspot.com/ blog for the program] for 2007, as well as [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts program podcast].
+* [http://code.google.com/soc Google Summer of Code Program Page]
+* [http://googlesummerofcode.blogspot.com/ Google Summer of Code Blog]
+* [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts Google Summer of Code Podcast]
+* TODO: [http://code.google.com/support/bin/topic.py?topic=10442 Contest FAQ]
 
+TODO: Update me.
 Want to help spread the word about GSoC?  Some of our former students have translated our program [http://code.google.com/soc/GSoCFlyer07.pdf flyer] (pdf), so we're building a gallery of GsocFlyers.
 
+TODO: Update me.
 If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate last year, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
-
 
 ==Advice for Mentors==
 Wondering how to choose the best applicants for your project?  How to deal with a student reticent to post questions to the project-wide mailing list? How to keep your project's students engaged with the community long past the program's conclusion?  
@@ -38,12 +42,10 @@ The Program Announcement mailing list and Discussion list will remain open throu
 
 ===Knowledge Base Team==
 
-Many thanks from the GSoC program administratation team to the Google Summer of Code^TM^ community members who have shared their experiences in the program.  
+Many thanks from the GSoC program administration team to the Google Summer of Code^TM^ community members who have shared their experiences in the program.  
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
-
 
 
 
