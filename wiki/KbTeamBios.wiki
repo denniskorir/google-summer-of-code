@@ -41,9 +41,12 @@ I've been using and contributing to open source in various forms for about 10 ye
 
 For me the strength of GSoC is the fact that people come out of it knowing more about how to work in an open development community and how to help others become immersed in such a community. It's not just the mentees that learn, the mentors learn a great deal too.
 
+===Tim 'Mithro' Ansell - Thousand Parsec===
+As the founder of [http://www.thousandparsec.net/ Thousand Parsec] project, which was part of the GSoC 2007, I was both the project's administrative contact and a mentor for two students. I am actively involved in trying to promote Open Source game development by doing things like [http://http://miniconf.mel8ourne.org/wiki/index.php?title=Gaming running the Gaming Miniconf] at [http://linux.conf.au linux.conf.au].
+
+GSoC has been a huge success for our project and allowed us to do things we didn't have time for. We have also actively started targeting students outside GSoC and now have 3 students doing various projects as part of their course work.
+
 ===Wilco Jansen - Joomla!===
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
 Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
-
-
