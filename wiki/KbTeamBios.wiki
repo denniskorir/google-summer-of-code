@@ -7,11 +7,14 @@ Meet the contributors to the Google Summer of Code^tm^ Knowledge Base.
 _Please keep bios in order by first name._
 
 ===Angie Byron - Drupal===
-I got my start, both in the [http://drupal.org/ Drupal] project and as an open source developer, when I was a student during GSoC 2005. I am now completely immersed in the Drupal project, working full-time as a [http://lullabot.com Lullabot], and get to help with pretty much everything, including creating and testing core patches, documentation, user support, developing contributed modules, training, and even creating the odd graphic here and there.
+I got my start, both in the [http://drupal.org/ Drupal] project and as an open source developer, when I was a student during GSoC 2005. I am now completely immersed in the Drupal project, working full-time as a [http://lullabot.com Lullabot]. I help with pretty much everything Drupal-related, including creating and testing core patches, documentation, user support, developing contributed modules, training, and even creating the odd graphic here and there. I'm also on the Board of Directors of the [http://association.drupal.org/ Drupal Association].
 
-GSoC has completely transformed my life, and I'm eager to help make 2007 a rousing success so that others may experience this as well. :)
+GSoC has completely transformed my life, and I'm eager to help make future versions of the program a rousing success so that others may experience this as well. :)
 
 ===Leslie Hawthorn - Google, Inc.===
+
+TODO: Update me.
+
 2007 will be my second GSoC.  :)
 
 I held various roles at Google before joining the Open Source Program Office in March 2006, and I co-managed the Google Summer of Code program for 2006 along with cdibona & gstein.
@@ -20,6 +23,8 @@ In addition to all things GSoC, I host open source community conferences and hac
 
 ===Robert Douglass - Drupal===
 
+TODO: Update me.
+
 Back in 2007 for my 3rd Summer of Code :D
 
 I am a [http://lullabot.com Lullabot] by day, and a [http://drupal.org/user/5449 Drupal contributor], well, by day, by night, and all the rest of the time. I co-authored the [http://www.amazon.com/Building-Online-Communities-Drupal-WordPress/dp/1590595629/sr=8-3/qid=1171291491/ref=pd_bbs_sr_3/002-0249664-7274410?ie=UTF8&s=books very first book about Drupal], and am a technical review for [http://www.amazon.com/Pro-Drupal-Development-John-VanDyk/dp/1590597559/sr=8-2/qid=1171291491/ref=pd_bbs_sr_2/002-0249664-7274410?ie=UTF8&s=books another book], soon to be published.
@@ -27,6 +32,8 @@ I am a [http://lullabot.com Lullabot] by day, and a [http://drupal.org/user/5449
 Along the way I've seen how well the Summer of Code concept works, and want to share my experiences and any tips I have with others so that they get the most out of the program.
 
 ===Ross Gardler - The Apache Software Foundation===
+
+TODO: Update me
 
 My third GSoC season - I must be liking this thing.
 
@@ -38,7 +45,5 @@ For me the strength of GSoC is the fact that people come out of it knowing more 
 Joined SOC in 2006 as Joomla! SOC program manager, and will try to make the SOC program even better this year.
 
 Within the [http://www.joomla.org Joomla! project] I work as [http://dev.joomla.org/content/view/1992/53/ Development Workgroup] coordinator. All information about the [http://dev.joomla.org/content/view/1552/92/ Joomla! Google Summer of Code 2006] can be found in our [http://dev.joomla.org/component/option,com_jd-wp/Itemid,33/cat,19/ Summer Of Code Blog Category], we will also blog about the progress this year and try to share as much as information as possible.
-
-
 
 
