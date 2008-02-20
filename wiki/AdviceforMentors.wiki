@@ -75,6 +75,8 @@ Your project has quite a bit of control over the selection process. For example,
 
 It is also helpful to discuss with your mentors exactly what traits and qualities you are hoping to find in students through the application process. Communicating this to your applicants is also desirable. For instance, if your project hopes to solve a particular problem that requires very strong skills in some particular area, and you will be looking especially carefully for students who fit these needs, be clear about the fact during the application process. The better you are able to communicate what it is you are looking for, the easier and more transparent the selection process will be.
 
+An extreme but effective way to be sure that your students are up to the task is having qualification entry test. Nothing gives you more informations on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face the peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in few days.
+
 == Engaging Your Students ==
 
 Once accepted students will, in many cases, have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites, if not, now is the time.
