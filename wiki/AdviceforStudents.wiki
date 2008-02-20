@@ -4,11 +4,11 @@
 
 Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the "usual" way people are involved in developing free software.  The information on this page, written by GSoC students for students, is meant to help you choose a mentoring organization, write your application and hone your skills as an open source developer.
 
-In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project for GSoC 2006, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
+In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
 
 Alex Russell from the Dojo Project has also posted some [http://alex.dojotoolkit.org/?p=604 great advice for students].
 
-Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose posted PSU's application guidelines], which also contain some good overall tips for effective proposal writing in general.  Great advice from a mentor and organization administrator who has been with us for three years now.  :)
+Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose posted PSU's application guidelines], which also contain some good overall tips for effective proposal writing in general.  Great advice from a mentor and organization administrator who has been with us for many years.  :)
 
 The folks at the Drupal project also have some great [http://drupal.org/node/59037 application guidelines for students].
 
@@ -16,27 +16,27 @@ The folks at the Drupal project also have some great [http://drupal.org/node/590
 
 == Choosing a Mentoring Organization ==
 
+TODO: Update me?
+
 Alex Pico with GenMAPP has created a [http://genmapp.org/gsoc/mentors_by_category.htm categorized list of mentoring organizations for GSoC 2007].  The list is admittedly somewhat subjective, it may be of help to you in narrowing down the list of organizations you'd like to investigate.
 
 While you'll want to choose a mentoring organization based on your technical skill set, there are many other factors to consider.  Further, several organizations will require similar expertise from their students, so you may find yourself facing some challenging decisions about where to spend your time applying.  Here are a few suggestions to help you determine which organizations will be the best ones for you:
 
-  * Hang out in the organizations's IRC channel.  
-  * Subscribe to the organizations's development mailing list.
+  * Hang out in the organization's IRC channel.  
+  * Subscribe to the organization's development mailing list.
   * Read any introductory documentation on the code base.
   * Poke around in the issue tracker.
 
 When exploring these areas, ask yourself a few questions:
   * Do you feel like there is sufficient documentation available to help you get started?
-  *  Can you follow the IRC and mailing lists discussions or are you having trouble understanding them?  
+  * Can you follow the IRC and mailing lists discussions or are you having trouble understanding them?  
   * Do the personalities of the developers and community match well with yours?  
   * If you have a question, are you comfortable with the way it was answered?  Was the response helpful to you?
   * Do the organization's development philosophy and goals match yours well?
 
 If you don't find yourself answering yes to most of these questions, you may want to consider contributing more to this project outside of Google Summer of Code^TM^. 
 
-Additionally, some organizations are considering additional due diligence beyond just the application, such as interviews in IRC.  If you're asked to interview with an organization, remember that this interview is like every other interview you'll do throughout your career: both you and the organization are deciding if there is a good fit between the two of you.  Make sure to ask plenty of questions about the organization's expectations, development methodology, and any other matters that will help you decide if the organization is right for you.  Remember, the ultimate goal of Google Summer of Code^TM^ is to help you find a community that you'll be happy to continue contributing to long after the summer ends, so the more investigation you do up front, the better. 
-
-TODO: add any information about how you chose a mentoring organization, why you chose the one(s) you did, what initial positive indicators turned out to be spot on about the organization
+Additionally, some organizations are considering additional due diligence beyond just the application, such as interviews in IRC.  If you're asked to interview with an organization, remember that this interview is like every other interview you'll do throughout your career: both you and the organization are deciding if there is a good fit between the two of you.  Make sure to ask plenty of questions about the organization's expectations, development methodology, and any other matters that will help you decide if the organization is right for you.  Remember, the ultimate goal of Google Summer of Code^TM^ is to help you find a community that you'll be happy to continue contributing to long after the summer ends, so the more investigation you do up front, the better.
 
 Angie Byron says:
 
@@ -47,8 +47,6 @@ Angie Byron says:
 == Choosing a Project ==
 
 Remember, GSoC takes place over just three months, so choose a project that is reasonable to complete in that time frame.  While we've built additional time into the program to allow you to get up to speed on your organization's community and documentation before you start coding, we repeatedly hear from mentors that their students undertook projects which were too complex to complete within the GSoC time frame.  Undertaking an ambitious project is laudable, but don't choose a project and submit a proposal that will end up being too challenging and, therefore, frustrating for you.  If you're having trouble determining whether your idea needs further distillation or refining, consider talking with the organization's developers and asking for their thoughts; it's an excellent way to get to know them.
-  
-TODO: anything to add here?
 
 Angie Byron says:
 
@@ -60,9 +58,7 @@ Angie Byron says:
 
 == Writing Your Application ==
 
-Your mentoring organization may have a template they would like you to use, which will be available when you apply using the GSoC web app.  However, a template is just a start, and writing a proposal is very different than writing code or even an essay.  Don't forget that your online application can and should be supplemented with additional materials, such as links to your Curriculum Vitae, repository locations for other open source code you've committed, etc.  
-
-TODO: add any suggestions about writing an application, what looks good, what doesn't, any preparation you did before writing the app, any help you sought from your org when composing it, etc.
+Your mentoring organization may have a template they would like you to use, which will be available when you apply using the GSoC web app.  However, a template is just a start, and writing a proposal is very different than writing code or even an essay.  Don't forget that your online application can and should be supplemented with additional materials, such as links to your Curriculum Vitae, repository locations for other open source code you've committed, etc.
 
 Here are some suggestions to help you write your application, in addition to the suggestions in the FAQs:
 
@@ -93,16 +89,12 @@ Angie Byron says:
 == Responding to Requests for Further Information ==
 Often, a mentoring organization may ask you for further information or clarification on your proposal.  When responding to these requests, keep your responses concise and targeted.  Organizations are reviewing literally hundreds of proposals, so your ability to communicate clearly and effectively will be a great asset to you.  
 
-TODO: anything to add here?
-
 = Getting Started in GSoC =
 
 == Getting to Know Your Organization's Community ==
 
 While it's a great idea to due diligence in this area before submitting your proposal, should your application be accepted, you will definitely need to spend some time integrating with your organization's community.  How to best bond with your new developer colleagues will vary widely, but it's essential that you do so; this aspect of participating in GSoC is so important that Google is announcing the program over three months before coding begins to ensure that all students have time to get to know their organizations developer (and user) communities.  
 
-
-TODO: how did you bond with your community?  what did they do to help integrate you?  what helped and what did not?
 
 Angie Byron says:
 
@@ -121,8 +113,6 @@ Whether or not your proposal is accepted, you'll likely find yourself in a prett
 
 So, a word to the wise: you will say things that you will later wish you'd thought through more.  You will post questions that are not as articulate as you'd like.  You will make mistakes that you will later look back at and cringe, thinking "how could I have written this code?" These situations are just a part of life and are not unique to open source, so roll up your sleeves, thicken your skin and remember that failures are as much a part of gaining knowledge as successes.  
 
-TODO: add more here, personal anecdotal evidence is particularly useful here
-
 Angie Byron says:
 
   I was terrified the first time I went to introduce myself in the developer channel on IRC -- especially after I got flamed off the face of the planet for being off-topic. ;) A couple different things helped:
@@ -137,8 +127,6 @@ Angie Byron says:
 While your mentor is your primary point of contact with the organization, don't forget that there's an entire community out there to help you.  Communicate early and communicate often, both with your mentor and the community as a whole. Distributed development can be more difficult by its very nature, as you can't simply talk to your mentor in a hallway to get good advice; get used to being proactive in your questions, 
 
 Remember too that documenting your design decisions and any changes to your milestones or development plan, etc., will not only be useful to you, but will help to keep you and your mentor on the same page regarding expectations for your work.
-
-TODO: please add more here about communication styles, were regular communication channels set, what were they, what worked well, what didn't
 
 Angie Byron says:
 
@@ -157,9 +145,9 @@ A couple things can help with this:
 
 Angie Byron says:
 
-  The best advice I can give students regarding time management is to break their projects down into smaller, bite-sized chunks. "Finish my SoC project" is not a good thing at all to have on your to-do list. It creates one big, amorphus ball of "stuff" you have to do, and it's is easy to get demoralized when you see it staring at you every day. You can fall into a procrastination trap thinking, "Ugh... I don't even know where to start with this... I'll try again tomorrow..."
+  The best advice I can give students regarding time management is to break their projects down into smaller, bite-sized chunks. "Finish my SoC project" is not a good thing at all to have on your to-do list. It creates one big, amorphous ball of "stuff" you have to do, and it's is easy to get demoralized when you see it staring at you every day. You can fall into a procrastination trap thinking, "Ugh... I don't even know where to start with this... I'll try again tomorrow..."
 
-  Instead, break your project down into smaller, more manageable tasks like, "Research into foo thing to evaluate different approaches," "Write a function to do bar with baz and blah inputs that returns boing" and "Create icon for the yadda yadda button." Ths process accomplishes three things:
+  Instead, break your project down into smaller, more manageable tasks like, "Research into foo thing to evaluate different approaches," "Write a function to do bar with baz and blah inputs that returns boing" and "Create icon for the yadda yadda button." This process accomplishes three things:
 
   a) It will almost lay out a 'roadmap' to follow from start to completion if you do it thoroughly enough.
 
