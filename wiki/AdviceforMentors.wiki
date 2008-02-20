@@ -11,10 +11,10 @@ We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  
 
 There are a number of benefits to being a mentoring organisation in the Google Summer of Code^TM^. There is the obvious one, you get a paid software developer for a few months. But this is only the surface. Your mentors will learn more about how to effectively bring people into your community, how to make them feel involved and how to guide them through those difficult first steps into open source. As a result your project will be in a better position to guide new arrivals that come from more traditional channels.
 
-For this benefit to be fully realised it is important to ensure that your whole project community are on board with the mentoring task. Just because an individual is named as the mentor, it doesn't mean that they are the only one who deals with the mentees issues. The mentee is just another member of the community, just like any other. Of course the mentor has a few added responsibilities. It is them who has to ensure that the mentee is comfortable and that they are able to get the most from the community.
+For this benefit to be fully realised it is important to ensure that your whole project community are on board with the mentoring task. Just because an individual is named as the mentor, it doesn't mean that they are the only one who deals with the mentees issues. The mentee is just a member of the community, like any other. Of course the mentor has a few added responsibilities. It is them who has to ensure that the mentee is comfortable and that they are able to get the most from the community.
 
 Wilco Jansen Says:
-  Within our project (Joomla!) Summer Of Code 2006 mainly was targetted at technology research and community development involvement (student related). Last year was pretty successfull, we have indeed researched some new technology and four SOC participants (3 students and one mentor) joined our development team. This year we strive to also research some new technology, but also want to offer students to do some innovative work not only limiting it to the Joomla! framework, but also inter project solutions. For example we are building a Joomla! IDE based upon the Eclipse project, we try to get a project that does work on this area. Of course we hope to find new and inspiring talent that stay within the project to help out un future development.
+  Within our project (Joomla!) Summer Of Code 2006 mainly was targeted at technology research and community development involvement (student related). Last year was pretty successful, we have indeed researched some new technology and four SOC participants (3 students and one mentor) joined our development team. This year we strive to also research some new technology, but also want to offer students to do some innovative work not only limiting it to the Joomla! framework, but also inter project solutions. For example we are building a Joomla! IDE based upon the Eclipse project, we try to get a project that does work on this area. Of course we hope to find new and inspiring talent that stay within the project to help out in future development.
 
 == Creating Your "Ideas" List ==
 Choosing tasks to include on your project's ideas list can be challenging: some bugs may have remained open for years because a problem is extremely difficult to solve, some tasks which could bore a more advanced student may prove the perfect training ground for a less advanced student.  What steps can you take to make sure your project's Ideas list attracts the right mix of applicants?
@@ -95,7 +95,7 @@ Make it clear to the student that you will evaluate their performance based on t
 
 Approaches to mentoring as going to vary widely depending on individual and project preferences, but here are a few thoughts on how to effectively mentor your students that should at least be a good starting point for your organization.
 
-TODO: what did your project do to help your students be successful? what was the particular approach of your mentors that worked quite well?  anything approaches that you will never, never take again? 
+TODO: Fill me in. :) what did your project do to help your students be successful? what was the particular approach of your mentors that worked quite well?  anything approaches that you will never, never take again? 
 
 == Dealing with Common Mentoring Issues ==
 
@@ -119,14 +119,13 @@ It's a simple fact of life that we are not all going to get along with one anoth
 
 Google's program administrators have commonly heard that it can be difficult to get students to communicate on the project's main development mailing lists; many GSoC participants are new to open source development and sending questions to a public mailing list can be an intimidating prospect.  Even for those not new to open source, posting a question to a mailing list when you know that the project founder and lead developers are subscribers can cause great trepidation.
 
-It's scary posting to a list of people you do not know, especially when the perception is that they all know more than you. So, consider how to lower them into the list gently. One trick is to ask them a few questions about integrating their work with existing code. Ask these questions in your initial welcome mail (sent off list) and suggest that you do not know the answers, but someone on the list will. 
+It's scary posting to a list of people you do not know, especially when the perception is that they all know more than you. So, consider how to lower them into the list gently. One trick is to ask them a few questions about integrating their work with existing code. Ask these questions in your initial welcome mail (sent off list) and suggest that you do not know the answers, but someone on the list will.
 
 Now the student can either post answers to the list (a real confidence booster) or will be asking questions their mentor does not know the answer to. Both of which are less frightening than asking a potentially dumb question of your own. Once they have posted and not been shouted down the next post is easier.
-  
 
 === Unproductivity ===
 
-There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.    
+There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.
 
 == More Resources ==
 
