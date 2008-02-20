@@ -1,5 +1,7 @@
 #summary Flyers to Advertise the Google Summer of Code Program
 
+TODO: Update me.
+
 = Advertising Google Summer of Code 2007 =
 
 Each year, we've created an English language flyer and asked the community to help us advertise the program by papering their local campuses and student watering holes.
