@@ -1,4 +1,4 @@
-#summary Advice for GSoC Mentoring Organizations and Mentors
+﻿#summary Advice for GSoC Mentoring Organizations and Mentors
 
 = Welcome to the Advice for GSoC Mentors Page =
 
@@ -116,6 +116,9 @@ Get rid of the freeloaders quickly. There is no point in wasting your volunteer 
 
 It's a simple fact of life that we are not all going to get along with one another all the time.  That said, there can be times when a student and mentor are well matched technically, but not personality-wise.  There may be times when a student feels her/his mentor's expectations are unreasonable or unfair.  In order to be best prepared, your organization should have a clear plan about dealing with personality conflicts.
 
+Tim 'Mithro' Ansell says:
+
+   Our organisation tries to make it clear that a student can approach *any* mentor if there are problems. This gives the students an easy way to talk about problems with their mentors. This was specially important in our organisation as I was both  a mentor and the project administrator. It also gives the student a choice of mentors to talk too.
 
 === Shy Students ===
 
