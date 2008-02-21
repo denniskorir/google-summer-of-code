@@ -1,4 +1,4 @@
-#summary Advice for GSoC Students
+﻿#summary Advice for GSoC Students
 
 = Welcome to the Advice for GSoC Students Page =
 
@@ -76,7 +76,7 @@ Here are some suggestions to help you write your application, in addition to the
 
 Tim 'Mithro' Ansell says:
 
-  ﻿*Don't wait until the last minute!!!* (Yes, that is worth 3 exclamation points.) I can not stress how important it is to *not* wait till the last minute. ﻿Applications can be updated right up to the deadline. If you submit your application early, many organisations will give you feedback allowing you to improve your application! 
+  *Don't wait until the last minute!!!* (Yes, that is worth 3 exclamation points.) I can not stress how important it is to *not* wait till the last minute. Applications can be updated right up to the deadline. If you submit your application early, many organisations will give you feedback allowing you to improve your application! 
   All the successful applications for Thousand Parsec had *at least 3 revisions* before the final deadline.
 
 Angie Byron says:
