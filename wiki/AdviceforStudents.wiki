@@ -161,3 +161,11 @@ Angie Byron says:
   c) Each time you check something off, you're that much closer to being done!
 
   Some people use fancy-schmancy project planning tools and GANTT charts and all that kind of stuff to do this. I use post-it notes. :P I write down, "This is the stuff I have to do today," prioritize it by urgency, then take the first thing on that list and try and "think-through" what it would take to finish that, and write that on a separate page. Then I just go through and mark things off as I finish them, and voila! I can look back and see that I actually made progress today! ;)
+
+Luca Barbato says:
+
+  Some projects enforce in a strict way the "commit early, commit often" model, sometimes adding the constraint of having the commit not break the build, that is more or less a generalization of what Angie suggested and you should consider using both: split your project in tasks, complete each task by small _traceable_ steps/commits.
+  Even if this method is quite effective, it is usually clashing with the tendency to perfect the code before even thinking about commit:
+  - Do not be afraid of pushing some code, getting feedback is important and fixing issues early usually spare lots of work later.
+  - Do not be afraid of being considered dumb because a commit is: everybody does make mistakes, just few are good enough to accept that and fix them timely.
+  Having smaller commits, one or more for each conceptual change, helps the mentors tracking your progress, makes you spare quite a lot of time bug hunting since there are many semi-automated tools to bisect the history and overall makes the casual observer feel there is lots of activity.
