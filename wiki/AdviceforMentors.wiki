@@ -99,6 +99,13 @@ Make it clear to the student that you will evaluate their performance based on t
 
 Approaches to mentoring as going to vary widely depending on individual and project preferences, but here are a few thoughts on how to effectively mentor your students that should at least be a good starting point for your organization.
 
+Augie Fackler says:
+ For contact with a mentor, a regular status report is a fantastic idea. We didn't do this with Adium in 2006, and we had much better results overall when we required a status report from all students once every two weeks. It wasn't anything special, just a brief "this is what is going well, this is what is not" email from the student to the mentor and organization admin. Also, keep a "spare" mentor around - someone who can reasonably answer questions and could bear part of the burden of mentoring. That will help if one of your mentors isn't available for some reason
+
+Ideally, a student will participate in the community. Try to have discussions (especially design discussions) in the regular way, even if it ends up just being a thread between the student and the mentor. The log of the discussion could be useful for other students or just the community at large. If you have regular online meetings of the core development team (on IRC, for example), the students should be invited to attend.
+
+If you're using Subversion, don't make the mistake Adium did last year and move a student to trunk before the end of the summer - we had to write a script to parse which changes belonged to him and which didn't. It's far better to have the work all in one place.
+
 TODO: Fill me in. :) what did your project do to help your students be successful? what was the particular approach of your mentors that worked quite well?  anything approaches that you will never, never take again? 
 
 == Dealing with Common Mentoring Issues ==
@@ -133,6 +140,9 @@ Now the student can either post answers to the list (a real confidence booster) 
 === Unproductivity ===
 
 There will always be times when there are productivity lulls, but determining how to best motivate a student when such a lull occurs is never easy.  The lull may be caused by a variety of factors: the student may take vacation, have a family emergency, or realize that the project is far beyond the scope of her/his expertise, etc.
+
+Augie Fackler says:
+ Our students have always given us scheduled things like vacations as part of their timeline for completion so we know in advance how many "real" weeks of coding they're going to do. It's been nice to have. Don't be afraid to ask a student for information about planned vacations that could take them away from the computer.
 
 == More Resources ==
 
