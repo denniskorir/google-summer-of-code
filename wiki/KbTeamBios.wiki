@@ -11,6 +11,9 @@ I got my start, both in the [http://drupal.org/ Drupal] project and as an open s
 
 GSoC has completely transformed my life, and I'm eager to help make future versions of the program a rousing success so that others may experience this as well. :)
 
+===Augie Fackler - Adium===
+I've been a mentor for Adium for both the 2006 and 2007 GSoCs, and have seen a lot of what can be done right or wrong with respect to mentoring and interacting with students. We did a dismal job as a project in 2006, and did much better (from our perspective, anyway) in 2007. At this point, my role is working with the -vv branch of Adium, working to make automated scripts to build dependencies as native frameworks.
+
 ===Leslie Hawthorn - Google, Inc.===
 
 TODO: Update me.
