@@ -92,7 +92,10 @@ Angie Byron says:
   Finally, came submission time. I sent the application to a teacher first for some last-minute proof-reading, and then onto the bounty's mentor as a final check. He gave the thumbs up and I submitted it. Then I spent pretty much every waking moment of the next few weeks with my stomach clenched in anticipation/fear. ;)
 
 == Responding to Requests for Further Information ==
-Often, a mentoring organization may ask you for further information or clarification on your proposal.  When responding to these requests, keep your responses concise and targeted.  Organizations are reviewing literally hundreds of proposals, so your ability to communicate clearly and effectively will be a great asset to you.  
+Often, a mentoring organization may ask you for further information or clarification on your proposal.  When responding to these requests, keep your responses concise and targeted.  Organizations are reviewing literally hundreds of proposals, so your ability to communicate clearly and effectively will be a great asset to you.
+
+Augie Fackler says:
+ Try to be prompt in responding to requests for information - if you take too long, it may be seen by the potential mentors as a lack of desire on the project.
 
 = Getting Started in GSoC =
 
