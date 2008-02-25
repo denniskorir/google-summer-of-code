@@ -5,9 +5,9 @@
 *Looking for information on using the Google Summer of Code web app or the program mailing lists?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web documentation].*  You should also take some time to peruse the [http://code.google.com/support/bin/topic.py?topic=10442 program FAQs].
 
 == Purpose of this Wiki ==
-We've started this wiki to provide helpful advice for prospective and accepted Google Summer of Code^TM^ mentors and students, mostly composed by former mentors and students. Google's program administrators have also contributed to the wiki based on feedback we've received throughout the program's history.
+We started this wiki to provide helpful advice to prospective and accepted Google Summer of Code^TM^ mentors and students. Most of the content here has been created by mentors and students, with Google's program administrators also contributing to the wiki based on feedback we've received throughout the program's history.
 
-Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on the wiki will be a useful starting point in drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that would be helpful.
+Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on this wiki will be a useful starting point for drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that could be helpful.
 
 The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:gsoc@google.com let us know]. 
 
@@ -17,13 +17,13 @@ The wiki is a work in progress, so if you see any sections marked "TODO" they wi
   * [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts Google Summer of Code Podcast]
   * TODO: [http://code.google.com/support/bin/topic.py?topic=10442 Contest FAQ]
 
-TODO: Update me.
+*TODO**: Update me.
 
 Want to help spread the word about GSoC?  Some of our former students have translated our program [http://code.google.com/soc/GSoCFlyer07.pdf flyer] (pdf), so we're building a gallery of GsocFlyers.
 
-TODO: Update me.
+*TODO*: Update me.
 
-If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate last year, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
+If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate in 2006, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
 
 ==Advice for Mentors==
 Wondering how to choose the best applicants for your project?  How to deal with a student reticent to post questions to the project-wide mailing list? How to keep your project's students engaged with the community long past the program's conclusion?  
@@ -31,7 +31,7 @@ Wondering how to choose the best applicants for your project?  How to deal with 
 Check out the AdviceforMentors page.
 
 ==Advice for Students==
-Not sure how to choose the best mentoring organization for you? How to write an effective application?  How to approach dealing with your (perhaps super-famous) mentor?
+Not sure how to choose the best mentoring organization for yourself? How to write an effective application?  How to approach dealing with your (perhaps super-famous) mentor?
 
 Check out the AdviceforStudents page.
 
@@ -48,8 +48,6 @@ Many thanks from the GSoC program administration team to the Google Summer of Co
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
-
 
 
 
