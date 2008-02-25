@@ -16,13 +16,12 @@ I've been a mentor for Adium for both the 2006 and 2007 GSoCs, and have seen a l
 
 ===Leslie Hawthorn - Google, Inc.===
 
-TODO: Update me.
 
 2008 will be my third GSoC.  :)
 
-I held various roles at Google before joining the Open Source Program Office in March 2006, and I co-managed the Google Summer of Code program for 2006 along with cdibona & gstein.
+I held various roles at Google before joining the Open Source Program Office in March 2006, and I manage GSoC and [http://code.google.com/ghop/2007-8 GHOP].
 
-In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder].
+In addition to all things students and open source, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder]. 
 
 ===Marty Connor - Etherboot Project===
 
