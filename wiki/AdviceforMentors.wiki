@@ -28,7 +28,7 @@ The lesson here? To attract the widest variety of students, provide a variety of
 
 === Scope and Scale ===
 
-It is in everybody's best interest that your students complete their projects with flying colors. A small amount of useful code is worth more than a mountain of almost finished code. A happy student at the end of the summer is more likely to keep working on his/her project than a frustrated one. Choose the scope and scale of your projects to reflect the following constraints:
+It is in everybody's best interest that your students complete their projects with flying colors. A small amount of useful code is worth more than a mountain of almost finished code. A happy student at the end of the program is more likely to keep working on his/her project than a frustrated one. Choose the scope and scale of your projects to reflect the following constraints:
 
   * The brief duration of the program.
   * The initial time that will be spent managing infrastructure and getting things set up.
@@ -39,7 +39,7 @@ Therefore, whether the idea for the project comes from you or from your student,
 
 === Generating Ideas ===
 
-The Summer of Code project can be useful to your project in ways that are not directly tied to gaining code and new contributors. For example, most projects have a portion of their community that is brimming with ideas and feature requests, but is not directly able to initiate the implementation of their ideas (ie they can't code). These are the people you want to engage when creating proposals for students to work on. Use your project's website and mailing list to collect ideas from all segments of your community, and keep them up to date with the status of the projects as the program progresses. Your students and your community will benefit from this. 
+_Google Summer of Code_ can be useful to your project in ways that are not directly tied to gaining code and new contributors. For example, most projects have a portion of their community that is brimming with ideas and feature requests, but is not directly able to initiate the implementation of their ideas (ie they can't code). These are the people you want to engage when creating proposals for students to work on. Use your project's website and mailing list to collect ideas from all segments of your community, and keep them up to date with the status of the projects as the program progresses. Your students and your community will benefit from this. 
 
 === Be Accessible ===
 
@@ -54,11 +54,11 @@ In most mentor organisations there will be more applications than slots availabl
 
 A good rule of thumb when finding and assigning mentors is to have two mentors per student. It is also a good idea to have a spare mentor or two who can pay attention to many students and keep track of the big picture. 
 
-Why so many mentors? Assisting in someone's learning is a time-intensive operation. You must be able to keep up with the details and development of the project and be willing to spend time, even daily, communicating with the student. Furthermore, it is the Summer, and chances are, you'll be taking some time off along the way. Having two mentors helps guarantee that neither one gets too heavily burdened by the responsibility of mentoring, and helps avoid the situation where a student's progress is blocked by an unavailable mentor.
+Why so many mentors? Assisting in someone's learning is a time-intensive operation. You must be able to keep up with the details and development of the project and be willing to spend time, even daily, communicating with the student. Chances are you'll be taking some time off during the program, or get otherwise caught up with real life. Having two mentors helps guarantee that neither one gets too heavily burdened by the responsibility of mentoring, and helps avoid the situation where a student's progress is blocked by an unavailable mentor.
 
 It helps ease the burden of the individual mentors if you encourage your student to tap the wider community resources available to your project. Do you have developer mailing lists, support forums, IRC channels or a wiki? All of these should be on the list of places for students to go to get help. While it is the mentor's job to be personally involved in the student's success, it is all too easy for the student to view the mentor as one-stop-shopping for answers and support.
 
-It's almost impossible to put a figure to how much time mentors will spend with students. It depends a great deal on the student, the level of community support, the project structure and many factors completely out of the control of those involved. However, as a rule of thumb, Apache mentors have reported that they spent between 1 and 4 hours per week assisting students in previous years.
+It's almost impossible to put a figure to how much time mentors will spend with students. It depends a great deal on the student, the level of community support, the project structure and many factors completely out of the control of those involved. However, as a rule of thumb, most mentors have reported that they spent about five hours per week working with their student.
 
 == Reviewing Student Applications ==
 
@@ -68,26 +68,26 @@ During the selection process, it is important to have good communication lines o
 
 You will most likely want to start your reviewing process by eliminating those applications which clearly don't meet the standards of the program. Whether the applicant lacks qualifications, or is simply proposing something that doesn't fit to your project, paring down the field before seriously reviewing the top applications is a big time saver.
 
-Your project has quite a bit of control over the selection process. For example, some projects require an interview with the students before they make their final selections. This can be done via IRC, phone, Email, or however you choose. This is not a requirement, but it may serve to connect you with the applicants who will work best with your project.
+Your project has quite a bit of control over the selection process. For example, some projects require an interview with the students before they make their final selections. This can be done via IRC, phone, email, or however you choose. This is not a requirement, but it may serve to connect you with the applicants who will work best with your project.
 
 It is also helpful to discuss with your mentors exactly what traits and qualities you are hoping to find in students through the application process. Communicating this to your applicants is also desirable. For instance, if your project hopes to solve a particular problem that requires very strong skills in some particular area, and you will be looking especially carefully for students who fit these needs, be clear about the fact during the application process. The better you are able to communicate what it is you are looking for, the easier and more transparent the selection process will be.
 
-An extreme but effective way to be sure that your students are up to the task is having qualification entry test. Nothing gives you more informations on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face the peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in few days.
+An extreme but effective way to be sure that your students are up to the task is having a qualification entry test. Nothing gives you more informations on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in few days.  Some projects have asked all applicants to submit a patch before submitting their program application and have reported that the excercise was very useful.
 
 == Engaging Your Students ==
 
-Once accepted students will, in many cases, have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites, if not, now is the time.
+Once accepted students will, in many cases, have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites; if not, now is the time to do it.
 
 Reassure the student that the community will help them understand the new processes and technologies they face. Make it clear that, as long as they can demonstrate that they read whatever documentation is available, i.e. they can ask an informed question, the community will be more than happy to provide additional guidance (especially if the student then clarifies the documentation).
 
 It is also important that the students should concentrate on what they will bring to the project, they should ask themselves every day if what they are doing is creating value for the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
 
 Tim 'Mithro' Ansell says:
-   I feel it is important to make the student feel part of the community. This can be done a number of ways, in Thousand Parsec when students passed the mid-term evaluation we sent them a Thousand Parsec tshirt as a suprise (it's all about the tshirt). Other things like announcing that they have passed and advertising their progress also helps. Try and get *other people* to test the student's code, nothing is cooler then having the project's founder lodge a bug report against your code :)
+   I feel it is important to make the student feel part of the community. This can be done a number of ways.  For Thousand Parsec, when students passed the mid-term evaluation we sent them a project t-shirt as a suprise (it's all about the tshirt). Other things like announcing that they have passed and advertising their progress also helps. Try and get *other people* to test the student's code, nothing is cooler then having the project's founder lodge a bug report against your code :)
 
 == Communication ==
 
-Since one of the objectives of GSoC is to introduce students to real open source development, it is (in my view) important that communications are only made through the usual community channels. Furthermore. students should not be forced to do anything that other contributors do not do, so if the student wants to blog, let them do so, but do not force them.
+Since one of the objectives of GSoC is to introduce students to real open source development, it is important that communications are only made through the usual community channels. Furthermore, students should not be forced to do anything that other contributors do not do. If the student wants to blog, let them do so, but do not force them; requiring progress reports is a reasonable course of action, however.
 
 Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated solely on what they produce, but also on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
 
@@ -115,7 +115,7 @@ Don't bother hunting for missing students. A couple of mails along the lines of 
 
 For students who disappear without notice and then reappear it is important to set some early (and tough) objectives for them to meet in order to catch up. If their absence was genuinely unavoidable they will be happy to work at meeting these objectives. If they are a freeloader they will spend more time coming up with excuses.
 
-Get rid of the freeloaders quickly. There is no point in wasting your volunteer time and Google's money on such people.
+Get rid of the freeloaders quickly. There is no point in wasting your volunteer time on such people.
 
 
 === Personality Conflicts ===
@@ -124,7 +124,7 @@ It's a simple fact of life that we are not all going to get along with one anoth
 
 Tim 'Mithro' Ansell says:
 
-   Our organisation tries to make it clear that a student can approach *any* mentor if there are problems. This gives the students an easy way to talk about problems with their mentors. This was specially important in our organisation as I was both  a mentor and the project administrator. It also gives the student a choice of mentors to talk too.
+Our organisation tries to make it clear that a student can approach *any* mentor if there are problems. This gives the students an easy way to talk about problems with their mentors. This was specially important in our organisation as I was both  a mentor and the project administrator. It also gives the student a choice of mentors to talk too.
 
 === Shy Students ===
 
