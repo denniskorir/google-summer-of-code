@@ -2,7 +2,7 @@
 
 = Welcome to the GSoC Knowledge Base Wiki =
 
-*Looking for information on using the Google Summer of Code web app or the program mailing lists?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web documentation].*  You should also take some time to peruse the [http://code.google.com/support/bin/topic.py?topic=10442 program FAQs].
+*Looking for in-depth information on using the Google Summer of Code web app or the program mailing lists?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web additional program documentation]. Most other questions will be answered by our [http://code.google.com/soc/2008/faqs.htnl program FAQs].
 
 == Purpose of this Wiki ==
 We started this wiki to provide helpful advice to prospective and accepted Google Summer of Code^TM^ mentors and students. Most of the content here has been created by mentors and students, with Google's program administrators also contributing to the wiki based on feedback we've received throughout the program's history.
@@ -15,13 +15,15 @@ The wiki is a work in progress, so if you see any sections marked "TODO" they wi
   * [http://code.google.com/soc Google Summer of Code Program Page]
   * [http://googlesummerofcode.blogspot.com/ Google Summer of Code Blog]
   * [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts Google Summer of Code Podcast]
-  * TODO: [http://code.google.com/support/bin/topic.py?topic=10442 Contest FAQ]
 
-*TODO**: Update me.
+==Help Wanted==
+We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GSoCFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather.  We can also use help in translating the flyer.  
 
-Want to help spread the word about GSoC?  Some of our former students have translated our program [http://code.google.com/soc/GSoCFlyer07.pdf flyer] (pdf), so we're building a gallery of GsocFlyers.
 
-*TODO*: Update me.
+
+==Information on Past Years==
+We started a [http://googlesummerofcode.blogspot.com program blog] last year, where you can read about several of the highlights from 2007.
+
 
 If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate in 2006, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
 
@@ -48,8 +50,6 @@ Many thanks from the GSoC program administration team to the Google Summer of Co
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
-
 
 
 
