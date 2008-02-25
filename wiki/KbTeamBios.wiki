@@ -18,11 +18,19 @@ I've been a mentor for Adium for both the 2006 and 2007 GSoCs, and have seen a l
 
 TODO: Update me.
 
-2007 will be my second GSoC.  :)
+2008 will be my third GSoC.  :)
 
 I held various roles at Google before joining the Open Source Program Office in March 2006, and I co-managed the Google Summer of Code program for 2006 along with cdibona & gstein.
 
 In addition to all things GSoC, I host open source community conferences and hackathons at Google, usually at our [http://maps.google.com/maps?f=q&hl=en&q=1600+Amphitheatre+Pky,+Mountain+View,+CA+94043&ie=UTF8&z=15&ll=37.422833,-122.085056&spn=0.018132,0.042057&t=k&om=1&iwloc=addr corporate headquarters]. I'm proud to be known as [http://www.flickr.com/photos/41128780@N00/296375336 Google's geek herder].
+
+===Marty Connor - Etherboot Project===
+
+I am Project Leader for for the [http://etherboot.org/ Etherboot Project]. Our project has participated in GSoC since 2006. I enjoy the art and craft of creating software as well as that of creating community. I am interested many things -- music, dancing, science, art, philosophy, bowling, and amateur radio, to name a few.  I find the Open Source community to be a great place to add to a sharable common body of knowledge that enriches us all.
+
+I have greatly enjoyed being a GSoC Project Admin and Mentor for our project.  Helping students gain a better understand of their craft and themselves has been very rewarding for me.
+
+In my professional life, I am the Founder and CEO of [http://entity.com/ Entity Cyber, Inc.] For 20 years I have had the privilege of working with companies to help them to get the most out of their technology assets, and to make informed choices when investing in information tools and infrastructure.
 
 ===Robert Douglass - Drupal===
 
