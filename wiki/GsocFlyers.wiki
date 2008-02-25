@@ -1,18 +1,51 @@
 #summary Flyers to Advertise the Google Summer of Code Program
 
-TODO: Update me.
+= Advertising Google Summer of Code 2008 =
 
-= Advertising Google Summer of Code 2007 =
+If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
 
-Each year, we've created an English language flyer and asked the community to help us advertise the program by papering their local campuses and student watering holes.
+== Translation Help ==
 
-This year, our community members have generously provided us with translations of the program flyer in various languages.  Some organizations have created their own flyers to advertise the program.
+If you would like to help us by localizing the program flyer, please:
+  * comment on this wiki page that you plan to translate the flyer into a particular language
+  * download the English language template ([http://google-summer-of-code.googlecode.com/files/english_gsoc2008flyer.pdf .odt])
+  * send the translated version to [mailto:lhospo@gmail.com Leslie Hawthorn]  
 
-== How You Can Help ==
-  * Translate the program flyer.  You can send the translated text via email to our [mailto:gsoc@google.com support alias] or place it in a [http://docs.google.com Google Doc] shared with [mailto:lhospo@gmail.com Leslie Hawthorn] and [mailto:tlkgospo@gmail.com Tiffany Griffith].  We'll send you a PDF copy of the translated flyer to post on your site, then we'll link to it from this page.
-  * Create your own GSoC promotional materials and tell us about it.  We'll link to them from this page.
+Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
 
-= Flyers =
+Alternatively, you're welcome to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from this page.
+
+= 2008 Flyers =
+
+All of these flyers are available as PDF only.
+
+[http://google-summer-of-code.googlecode.com/files/BrazilianPortuguese-gsoc2008.pdf Brasilian Portuguese]
+
+[http://google-summer-of-code.googlecode.com/files/schinese_gsoc2008flyer.pdf Chinese (Simplified)]
+
+[http://google-summer-of-code.googlecode.com/files/tchinese_gsoc2008flyer.pdf Chinese (Traditional)]
+
+[http://google-summer-of-code.googlecode.com/files/dutch-gsoc2008.pdf Dutch]
+
+[http://google-summer-of-code.googlecode.com/files/english_gsoc2008flyer.pdf English]
+
+[http://google-summer-of-code.googlecode.com/files/German-gsoc2008.pdf German]
+
+[http://google-summer-of-code.googlecode.com/files/Italian-gsoc2008.pdf Italian]
+
+[http://google-summer-of-code.googlecode.com/files/Japanese-gsoc2008.pdf Japanese]
+
+[http://google-summer-of-code.googlecode.com/files/Russian-gsoc2008flyer.pdf Russian]
+
+[http://google-summer-of-code.googlecode.com/files/spanish-gsoc2008flyer.pdf Spanish]
+
+[http://google-summer-of-code.googlecode.com/files/swedish-gsoc2008flyer.pdf Swedish]
+
+= 2007 Flyers =
+
+Just in case you're feeling nostalgic, you can take a look at these flyers from [http://code.google.com/soc/2007/ 2007].
+
+== Standard Google Flyer ==
 
 All these flyers are available as PDF only.
 
