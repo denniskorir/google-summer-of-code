@@ -16,7 +16,7 @@ For this benefit to be fully realised it is important to ensure that your whole 
 == Creating Your "Ideas" List ==
 Choosing tasks to include on your project's ideas list can be challenging: some bugs may have remained open for years because a problem is extremely difficult to solve, some tasks which could bore a more advanced student may prove the perfect training ground for a less advanced student.  What steps can you take to make sure your project's Ideas list attracts the right mix of applicants?
 
-=== Be Specific. No, Be General ===
+=== Be Specific. No, Be General. ===
 
 Some students will be attracted to ideas that are carefully described and documented by your team. Providing a thorough roadmap for the implementation of the idea helps prospective students judge whether they are a good fit for the program, and whether they feel confident in their ability to actually complete the work. 
 
