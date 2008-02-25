@@ -16,9 +16,7 @@ The folks at the Drupal project also have some great [http://drupal.org/node/590
 
 == Choosing a Mentoring Organization ==
 
-TODO: Update me?
-
-Alex Pico with GenMAPP has created a [http://genmapp.org/gsoc/mentors_by_category.htm categorized list of mentoring organizations for GSoC 2007].  The list is admittedly somewhat subjective, it may be of help to you in narrowing down the list of organizations you'd like to investigate.
+Alex Pico with GenMAPP created a [http://genmapp.org/gsoc/mentors_by_category.htm categorized list of mentoring organizations for GSoC 2007].  The list is admittedly somewhat subjective, it may be of help to you in narrowing down the list of organizations you'd like to investigate.
 
 While you'll want to choose a mentoring organization based on your technical skill set, there are many other factors to consider.  Further, several organizations will require similar expertise from their students, so you may find yourself facing some challenging decisions about where to spend your time applying.  Here are a few suggestions to help you determine which organizations will be the best ones for you:
 
