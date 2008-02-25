@@ -72,15 +72,15 @@ Your project has quite a bit of control over the selection process. For example,
 
 It is also helpful to discuss with your mentors exactly what traits and qualities you are hoping to find in students through the application process. Communicating this to your applicants is also desirable. For instance, if your project hopes to solve a particular problem that requires very strong skills in some particular area, and you will be looking especially carefully for students who fit these needs, be clear about the fact during the application process. The better you are able to communicate what it is you are looking for, the easier and more transparent the selection process will be.
 
-An extreme but effective way to be sure that your students are up to the task is having a qualification entry test. Nothing gives you more informations on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in few days.  Some projects have asked all applicants to submit a patch before submitting their program application and have reported that the excercise was very useful.
+An extreme but effective way to be sure that your students are up to the task is having a qualification entry test. Nothing gives you more information on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in a few days.  Some projects have asked all applicants to submit a patch before submitting their program application and have reported that the excercise was very useful.
 
 == Engaging Your Students ==
 
-Once accepted students will, in many cases, have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites; if not, now is the time to do it.
+Once accepted, students will in many cases have no idea where to start. So, the first thing to do is to send them a mail with links to community resources describing how to contribute to the project. That is, how to record a bug, how to create a patch, how to discus design issues etc. Many projects will already have this documented and available on their web sites; if not, now is the time to do it.
 
 Reassure the student that the community will help them understand the new processes and technologies they face. Make it clear that, as long as they can demonstrate that they read whatever documentation is available, i.e. they can ask an informed question, the community will be more than happy to provide additional guidance (especially if the student then clarifies the documentation).
 
-It is also important that the students should concentrate on what they will bring to the project, they should ask themselves every day if what they are doing is creating value for the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
+It is also important that the students should concentrate on what they will bring to the project. They should ask themselves every day if what they are doing is creating value for the project. If it does, they will benefit from that automatically, but if they concentrate on what they are getting out of GSoC, such as the money, they are much more likely to fail.
 
 Tim 'Mithro' Ansell says:
    I feel it is important to make the student feel part of the community. This can be done a number of ways.  For Thousand Parsec, when students passed the mid-term evaluation we sent them a project t-shirt as a suprise (it's all about the tshirt). Other things like announcing that they have passed and advertising their progress also helps. Try and get *other people* to test the student's code, nothing is cooler then having the project's founder lodge a bug report against your code :)
@@ -91,10 +91,9 @@ Since one of the objectives of GSoC is to introduce students to real open source
 
 Make it clear to the student that you will evaluate their performance based on the way they interact with and report to the community. They should not be evaluated solely on what they produce, but also on their contribution to the open source project as a whole. Clearly code contribution is important, but so is community contribution. Therefore, communication via the normal project channels is an important part of their GSoC experience.
 
-
 == Mentoring Best Practices ==
 
-Approaches to mentoring as going to vary widely depending on individual and project preferences, but here are a few thoughts on how to effectively mentor your students that should at least be a good starting point for your organization.
+Approaches to mentoring are going to vary widely depending on individual and project preferences, but here are a few thoughts on how to effectively mentor your students that should at least be a good starting point for your organization.
 
 Augie Fackler says:
  For contact with a mentor, a regular status report is a fantastic idea. We didn't do this with Adium in 2006, and we had much better results overall when we required a status report from all students once every two weeks. It wasn't anything special, just a brief "this is what is going well, this is what is not" email from the student to the mentor and organization admin. Also, keep a "spare" mentor around - someone who can reasonably answer questions and could bear part of the burden of mentoring. That will help if one of your mentors isn't available for some reason
@@ -104,6 +103,18 @@ Ideally, a student will participate in the community. Try to have discussions (e
 If you're using Subversion, don't make the mistake Adium did last year and move a student to trunk before the end of the summer - we had to write a script to parse which changes belonged to him and which didn't. It's far better to have the work all in one place.
 
 TODO: Fill me in. :) what did your project do to help your students be successful? what was the particular approach of your mentors that worked quite well?  anything approaches that you will never, never take again? 
+
+== Mentoring Organization Best Practices ==
+
+Similarly to individual mentors, the culture, leadership, and community cohesion will vary widely among different projects or mentoring organizations. Nonetheless, this is an attempt to collect some thoughts and practices that may help a broad variety of projects make the GSoC experience for their mentors and their students is as enjoyable as possible.
+
+_Communicate with and among your prospective mentors_. Make sure they know from the beginning what to expect from the program, and what will be expected of them, especially if your organization is new to GSoC, or some of your mentors are. Give guidelines specific to your project and organization, such as the time commitment they should expect to make, what mentoring will consist of, and what they can realistically expect from students. Facilitate open conversation among the developers (one of whom will often be the organization administrator) about their motivations and what they expect to get out of the GSoC.
+
+_Be as diligent in selecting and preparing mentors as you would be for students_. Mentors can make all the difference for students, in both directions. A brilliant programmer is not necessarily also the best mentor, and developers aren't necessarily well-trained in mentoring. We expect GSoC students to embrace communication, but in many ways the mentor will set the example. Try to identify how best to pair mentors for projects so that their strengths complement each other. Find out what other help your administrator or your project's entire community can provide to your mentors to help them in their role. 
+
+_Less may be more_. Resist the temptation to offer more projects than are backed by enough and fully committed mentors. Having to cancel a project after students applied to it, or worse after a student was accepted or even started to work on it is sure to waste a lot of time and energy, of more than just the people affected directly. A mentor dropping out or turning out to be overextended can always happen, but it shouldn't be something anticipated for a project to beging with. 
+
+_Give leadership to (and expect it from) your organization's administrator(s)_. Though many open-source projects may not have a real leadership structure and may be run rather anarchic, that's not really how GSoC works. Google will turn to your organization administrator whenever there is a problem with one of your mentors, students, or with any administrivia, such as student acceptance conflicts, missing student evaluations, etc. Moreover, most of the suggestions above at the end of the day require a trusted person capable of and empowered with coordinating and making decisions, possibly overriding dissenters if consensus can't be achieved. The organization's administrator will also typically be the one to mediate when issues arise or escalate between a student and a mentor. Finally, someone needs to follow-up on the guidelines and policies (communication, progress reporting, etc) your organization agreed upon to make sure they are consistently applied.
 
 == Dealing with Common Mentoring Issues ==
 
