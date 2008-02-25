@@ -19,6 +19,8 @@ Alternatively, you're welcome to create your own GSoC promotional materials.  Ju
 
 All of these flyers are available as PDF only.
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_arabic.pdf Arabic]
+
 [http://google-summer-of-code.googlecode.com/files/BrazilianPortuguese-gsoc2008.pdf Brasilian Portuguese]
 
 [http://google-summer-of-code.googlecode.com/files/schinese_gsoc2008flyer.pdf Chinese (Simplified)]
