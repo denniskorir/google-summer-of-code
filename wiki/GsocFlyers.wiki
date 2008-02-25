@@ -45,6 +45,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/swedish-gsoc2008flyer.pdf Swedish]
 
+[http://google-summer-of-code.googlecode.com/files/turkish-gsoc2008flyer.pdf Turkish]
+
 = 2007 Flyers =
 
 Just in case you're feeling nostalgic, you can take a look at these flyers from [http://code.google.com/soc/2007/ 2007].
