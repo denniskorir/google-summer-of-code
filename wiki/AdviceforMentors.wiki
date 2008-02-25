@@ -155,3 +155,9 @@ Augie Fackler says:
 == More Resources ==
 
 Federico Mena-Quintero, GNOME mentor for GSoC 2006, has posted a great [http://primates.ximian.com/~federico/docs/summer-of-code-mentoring-howto/index.html mentoring how-to document].
+
+Sean Carlson, BZFlag mentor and org admin for GSoC 2007, has posted an overview of their participation in the program.  Good reading for first time mentors.  Warning: *huge* [http://my.bzflag.org/gsoc/bzflag_gsoc2007_post_mortem.pdf PDF], ~ 15 MB.  You can also check out more notes on their [http://my.bzflag.org/w/Google_Summer_of_Code/ project's wiki].
+
+Jan Schauman, mentor and org admin for mutiple GSoCs with the NetBSD project, did an [http://arstechnica.com/articles/culture/netbsd4-interview.ars/8 interview with Ars Technica] on NetBSD's repeat performances in Summer of Code, amongst other topics.
+
+ 
