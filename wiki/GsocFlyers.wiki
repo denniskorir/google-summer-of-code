@@ -39,6 +39,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/Japanese-gsoc2008.pdf Japanese]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_norwegian.pdf Norwegian]
+
 [http://google-summer-of-code.googlecode.com/files/polish_gsoc2008flyer.pdf Polish]
 
 [http://google-summer-of-code.googlecode.com/files/Russian-gsoc2008flyer.pdf Russian]
