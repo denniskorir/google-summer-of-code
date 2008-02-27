@@ -51,6 +51,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/Russian-gsoc2008flyer.pdf Russian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_slovenian.pdf Slovenian]
+
 [http://google-summer-of-code.googlecode.com/files/spanish-gsoc2008flyer.pdf Spanish]
 
 [http://google-summer-of-code.googlecode.com/files/swedish-gsoc2008flyer.pdf Swedish]
