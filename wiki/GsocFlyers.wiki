@@ -27,6 +27,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/tchinese_gsoc2008flyer.pdf Chinese (Traditional)]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_hr.pdf Croatian]
+
 [http://google-summer-of-code.googlecode.com/files/dutch-gsoc2008.pdf Dutch]
 
 [http://google-summer-of-code.googlecode.com/files/english_gsoc2008flyer.pdf English]
