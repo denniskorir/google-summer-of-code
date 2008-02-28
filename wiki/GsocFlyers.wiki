@@ -23,7 +23,7 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_portuguese_br_new.pdf Brasilian Portuguese]
 
-[http://google-summer-of-code.googlecode.com/files/simplifiedchinese.pdf Chinese (Simplified)]
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_simplified_chinese.pdf Chinese (Simplified)]
 
 [http://google-summer-of-code.googlecode.com/files/tchinese_gsoc2008flyer.pdf Chinese (Traditional)]
 
