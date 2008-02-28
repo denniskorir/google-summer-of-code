@@ -170,3 +170,8 @@ Luca Barbato says:
   - Do not be afraid of pushing some code, getting feedback is important and fixing issues early usually spare lots of work later.
   - Do not be afraid of being considered dumb because a commit is: everybody does make mistakes, just few are good enough to accept that and fix them timely.
   Having smaller commits, one or more for each conceptual change, helps the mentors tracking your progress, makes you spare quite a lot of time bug hunting since there are many semi-automated tools to bisect the history and overall makes the casual observer feel there is lots of activity.
+
+Tim 'Mithro' Ansell says:
+  
+  I had "if it isn't committed, it doesn't exist" policy with my students. The "commit early, commit often" idea is a very good idea if you are new the project for a number of reasons. Most importantly, it allows the community to give you feedback on your code. This can save a huge amount of time later if you are going down the wrong path. Nothing is more frustrating than pushing a hundred line patch you spent hours working on and finding out someone else knows a single line way!
+
