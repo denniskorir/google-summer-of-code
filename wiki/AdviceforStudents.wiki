@@ -175,3 +175,14 @@ Tim 'Mithro' Ansell says:
   
   I had "if it isn't committed, it doesn't exist" policy with my students. The "commit early, commit often" idea is a very good idea if you are new the project for a number of reasons. Most importantly, it allows the community to give you feedback on your code. This can save a huge amount of time later if you are going down the wrong path. Nothing is more frustrating than pushing a hundred line patch you spent hours working on and finding out someone else knows a single line way!
 
+== Advice for Non-US Students ==
+
+There are a number of unique challenges facing students outside the USA. Most students outside the USA do not have the long summer break that the USA students enjoy. This is specially true for students who are located in the Southern Hemisphere, where it isn't even summer! Don't despair, a huge number of both _accepted_ and _successful_ students are not in the USA.
+
+This section is specially for tips specifically for non-US students.
+
+ * Be upfront about what your commitments will be over the period (including when your exams are). Showing that you have thought about your commitments will give your mentor more confidence.
+ * Include your *timezone* in your application, this will help the organisation match a mentor in a compatible location.
+ * Project management is much more important because of the more limited time, make extensive use of the tips listed above.
+ * Start working early, including during the "community bonding" period. 
+
