@@ -22,8 +22,8 @@ We'd love to have your help in spreading the word about Google Summer of Code.  
 If you would like to give a presentation on Google Summer of Code, Pawel Solyga has graciously contributed some great overview slides, available in several formats:
 
   * [http://google-summer-of-code.googlecode.com/files/gsocpresentationfinal.zip Keynote (zip archive)]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.odp Open Document]
 
 ==Information on Past Years==
