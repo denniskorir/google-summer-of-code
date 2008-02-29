@@ -19,7 +19,12 @@ The wiki is a work in progress, so if you see any sections marked "TODO" they wi
 ==Help Wanted==
 We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GsocFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather.  We can also use help in translating the flyer.  
 
+If you would like to give a presentation on Google Summer of Code, Pawel Solyga has graciously contributed some great overview slides, available in several formats:
 
+  * [http://google-summer-of-code.googlecode.com/files/gsocpresentationfinal.zip Keynote (zip archive)
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.odp Open Document]
 
 ==Information on Past Years==
 We started a [http://googlesummerofcode.blogspot.com program blog] last year, where you can read about several of the highlights from 2007.
@@ -50,4 +55,3 @@ Many thanks from the GSoC program administration team to the Google Summer of Co
 
 If you'd like to learn more about the team populating the knowledge base, check out the KbTeamBios. 
    
-
