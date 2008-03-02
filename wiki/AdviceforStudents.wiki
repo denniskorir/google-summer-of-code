@@ -142,7 +142,7 @@ Angie Byron says:
 
 Marty Connor says:
 
-  Your mentor almost certainly volunteered to do GSoC and helping you succeed is probably a good part of why.  Learning to communicate on a regular basis with your mentor will help them help you.  I have found questions from my students to be very helpful in improving design, implementation, and documentation of our software.
+  Your mentor almost certainly volunteered to do GSoC, and helping you succeed is probably a good part of why.  Learning to communicate on a regular basis with your mentor will help them help you.  I have found questions from my students to be very helpful in improving design, implementation, and documentation of our software.
 
 == Time Management ==
 
