@@ -50,6 +50,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_hungarian.pdf Hungarian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_indonesian.pdf Indonesian]
+
 [http://google-summer-of-code.googlecode.com/files/Italian-gsoc2008.pdf Italian]
 
 [http://google-summer-of-code.googlecode.com/files/Japanese-gsoc2008.pdf Japanese]
