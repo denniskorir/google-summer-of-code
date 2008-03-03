@@ -82,7 +82,7 @@ At the 2007 mentor summit Leslie Hawthorn said:
 
  The first student submission is almost useless. Follow up with promising students and guide them to improve their submission.
 
-Robert Kaye, mentor for the MetaBrainz Foundation says:
+Robert Kaye, mentor for the !MetaBrainz Foundation says:
 
  Encourage students in your own community to participate in GSoC. Even though students may respond with: "I'm not good enough for that!" we've seen these students make excellent contributions outside of Google Summer of Code^TM^ that are on par, if not better than accepted students. Students from your community already understand open source and your project. Bringing in new students, especially students who are new to open source, can be a lot of work and result in culture shock.
 
