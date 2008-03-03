@@ -67,6 +67,8 @@ http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_galician.pdf Gal
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer-Spanish.pdf Spanish]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008-es-es.pdf Spanish (Spain)]
+
 [http://google-summer-of-code.googlecode.com/files/swedish-gsoc2008flyer.pdf Swedish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_thai.pdf Thai]
