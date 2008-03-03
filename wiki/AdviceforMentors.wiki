@@ -26,6 +26,10 @@ On the other hand, some students will have their own ideas, or will thrive when 
 
 The lesson here? To attract the widest variety of students, provide a variety of proposal ideas in different stages of detail. If your project needs a certain feature, and it is crystal clear how you need it implemented, spell it out. If you'd like to see general development in a certain direction, leave the door open for the students' proposals to be creative and encourage them to fill in the details themselves.
 
+At the 2007 mentor summit Leslie Hawthorn shared this important factoid:
+
+ The most successful projects are the ones that are proposed by the students.
+
 === Scope and Scale ===
 
 It is in everybody's best interest that your students complete their projects with flying colors. A small amount of useful code is worth more than a mountain of almost finished code. A happy student at the end of the program is more likely to keep working on his/her project than a frustrated one. Choose the scope and scale of your projects to reflect the following constraints:
@@ -73,6 +77,15 @@ Your project has quite a bit of control over the selection process. For example,
 It is also helpful to discuss with your mentors exactly what traits and qualities you are hoping to find in students through the application process. Communicating this to your applicants is also desirable. For instance, if your project hopes to solve a particular problem that requires very strong skills in some particular area, and you will be looking especially carefully for students who fit these needs, be clear about the fact during the application process. The better you are able to communicate what it is you are looking for, the easier and more transparent the selection process will be.
 
 An extreme but effective way to be sure that your students are up to the task is having a qualification entry test. Nothing gives you more information on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in a few days.  Some projects have asked all applicants to submit a patch before submitting their program application and have reported that the excercise was very useful.
+
+At the 2007 mentor summit Leslie Hawthorn said:
+
+ The first student submission is almost useless. Follow up with promising students and guide them to improve their submission.
+
+Robert Kaye, mentor for the MetaBrainz Foundation says:
+
+ Encourage students in your own community to participate in GSoC. Even though students may respond with: "I'm not good enough for that!" we've seen these students make excellent contributions outside of Google Summer of Code^TM^ that are on par, if not better than accepted students. Students from your community already understand open source and your project. Bringing in new students, especially students who are new to open source, can be a lot of work and result in culture shock.
+
 
 == Engaging Your Students ==
 
@@ -126,7 +139,7 @@ Don't bother hunting for missing students. A couple of mails along the lines of 
 
 For students who disappear without notice and then reappear it is important to set some early (and tough) objectives for them to meet in order to catch up. If their absence was genuinely unavoidable they will be happy to work at meeting these objectives. If they are a freeloader they will spend more time coming up with excuses.
 
-Get rid of the freeloaders quickly. There is no point in wasting your volunteer time on such people.
+Get rid of the freeloaders quickly. There is no point in wasting your volunteer time on such people. 
 
 
 === Personality Conflicts ===
@@ -135,7 +148,7 @@ It's a simple fact of life that we are not all going to get along with one anoth
 
 Tim 'Mithro' Ansell says:
 
-Our organisation tries to make it clear that a student can approach *any* mentor if there are problems. This gives the students an easy way to talk about problems with their mentors. This was specially important in our organisation as I was both  a mentor and the project administrator. It also gives the student a choice of mentors to talk too.
+ Our organisation tries to make it clear that a student can approach *any* mentor if there are problems. This gives the students an easy way to talk about problems with their mentors. This was specially important in our organisation as I was both  a mentor and the project administrator. It also gives the student a choice of mentors to talk too.
 
 === Shy Students ===
 
@@ -151,6 +164,13 @@ There will always be times when there are productivity lulls, but determining ho
 
 Augie Fackler says:
  Our students have always given us scheduled things like vacations as part of their timeline for completion so we know in advance how many "real" weeks of coding they're going to do. It's been nice to have. Don't be afraid to ask a student for information about planned vacations that could take them away from the computer.
+
+At the 2007 mentor summit Leslie Hawthorn said:
+
+ If your student hasn't checked in code by the mid-term evaluation or if your student can't make themselves available to discuss the review, fail them. If you're note 85% certain that the student will continue with the project, fail them! 
+
+ Work with your students to set up expectations; if your student doesn't follow these expectations, but you're happy, Google doesn't care. But if you're not happy, then reiterate your expectations to the student and make sure they understand them. If they still don't live up to their expectations, ask them to leave.
+
 
 == More Resources ==
 
