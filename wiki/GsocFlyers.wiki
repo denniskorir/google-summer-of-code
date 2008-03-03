@@ -39,7 +39,7 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_french.pdf French]
 
-http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_galician.pdf Galician]
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_galician.pdf Galician]
 
 [http://google-summer-of-code.googlecode.com/files/German-gsoc2008.pdf German]
 
