@@ -78,6 +78,8 @@ It is also helpful to discuss with your mentors exactly what traits and qualitie
 
 An extreme but effective way to be sure that your students are up to the task is having a qualification entry test. Nothing gives you more information on how good the candidates are than having them already try to cope with the burden of contributing to your project and to face peer community peer review. Obviously you must pick something involving enough to give them the chance to prove themselves, but small enough to be done in a few days.  Some projects have asked all applicants to submit a patch before submitting their program application and have reported that the excercise was very useful.
 
+If you do not receive enough qualified proposals to fill all of the slots you've been allocated, consider giving your open slots to other organizations who have too many qualified students. Its much better for students and mentors to both be fully excited about participating in the project, than to accept lackluster students because you have still have open slots.
+
 At the 2007 mentor summit Leslie Hawthorn said:
 
  The first student submission is almost useless. Follow up with promising students and guide them to improve their submission.
@@ -171,6 +173,10 @@ At the 2007 mentor summit Leslie Hawthorn said:
 
  Work with your students to set up expectations; if your student doesn't follow these expectations, but you're happy, Google doesn't care. But if you're not happy, then reiterate your expectations to the student and make sure they understand them. If they still don't live up to their expectations, ask them to leave.
 
+== Make Summer of Code your own ==
+
+You should make Summer of Code what you want it to be. Google intentionally leaves the structure of participating wide open to allow many varied approaches. This freedom gives mentors and students the most amount of control over the project. Don't worry so much about what Google thinks about how you're conducting your project. As long as you and your students are respectful, making progess and everyone is happy, Google doesn't care what form your project takes.
+
 
 == More Resources ==
 
@@ -180,4 +186,4 @@ Sean Morrison, BZFlag mentor and org admin for GSoC 2007, has posted an overview
 
 Jan Schauman, mentor and org admin for mutiple GSoCs with the NetBSD project, did an [http://arstechnica.com/articles/culture/netbsd4-interview.ars/8 interview with Ars Technica] on NetBSD's repeat performances in Summer of Code, amongst other topics.
 
- 
+Robert Kaye, mentor for the !MetaBrainz Foundation posted an announcement [http://blog.musicbrainz.org/archives/2008/03/google_summer_o_3.html how !MusicBrainz changed its approach to participating in Summer of Code 2008]  
