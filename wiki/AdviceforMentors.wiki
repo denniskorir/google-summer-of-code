@@ -186,4 +186,4 @@ Sean Morrison, BZFlag mentor and org admin for GSoC 2007, has posted an overview
 
 Jan Schauman, mentor and org admin for mutiple GSoCs with the NetBSD project, did an [http://arstechnica.com/articles/culture/netbsd4-interview.ars/8 interview with Ars Technica] on NetBSD's repeat performances in Summer of Code, amongst other topics.
 
-Robert Kaye, mentor for the !MetaBrainz Foundation posted an announcement [http://blog.musicbrainz.org/archives/2008/03/google_summer_o_3.html how !MusicBrainz changed its approach to participating in Summer of Code 2008]  
+Robert Kaye, mentor and org admin for the !MetaBrainz Foundation posted an announcement [http://blog.musicbrainz.org/archives/2008/03/google_summer_o_3.html how MusicBrainz changed its approach to participating in Summer of Code 2008]  
