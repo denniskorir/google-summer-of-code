@@ -48,6 +48,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/German-gsoc2008.pdf German]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008greek.pdf Greek]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_template_heb.pdf Hebrew]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_hungarian.pdf Hungarian]
