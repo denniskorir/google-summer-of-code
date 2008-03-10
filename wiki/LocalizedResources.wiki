@@ -1,5 +1,7 @@
-#summary Information about Google Summer of Code^TM^ in Non-English Languages
-= Localized Resources for Learning About Google Summer of Code =
+#summary Information about Google Summer of Code in Non-English Languages
+= Localized Resources =
 
   * Check out our [GsocFlyers program flyers] page for basic information on the program in several languages.  Many thanks to all of the community members who provided help with our localization efforts.
+
+
   * Aleksey Evtushenko has created a site with more information about the program [http://gsoc.org.ua/ in Russian].
