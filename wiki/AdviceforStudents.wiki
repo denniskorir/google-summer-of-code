@@ -12,7 +12,7 @@ Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose
 
 The folks at the Drupal project also have some great [http://drupal.org/node/59037 application guidelines for students].
 
-Laurynas Biveinis has written an excellent introduction to [[http://of-code.blogspot.com/2007/08/soc-experience-introduction.html life as a Summer of Code student].
+Laurynas Biveinis has written an excellent introduction to [http://of-code.blogspot.com/2007/08/soc-experience-introduction.html life as a Summer of Code student].
 
 = Applying to GSoC =
 
