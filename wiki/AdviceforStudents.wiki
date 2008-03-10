@@ -2,7 +2,7 @@
 
 = Welcome to the Advice for GSoC Students Page =
 
-Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the "usual" way people are involved in developing free software.  The information on this page, written by GSoC students for students, is meant to help you choose a mentoring organization, write your application and hone your skills as an open source developer.
+Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the "usual" way people are involved in developing free software.  The information on this page, written by GSoC students and mentors for students, is meant to help you choose a mentoring organization, write your application and hone your skills as an open source developer.
 
 In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
 
@@ -11,6 +11,8 @@ Alex Russell from the Dojo Project has also posted some [http://alex.dojotoolkit
 Bart Massey with Portland State University has [http://summer.cs.pdx.edu/propose posted PSU's application guidelines], which also contain some good overall tips for effective proposal writing in general.  Great advice from a mentor and organization administrator who has been with us for many years.  :)
 
 The folks at the Drupal project also have some great [http://drupal.org/node/59037 application guidelines for students].
+
+Laurynas Biveinis has written an excellent introduction to [[http://of-code.blogspot.com/2007/08/soc-experience-introduction.html life as a Summer of Code student].
 
 = Applying to GSoC =
 
@@ -189,4 +191,3 @@ This section is specially for tips specifically for non-US students.
  * Include your *timezone* in your application, this will help the organisation match a mentor in a compatible location.
  * Project management is much more important because of the more limited time, make extensive use of the tips listed above.
  * Start working early, including during the "community bonding" period. 
-
