@@ -8,3 +8,7 @@ Frederic Mueller and his colleagues at the Beijing LUG kindly provided a transla
 
 === Russian ===
   * Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russian] with more information about the program.
+
+=== Japanese ===
+  * There are [http://groups.google.com/group/google-summer-of-code-discuss-ja?hl=ja Japanese discussion list on Google Summer of Code].
+  * [http://www.fsij.org/ FSIJ] has created a website [http://www.fsij.org/homepage/wiki/GSoC2008 in Japanese] with more information about the program.
