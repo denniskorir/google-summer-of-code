@@ -21,6 +21,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_arabic_v3.pdf Arabic]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_bosnia.pdf Bosnian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_portuguese_br_new.pdf Brasilian Portuguese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_Bulgarian_bg.pdf Bulgarian]
