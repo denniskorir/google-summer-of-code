@@ -56,7 +56,7 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_hungarian.pdf Hungarian]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_indo.pdf Indonesian]
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_indo_new.pdf Indonesian]
 
 [http://google-summer-of-code.googlecode.com/files/Italian-gsoc2008.pdf Italian]
 
@@ -75,6 +75,8 @@ All of these flyers are available as PDF only.
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_ro.pdf Romanian]
 
 [http://google-summer-of-code.googlecode.com/files/Russian-gsoc2008flyer.pdf Russian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_template_sinhalese.pdf Sinhalese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_sk_new.pdf Slovak]
 
