@@ -1,4 +1,4 @@
-#Videos about Google Summer of Code
+Videos about Google Summer of Code
 
 = Community Contributed Videos =
 
