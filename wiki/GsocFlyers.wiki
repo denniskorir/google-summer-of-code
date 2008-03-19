@@ -96,6 +96,14 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2008flyer_vietnamese.pdf Vietnamese]
 
+= 2008 Organization Specific Flyers =
+
+BZFlag [http://my.bzflag.org/w/Google_Summer_of_Code/2008#Promotion_Flyers English, German, Spanish; PDF & PNG]
+
+Joomla! [http://google-summer-of-code.googlecode.com/files/Joomla_2008.pdf English - PDF]
+
+Umit [http://google-summer-of-code.googlecode.com/files/Umit_2008.pdf English - PDF]
+
 = 2007 Flyers =
 
 Just in case you're feeling nostalgic, you can take a look at these flyers from [http://code.google.com/soc/2007/ 2007].
