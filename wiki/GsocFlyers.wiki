@@ -13,7 +13,7 @@ If you would like to help us by localizing the program flyer, please:
 
 Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
 
-Alternatively, you're welcome to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page].
+Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page].  
 
 = 2008 Flyers =
 
