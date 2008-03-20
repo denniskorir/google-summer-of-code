@@ -29,6 +29,9 @@ If you would like to give a presentation on Google Summer of Code, Pawel Solyga 
 ==Localized Information==
 You can find a list of resources for learning about the program, translated into a varity of languages, on the [LocalizedResources Localized Resources wiki page].
 
+==Videos==
+Check out these [Videos informational videos], in a variety of languages, created by the community for the community.
+
 ==Information on Past Years==
 We started a [http://googlesummerofcode.blogspot.com program blog] last year, where you can read about several of the highlights from 2007.
 
