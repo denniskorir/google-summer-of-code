@@ -102,6 +102,8 @@ BZFlag [http://my.bzflag.org/w/Google_Summer_of_Code/2008#Promotion_Flyers Engli
 
 Joomla! [http://google-summer-of-code.googlecode.com/files/Joomla_2008.pdf English - PDF]
 
+OSGeo[http://svn.osgeo.org/osgeo/marketing/flyer/ Engish - ODT and PDF]
+
 Umit [http://google-summer-of-code.googlecode.com/files/Umit_2008.pdf English - PDF]
 
 = 2007 Flyers =
