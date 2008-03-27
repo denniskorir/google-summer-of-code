@@ -1,4 +1,4 @@
-#summary Videos about Google Summer of Code
+#summary Screencasts & Videos about Google Summer of Code
 
 = Community Contributed Videos =
 
@@ -9,3 +9,7 @@
 [http://youtube.com/watch?v=mWsxHPcKjIM Portugues/Portugal - YouTube]
 
 [http://youtube.com/watch?v=g9fKdYB0no4 Spanish - YouTube]
+
+= Community Contributed Screencasts = 
+
+[http://idyll.dreamhosters.com/transfer/gsoc-2008-screencast.mp4 Summer of Code, MP4]
