@@ -7,3 +7,5 @@ Community contributed presentations or other artwork are welcome and appreciated
 == 2008 Logos ==
 
 The 2008 logo is available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=logo+2008&colspec=Filename+Summary+Uploaded+Size+DownloadCount variety of file formats]. You can also choose artwork that will appear better on a black or white background; the files are labeled accordingly.
+
+Please feel free to make use of this logo artwork as you'd like provided you do not make any modifications to it other than resizing the image.
