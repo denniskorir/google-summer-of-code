@@ -1,0 +1,9 @@
+#summary Google Summer of Code Logo Files
+
+= Logos =
+
+Community contributed presentations or other artwork are welcome and appreciated.  If you make something cool, let us know and we will link to it from this wiki.  
+
+== 2008 Logos ==
+
+The 2008 logo is available in a [http://code.google.com/p/google-summer-of-code/downloads/list?q=label:logo variety of file formats]. You can also choose artwork that will appear better on a black or white background; the files are labeled accordingly.
