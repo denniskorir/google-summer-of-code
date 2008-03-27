@@ -15,6 +15,7 @@ The wiki is a work in progress, so if you see any sections marked "TODO" they wi
   * [http://code.google.com/soc Google Summer of Code Program Page]
   * [http://googlesummerofcode.blogspot.com/ Google Summer of Code Blog]
   * [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts Google Summer of Code Podcast]
+  * [GsocLogos Google Summer of Code Logos]
 
 ==Help Wanted==
 We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GsocFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather.  We can also use help in translating the flyer.  
