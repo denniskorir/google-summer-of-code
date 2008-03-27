@@ -4,8 +4,14 @@
 
 Community contributed presentations or other artwork are welcome and appreciated.  If you make something cool, let us know and we will link to it from this wiki.  
 
+
+Please feel free to make use of this logo artwork as you'd like provided you do not make any modifications to it other than resizing the image.  For example, if you'd like to include it in a presentation or put it on a flyer next to the logo for an open source project participating in Summer of Code, please do.
+
 == 2008 Logos ==
 
 The 2008 logo is available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=logo+2008&colspec=Filename+Summary+Uploaded+Size+DownloadCount variety of file formats]. You can also choose artwork that will appear better on a black or white background; the files are labeled accordingly.
 
-Please feel free to make use of this logo artwork as you'd like provided you do not make any modifications to it other than resizing the image.
+
+== 2007 Logos ==
+
+For historical reference purposes, [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=logo+2007&colspec=Filename+Summary+Uploaded+Size+DownloadCount here they are].
