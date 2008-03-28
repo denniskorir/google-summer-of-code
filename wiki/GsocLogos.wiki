@@ -5,7 +5,7 @@
 Community contributed presentations or other artwork are welcome and appreciated.  If you make something cool, let us know and we will link to it from this wiki.  
 
 
-Please feel free to make use of this logo artwork as you'd like provided you do not make any modifications to it other than resizing the image.  For example, if you'd like to include it in a presentation or put it on a flyer next to the logo for an open source project participating in Summer of Code, please do.
+These logos are is licensed under a [<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"> Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License].
 
 == 2008 Logos ==
 
