@@ -1,0 +1,13 @@
+#summary Presentations on the Google Summer of Code Program
+
+= Presentations =
+
+Pawel Solyga has generously created a program presentation in a variety of formats:
+
+
+  * [http://google-summer-of-code.googlecode.com/files/gsocpresentationfinal.zip Keynote (zip archive)]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.odp Open Document]
+
+You might also want to check out our [LocalizedResources Localized Resources] page for community contributed presentations in languages other than English. 
