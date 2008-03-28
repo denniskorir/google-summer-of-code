@@ -5,7 +5,9 @@
 Community contributed presentations or other artwork are welcome and appreciated.  If you make something cool, let us know and we will link to it from this wiki.  
 
 
-These logos are is licensed under a [<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"> Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License].
+These logos are is licensed under a [http://creativecommons.org/licenses/by-nc-nd/3.0/" Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License].  
+
+If you're wondering what this means, you are welcome to do what you'd like with the logo provided you do not change it beyond resizing it.  You are, for example, welcome to put it up on your website or use it on a flyer advertising your organization's participation in the program.  If you want to use it in a presentation, that's great, as long as you don't charge people to come and see you talk.  (Then again, you shouldn't be charging people to come hear you talk about Summer of Code anyway. :)
 
 == 2008 Logos ==
 
