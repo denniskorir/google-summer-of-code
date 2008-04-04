@@ -98,6 +98,8 @@ All of these flyers are available as PDF only.
 
 = 2008 Organization Specific Flyers =
 
+BRL-CAD [http://brlcad.org/gsoc/brlcad_gsoc2008_flyer.pdf English - PDF]
+
 BZFlag [http://my.bzflag.org/w/Google_Summer_of_Code/2008#Promotion_Flyers English, German, Spanish; PDF & PNG]
 
 Joomla! [http://google-summer-of-code.googlecode.com/files/Joomla_2008.pdf English - PDF]
