@@ -1,0 +1,87 @@
+# Shared GSoC Wisdom from GSoC participants
+
+= One Line Wisdom =
+
+== Introduction ==
+
+On Friday, April 11, 2008 Marty Connor wrote the following message
+
+{{{
+Subject: One line wisdom
+Date: Fri, 11 Apr 2008 18:57:41 -0400
+From: Marty Connor <mdc@etherboot.org>
+To: google-summer-of-code-mentors-list@googlegroups.com
+
+Fellow mentors and friends,
+
+If you had one suggestion for organizations who are new (or even not 
+new) to GSoC what would that suggestion be?
+
+My first suggestion would be:
+
+"Mentoring fewer better students is usually better than mentoring more 
+students because each student requires resources, and giving more 
+resources to a smaller numbeer of better students tends to be healthier 
+and more productive for both the project and the students."
+
+That would be my "One line wisdom" to share, what would yours be?
+
+Curiously,
+
+Marty
+}}}
+
+What follows is a compilation of the wisdom shared by GSoC Participants -- Words of wisdom freely given with the hope that they might be helpful.
+
+== Marty Connor ==
+
+Mentoring fewer better students is usually better than mentoring more 
+students because each student requires resources, and giving more 
+resources to a smaller numbeer of better students tends to be healthier 
+and more productive for both the project and the students.
+
+--
+
+== Christopher Sean Morrison ==
+
+The next suggestion I'd make is to make the students feel welcome,
+integrated, important, and appreciated by treating them feel like any
+other developer, through encouragement, taking sincere interest in
+their efforts, and frequent constructive communication.
+
+There was a session at the mentor summit last year closely related to
+this idea that turned out to be a pretty interesting brainstorming
+session:  http://googlesummerofcode.jot.com/EncouragingStudents
+
+== Peter Hosey ==
+
+Communicate with your student frequently (about weekly).
+
+== Greg Noel ==
+
+I'd make that, "(at least weekly, more often is better)".
+
+For mentoring organizations, "Set the bar high.  If you want quality  
+applications, require enough detail in the proposal that the student  
+can't just parrot the idea page.  A student who can't (or won't) do  
+this isn't serious about working for you and you will only waste time  
+on them that could better be spent on a student who wants to work for  
+you."
+
+For students, "Spend the time to write a good proposal.  It's more  
+than just filling out a form.  A good proposal will require a lot of  
+detail, so don't be surprised if the organization expects you to  
+provide it.  If you have the background and experience to do the job,  
+most of the detail will be just a matter of pushing the words onto  
+the page, so it's not nearly as bad as you would think."
+
+And to both, "Expect to iterate on the proposal.  Communicate,  
+revise, polish, and clarify."
+
+== Amy Stephen ==
+
+Be available.
+
+== Your Wisdom Here ==
+
+
