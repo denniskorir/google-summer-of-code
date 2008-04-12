@@ -39,19 +39,23 @@ We would appreciate your thoughts.  Please send them if you feel so moved.
 
 == Marty Connor ==
 
-Mentoring fewer better students is usually better than mentoring more 
-students because each student requires resources, and giving more 
-resources to a smaller numbeer of better students tends to be healthier 
-and more productive for both the project and the students.
+For mentoring organizations:
+
+ Mentoring fewer better students is usually better than mentoring more 
+ students because each student requires resources, and giving more 
+ resources to a smaller numbeer of better students tends to be healthier 
+ and more productive for both the project and the students.
 
 ----
 
 == Christopher Sean Morrison ==
 
-The next suggestion I'd make is to make the students feel welcome,
-integrated, important, and appreciated by treating them feel like any
-other developer, through encouragement, taking sincere interest in
-their efforts, and frequent constructive communication.
+For mentors:
+
+ Make the students feel welcome, integrated, important, and appreciated 
+ by treating them feel like any other developer, through encouragement, 
+ taking sincere interest in their efforts, and frequent constructive 
+ communication.
 
 There was a session at the mentor summit last year closely related to
 this idea that turned out to be a pretty interesting brainstorming
@@ -61,62 +65,83 @@ session:  http://googlesummerofcode.jot.com/EncouragingStudents
 
 == Peter Hosey ==
 
-Communicate with your student frequently (about weekly).
+For mentors:
+
+ Communicate with your student frequently (about weekly).
 
 ----
 
 == Greg Noel ==
 
-I'd make that, "(at least weekly, more often is better)".
+For mentors:
 
-For mentoring organizations, "Set the bar high.  If you want quality  
-applications, require enough detail in the proposal that the student  
-can't just parrot the idea page.  A student who can't (or won't) do  
-this isn't serious about working for you and you will only waste time  
-on them that could better be spent on a student who wants to work for  
-you."
+ Communicate with your student frequently. (At least weekly,
+ more often is better).
 
-For students, "Spend the time to write a good proposal.  It's more  
-than just filling out a form.  A good proposal will require a lot of  
-detail, so don't be surprised if the organization expects you to  
-provide it.  If you have the background and experience to do the job,  
-most of the detail will be just a matter of pushing the words onto  
-the page, so it's not nearly as bad as you would think."
+For mentoring organizations:
 
-And to both, "Expect to iterate on the proposal.  Communicate,  
-revise, polish, and clarify."
+ Set the bar high.  If you want quality applications, require enough
+ detail in the proposal that the student can't just parrot the idea
+ page.  A student who can't (or won't) do this isn't serious about 
+ working for you and you will only waste time on them that could
+ better be spent on a student who wants to work for you.
+
+For students:
+
+ Spend the time to write a good proposal.  It's more  than just 
+ filling out a form.  A good proposal will require a lot of detail, so 
+ don't be surprised if the organization expects you to provide it.  If 
+ you have the background and experience to do the job, most of the 
+ detail will be just a matter of pushing the words onto the page, so 
+ it's not nearly as bad as you would think."
+
+For both:
+
+ Expect to iterate on the proposal.  Communicate, revise, polish,
+ and clarify."
 
 ----
 
 == Amy Stephen ==
 
-Be available.
+For everyone:
+
+ Be available.
 
 ----
 
 == Michael Sparks ==
 
-I can't decide between these:
+For mentors:
 
-  * Give trust, but expect proof.
-  * Expect communication - if needed, request & require it.
-  * Communicate your faith in their abilities, it works when all else doesn't.
-  * Give the benefit of doubt; don't be a sucker.
-  * Don't be a single point of failure (for your student/in general).
-  * Lead your student to your community; don't substitute for it.
-  * No one is psychic - if you need something ask; ask if others need something.
-  * Be open with everything, not just code.
-  * Very few like to admit problems, seek them out, we all have them.
-  * Provide processes that allow people to save face.
-  * They're geeks too, deal with it :-)
+ Give trust, but expect proof.
 
-So I won't :)
+ Expect communication - if needed, request & require it.
+ 
+ Communicate your faith in their abilities, it works when all else doesn't.
+ 
+ Give the benefit of doubt; don't be a sucker.
+
+ Don't be a single point of failure (for your student/in general).
+
+ Lead your student to your community; don't substitute for it.
+
+ No one is psychic - if you need something ask; ask if others need something.
+
+ Be open with everything, not just code.
+
+ Very few like to admit problems, seek them out, we all have them.
+
+ Provide processes that allow people to save face.
+
+ They're geeks too, deal with it :-)
 
 == Kenneth Gonsalves ==
 
 For students: 
 
-  * Use a repository, do not wait for the code to be complete to commit and do not bombard your mentor with 5 MB tarballs.
+ Use a repository, do not wait for the code to be complete to commit 
+ and do not bombard your mentor with 5 MB tarballs.
 
 ----
 
