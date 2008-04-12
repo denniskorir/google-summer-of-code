@@ -112,8 +112,12 @@ I can't decide between these:
 
 So I won't :)
 
+== Kenneth Gonsalves ==
+
+For students: 
+
+  * Use a repository, do not wait for the code to be complete to commit and do not bombard your mentor with 5 MB tarballs.
+
 ----
 
 == Your Wisdom is Welcome Here ==
-
-----
