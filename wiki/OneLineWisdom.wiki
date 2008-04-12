@@ -94,6 +94,26 @@ Be available.
 
 ----
 
+== Michael Sparks ==
+
+I can't decide between these:
+
+  * Give trust, but expect proof.
+  * Expect communication - if needed, request & require it.
+  * Communicate your faith in their abilities, it works when all else doesn't.
+  * Give the benefit of doubt; don't be a sucker.
+  * Don't be a single point of failure (for your student/in general).
+  * Lead your student to your community; don't substitute for it.
+  * No one is psychic - if you need something ask; ask if others need something.
+  * Be open with everything, not just code.
+  * Very few like to admit problems, seek them out, we all have them.
+  * Provide processes that allow people to save face.
+  * They're geeks too, deal with it :-)
+
+So I won't :)
+
+----
+
 == Your Wisdom is Welcome Here ==
 
 ----
