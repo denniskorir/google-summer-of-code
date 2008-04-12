@@ -33,6 +33,8 @@ What follows is a compilation of the wisdom shared by GSoC Participants
 
 Words of wisdom freely given in the hope that they might be helpful to another.
 
+We would appreciate your thoughts.  Please send them if you feel so moved.
+
 = One Line Wisdom =
 
 == Marty Connor ==
