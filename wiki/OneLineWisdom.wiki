@@ -1,8 +1,7 @@
+#labels Featured,gsoc
 # Shared GSoC Wisdom from GSoC participants
 
-= One Line Wisdom =
-
-== Introduction ==
+= Introduction =
 
 On Friday, April 11, 2008 Marty Connor wrote the following message
 
@@ -31,7 +30,11 @@ Curiously,
 Marty
 }}}
 
-What follows is a compilation of the wisdom shared by GSoC Participants -- Words of wisdom freely given with the hope that they might be helpful.
+What follows is a compilation of the wisdom shared by GSoC Participants 
+
+Words of wisdom freely given in the hope that they might be helpful to another.
+
+= One Line Wisdom =
 
 == Marty Connor ==
 
@@ -40,7 +43,7 @@ students because each student requires resources, and giving more
 resources to a smaller numbeer of better students tends to be healthier 
 and more productive for both the project and the students.
 
---
+----
 
 == Christopher Sean Morrison ==
 
@@ -53,9 +56,13 @@ There was a session at the mentor summit last year closely related to
 this idea that turned out to be a pretty interesting brainstorming
 session:  http://googlesummerofcode.jot.com/EncouragingStudents
 
+----
+
 == Peter Hosey ==
 
 Communicate with your student frequently (about weekly).
+
+----
 
 == Greg Noel ==
 
@@ -78,10 +85,14 @@ the page, so it's not nearly as bad as you would think."
 And to both, "Expect to iterate on the proposal.  Communicate,  
 revise, polish, and clarify."
 
+----
+
 == Amy Stephen ==
 
 Be available.
 
-== Your Wisdom Here ==
+----
 
+== Your Wisdom is Welcome Here ==
 
+----
