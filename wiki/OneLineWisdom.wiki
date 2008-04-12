@@ -1,5 +1,5 @@
 #labels Featured,gsoc
-# Shared GSoC Wisdom from GSoC participants
+#Shared GSoC Wisdom from GSoC participants
 
 = Introduction =
 
