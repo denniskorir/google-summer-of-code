@@ -10,6 +10,8 @@
 
 [http://youtube.com/watch?v=g9fKdYB0no4 Spanish - YouTube]
 
+[http://video.google.com/videoplay?docid=1508158786053084543 Português/Brasil - YouTube: Sidnei da Silva @ PyCon Brasil]
+
 = Community Contributed Screencasts = 
 
 [http://idyll.dreamhosters.com/transfer/gsoc-2008-screencast.mp4 Summer of Code, MP4]
