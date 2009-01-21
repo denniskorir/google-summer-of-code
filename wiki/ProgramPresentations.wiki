@@ -1,13 +1,24 @@
 #summary Presentations on the Google Summer of Code Program
 
-= Presentations =
+This page contains general presentations on the Google Summer of Code Program.
+
+You might also want to check out our [LocalizedResources Localized Resources] page for community contributed presentations in languages other than English. 
+
+== 2009 Presentations ==
+
+Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety of formats:
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.ppt Powerpoint]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.zip Browseable Flash zipped]
+
+NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
+
+== 2008 Presentations ==
 
 Pawel Solyga has generously created a program presentation in a variety of formats:
-
 
   * [http://google-summer-of-code.googlecode.com/files/gsocpresentationfinal.zip Keynote (zip archive)]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.pdf PDF]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.odp Open Document]
-
-You might also want to check out our [LocalizedResources Localized Resources] page for community contributed presentations in languages other than English. 
