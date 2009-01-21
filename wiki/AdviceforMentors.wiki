@@ -6,6 +6,8 @@ While participating in Google Summer of Code^TM^ is an incredibly rewarding ende
 
 Google's program administrators *highly* recommend that your organization takes the time to publicly document how you plan to structure GSoC involvement within the project and how your organization plans to address some of the issues described on this page.  We hope this information will help you to more clearly articulate your project's culture to prospective students, as well as serving as the plan of record for dealing with problems that may arise during the course of the program.
 
+In addition to the information shared here, a good deal of great information comes from our annual Mentor Summits. Check out the [http://gsoc-wiki.osuosl.org/index.php/Main_Page Mentor Summit wiki] for more details. Many thanks to the good folks at Oregon State University's Open Source Lab for all their help in making the wiki and its contents available to everyone as a resource.
+
 == Applying to GSoC as a Mentoring Organization ==
 We don't mean to brag, but Google Summer of Code^TM^ is a *very* cool program.  While it just seems natural that many open source projects would want to participate, clearly articulating your project's reasons for applying is a most helpful beginning to defining your mentoring structure, your expectations of your mentors and your expectations for your students.  
 
