@@ -11,7 +11,8 @@ Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.ppt Powerpoint]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.pdf PDF]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.zip Browseable Flash zipped]
-
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.odp OpenOffice]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.key.zip Keynote zipped]
 NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
 
 == 2008 Presentations ==
