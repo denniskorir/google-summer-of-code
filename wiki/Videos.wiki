@@ -1,5 +1,7 @@
 #summary Screencasts & Videos about Google Summer of Code
 
+You can find additional videos and screencasts in our [http://es.youtube.com/user/googOSPOstudntprgrms Google Open Source Student Programs YouTube channel].
+
 = Community Contributed Videos =
 
 [http://youtube.com/watch?v=OBUvf2q9vSc English - YouTube]
