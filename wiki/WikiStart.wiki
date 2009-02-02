@@ -32,6 +32,8 @@ Check out these [Videos informational videos], in a variety of languages, create
 
 ==Information on Past Years==
 
+Check out the [ProgramStatistics program statistics page] for an overview of # of participants, etc., for each year.
+
 For GSoC 2008, we published all of our updates on the Google Open Source Blog. You can check out all [http://google-opensource.blogspot.com/search/label/gsoc GSoC related content from 2008] there.
 
 For GSoC 2007, we had a Google Summer of Code program blog. You can read [http://googlesummerofcode.blogspot.com there] about several of the highlights of the 2007 program. 
