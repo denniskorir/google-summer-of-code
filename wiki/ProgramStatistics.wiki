@@ -1,0 +1,73 @@
+#summary Overview of GSoC Program Statistics
+
+= Program Information for Past Years =
+
+Many folks ask us frequently for an overview of how many students participated in the program, how many organizations we accepted, etc. This page is your one stop shop for that data. Not finding some information you'd like? Comment here and we can respond as soon as possible to your request for information.
+
+Final Statistics for 2008:
+
+Coding Dates: May 26-Aug 18th
+
+$5M budget
+
+More than 7000 applications received, which was more than the 2007 of just under 6200 (http://google-opensource.blogspot.com/2008/04/applications-are-in.html)
+
+1125 students accepted
+
+2500+ mentors and co-mentors
+
+175 open source organizations
+
+98 countries
+
+83% overall student success rate
+
+students on every continent (except, of course, Antarctica)
+
+Final Statistics for 2007:
+
+Coding Dates: May 28th - August 31st
+
+$4M budget
+
+6,200 applications received
+
+905 students accepted
+
+nearly 1500 mentors and co-mentors
+
+over 130 open source organizations
+
+90 countries
+
+81% overall student success rate
+
+students on every continent (except, of course, Antarctica)
+
+Final Statistics for 2006:
+
+Dates: May 1 - Sept 8th
+
+$3M budget
+
+630 Students
+
+1200 Mentors
+
+102 open source organizations
+
+90 countries
+
+82% overall student success rate
+
+Select Statistics for 2005:
+
+$2M budget
+
+400 students
+
+40 open source organizations
+
+49 countries
+
+80% final student success rate
