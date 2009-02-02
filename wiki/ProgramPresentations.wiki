@@ -6,6 +6,8 @@ You might also want to check out our [LocalizedResources Localized Resources] pa
 
 == 2009 Presentations ==
 
+*Note that these drafts do not yet have the updated timeline information for GSoC 2009. They will be updated shortly after February 9, 2009.*
+
 Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety of formats:
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.ppt Powerpoint]
@@ -14,8 +16,6 @@ Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.odp OpenOffice]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.key.zip Keynote zipped]
 NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
-
-*Note that these drafts do not yet have the updated timeline information for GSoC 2009. They will be updated shortly after February 9, 2009.*
 
 == 2008 Presentations ==
 
