@@ -4,7 +4,7 @@
 
 Many folks ask us frequently for an overview of how many students participated in the program, how many organizations we accepted, etc. This page is your one stop shop for that data. Not finding some information you'd like? Comment here and we can respond as soon as possible to your request for information.
 
-Final Statistics for 2008:
+*Final Statistics for 2008:*
 
 Coding Dates: May 26-Aug 18th
 
@@ -24,7 +24,7 @@ More than 7000 applications received, which was more than the 2007 of just under
 
 students on every continent (except, of course, Antarctica)
 
-Final Statistics for 2007:
+*Final Statistics for 2007:*
 
 Coding Dates: May 28th - August 31st
 
@@ -44,7 +44,7 @@ over 130 open source organizations
 
 students on every continent (except, of course, Antarctica)
 
-Final Statistics for 2006:
+*Final Statistics for 2006:*
 
 Dates: May 1 - Sept 8th
 
@@ -60,7 +60,7 @@ $3M budget
 
 82% overall student success rate
 
-Select Statistics for 2005:
+*Select Statistics for 2005:*
 
 $2M budget
 
