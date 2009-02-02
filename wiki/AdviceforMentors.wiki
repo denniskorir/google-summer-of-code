@@ -171,7 +171,7 @@ Augie Fackler says:
 
 At the 2007 mentor summit Leslie Hawthorn said:
 
- If your student hasn't checked in code by the mid-term evaluation or if your student can't make themselves available to discuss the review, fail them. If you're note 85% certain that the student will continue with the project, fail them! 
+ If your student hasn't checked in code by the mid-term evaluation or if your student can't make themselves available to discuss the review, fail them. If you're not 85% certain that the student will continue with the project, fail them! 
 
  Work with your students to set up expectations; if your student doesn't follow these expectations, but you're happy, Google doesn't care. But if you're not happy, then reiterate your expectations to the student and make sure they understand them. If they still don't live up to their expectations, ask them to leave.
 
