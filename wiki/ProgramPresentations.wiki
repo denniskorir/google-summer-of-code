@@ -15,6 +15,8 @@ Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.key.zip Keynote zipped]
 NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
 
+Note that these drafts do *not* yet have the updated timeline information for GSoC 2009. They will be updated shortly after February 9, 2009.
+
 == 2008 Presentations ==
 
 Pawel Solyga has generously created a program presentation in a variety of formats:
