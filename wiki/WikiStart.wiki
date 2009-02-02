@@ -2,30 +2,27 @@
 
 = Welcome to the GSoC Knowledge Base Wiki =
 
-*Looking for in-depth information on using the Google Summer of Code web app or the program mailing lists?  Check out the [http://groups.google.com/group/google-summer-of-code-announce/web additional program documentation]. Most other questions will be answered by our [http://code.google.com/soc/2008/faqs.htnl program FAQs].
-
 == Purpose of this Wiki ==
 We started this wiki to provide helpful advice to prospective and accepted Google Summer of Code^TM^ mentors and students. Most of the content here has been created by mentors and students, with Google's program administrators also contributing to the wiki based on feedback we've received throughout the program's history.
 
-Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on this wiki will be a useful starting point for drafting these guidelines, and we [mailto:gsoc@google.com welcome your feedback] about additional information that could be helpful.
+Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on this wiki will be a useful starting point for drafting these guidelines, and we [mailto:lhospo@gmail.com welcome your feedback] about additional information that could be helpful.
 
-The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:gsoc@google.com let us know]. 
+The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:lhospo@gmail.com let us know]. 
 
 ==Useful Links==
-  * [http://code.google.com/soc Google Summer of Code Program Page]
-  * [http://googlesummerofcode.blogspot.com/ Google Summer of Code Blog]
+  * [http://code.google.com/soc/ Google Summer of Code Program Page]
+  * [http://google-opensource.blogspot.com/search/label/gsoc Google Summer of Code related posts on the Google Open Source Blog]
   * [http://feeds.feedburner.com/GoogleSummerOfCodePodcasts Google Summer of Code Podcast]
   * [GsocLogos Google Summer of Code Logos]
 
 ==Help Wanted==
-We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GsocFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather.  We can also use help in translating the flyer.  
+We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GsocFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather. We can also use help in translating the flyer.  
 
-If you would like to give a presentation on Google Summer of Code, Pawel Solyga has graciously contributed some great overview slides, available in several formats:
+We'll have a 2009 version of the flyer available around 9 February 2009.
 
-  * [http://google-summer-of-code.googlecode.com/files/gsocpresentationfinal.zip Keynote (zip archive)]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.pdf PDF]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.ppt Powerpoint]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation.odp Open Document]
+==Media==
+
+If you would like to give a presentation on Google Summer of Code, check out the [ProgramPresentations program presentations page] for presentation templates. Feel free to modify the slides to suit your needs. If you give a presentation, please make sure to [mailto:lhospo@gmail.com tell us about it].
 
 ==Localized Information==
 You can find a list of resources for learning about the program, translated into a varity of languages, on the [LocalizedResources Localized Resources wiki page].
@@ -34,10 +31,12 @@ You can find a list of resources for learning about the program, translated into
 Check out these [Videos informational videos], in a variety of languages, created by the community for the community.
 
 ==Information on Past Years==
-We started a [http://googlesummerofcode.blogspot.com program blog] last year, where you can read about several of the highlights from 2007.
 
+For GSoC 2008, we published all of our updates on the Google Open Source Blog. You can check out all [http://google-opensource.blogspot.com/search/label/gsoc GSoC related content from 2008] there.
 
-If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog].  We had an 82% final success rate in 2006, meaning 82% of the 630 students who were accepted to the program received positive final evaluations.
+For GSoC 2007, we had a Google Summer of Code program blog. You can read [http://googlesummerofcode.blogspot.com there] about several of the highlights of the 2007 program. 
+
+If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog]. 
 
 ==Advice for Mentors==
 Wondering how to choose the best applicants for your project?  How to deal with a student reticent to post questions to the project-wide mailing list? How to keep your project's students engaged with the community long past the program's conclusion?  
