@@ -57,10 +57,6 @@ For mentors:
  taking sincere interest in their efforts, and frequent constructive 
  communication.
 
-There was a session at the mentor summit last year closely related to
-this idea that turned out to be a pretty interesting brainstorming
-session:  http://googlesummerofcode.jot.com/EncouragingStudents
-
 ----
 
 == Peter Hosey ==
