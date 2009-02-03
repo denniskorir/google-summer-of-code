@@ -9,6 +9,10 @@ These logos are is licensed under a [http://creativecommons.org/licenses/by-nc-n
 
 If you're wondering what this means, you are welcome to do what you'd like with the logo provided you do not change it beyond resizing it.  You are, for example, welcome to put it up on your website or use it on a flyer advertising your organization's participation in the program.  If you want to use it in a presentation, that's great, as long as you don't charge people to come and see you talk.  (Then again, you shouldn't be charging people to come hear you talk about Summer of Code anyway. :)
 
+== 2009 Logos ==
+
+The 2009 version of the logo will be available around February 9, 2009.
+
 == 2008 Logos ==
 
 The 2008 logo is available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=logo+2008&colspec=Filename+Summary+Uploaded+Size+DownloadCount variety of file formats]. You can also choose artwork that will appear better on a black or white background; the files are labeled accordingly.
