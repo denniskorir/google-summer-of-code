@@ -10,7 +10,7 @@ Please note that this information is
 
 If you would like to help us by localizing the program flyer, please:
   * comment on this wiki page that you plan to translate the flyer into a particular language
-  * download the English language template (to be made available)
+  * download the English language template
   * send the translated version to [mailto:lhospo@gmail.com Leslie Hawthorn]  
 
 Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
