@@ -11,7 +11,7 @@ If you're wondering what this means, you are welcome to do what you'd like with 
 
 == 2009 Logos ==
 
-The 2009 version of the logo will be available around February 9, 2009.
+The 2009 version is [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=logo+2009&colspec=Filename+Summary+Uploaded+Size+DownloadCount now available].  Currently only in png, but more file formats and sizes coming soon.
 
 == 2008 Logos ==
 
