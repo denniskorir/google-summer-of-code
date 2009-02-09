@@ -4,8 +4,6 @@
 The [http://google-summer-of-code.googlecode.com/files/GSoC2009Flyer.pdf English language version of the 2009 GSoC flyer] is now available.  If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
 == Translation Help ==
 
-Please note that this information is 
-
 If you would like to help us by localizing the program flyer, please:
   * comment on this wiki page that you plan to translate the flyer into a particular language
   * download the [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template.odt English language template]
