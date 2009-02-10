@@ -17,8 +17,21 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_bahasa.pdf Bahasa]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_brazillian.pdf Brazilian Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_fr.pdf French]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_german.pdf German]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_ro.pdf Romanian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_slovenian.pdf Slovenian]
+
+= 2009 Organization Specific Flyers =
+
+RTEMS [http://google-summer-of-code.googlecode.com/files/GSoC-2009-RTEMS-Flyer.pdf English - PDF]
 
 = 2008 Flyers =
 
