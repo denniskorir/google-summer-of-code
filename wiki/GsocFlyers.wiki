@@ -9,9 +9,16 @@ If you would like to help us by localizing the program flyer, please:
   * download the [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template.odt English language template]
   * send the translated version to [mailto:lhospo@gmail.com Leslie Hawthorn]  
 
-Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
+Most of the text is the same as last year, except for the program dates and the first paragraph.  Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
 
 Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page].  
+
+= 2009 Flyers =
+
+All of these flyers are available as PDF only.
+
+
+
 
 = 2008 Flyers =
 
