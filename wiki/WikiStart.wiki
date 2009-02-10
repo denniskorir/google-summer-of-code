@@ -18,8 +18,6 @@ The wiki is a work in progress, so if you see any sections marked "TODO" they wi
 ==Help Wanted==
 We'd love to have your help in spreading the word about Google Summer of Code.  Check out our [GsocFlyers Program Flyers] page and post some around your campus, local coffee shop and any other place the geeky gather. We can also use help in translating the flyer.  
 
-We'll have a 2009 version of the flyer available around 9 February 2009.
-
 ==Media==
 
 If you would like to give a presentation on Google Summer of Code, check out the [ProgramPresentations program presentations page] for presentation templates. Feel free to modify the slides to suit your needs. If you give a presentation, please make sure to [mailto:lhospo@gmail.com tell us about it].
