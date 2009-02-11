@@ -21,6 +21,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_brazillian.pdf Brazilian Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_english.pdf English]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_fr.pdf French]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_german.pdf German]
