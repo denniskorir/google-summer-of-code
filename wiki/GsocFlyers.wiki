@@ -21,13 +21,25 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_brazillian.pdf Brazilian Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_bulgarian.pdf Bulgarian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_catalan.pdf Catalan]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc-2009-nl.pdf Dutch]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_english.pdf English]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_fr.pdf French]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_german.pdf German]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Japanese.pdf Japanese]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Portuguese.pdf Portuguese]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_ro.pdf Romanian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template_sinhalese.pdf Sinhalese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_slovenian.pdf Slovenian]
 
