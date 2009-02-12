@@ -33,7 +33,9 @@ All of these flyers are available as PDF only.
 
 = 2009 Organization Specific Flyers =
 
-RTEMS [http://google-summer-of-code.googlecode.com/files/GSoC-2009-RTEMS-Flyer.pdf English - PDF]
+RTEMS with 2009 Logo [http://google-summer-of-code.googlecode.com/files/GSoC-RTEMS-Flyer-2009Logo-V2.pdf English - PDF]
+
+RTEMS with Black Flower Logo [http://google-summer-of-code.googlecode.com/files/GSoC-2009-RTEMS-Flyer.pdf English - PDF]
 
 = 2008 Flyers =
 
