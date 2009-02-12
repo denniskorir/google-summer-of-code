@@ -27,7 +27,7 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_catalan.pdf Catalan]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_chinese_simplified.pdf Chinese]
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_chinese_simplified.pdf Chinese (Simplified)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc-2009-nl.pdf Dutch]
 
