@@ -47,6 +47,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_slovenian.pdf Slovenian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template-turkish.pdf Turkish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_vietnamese.pdf Vietnamese]
 
 = 2009 Organization Specific Flyers =
