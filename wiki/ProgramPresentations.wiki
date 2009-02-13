@@ -32,7 +32,6 @@ Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with t
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.mov Flower Theme (2007 logo) - Video File]
 
-NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
 
 == 2008 Presentations ==
 
