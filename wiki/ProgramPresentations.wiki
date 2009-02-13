@@ -6,15 +6,32 @@ You might also want to check out our [LocalizedResources Localized Resources] pa
 
 == 2009 Presentations ==
 
-*Note that these drafts do not yet have the updated timeline information for GSoC 2009. They will be updated shortly after February 9, 2009.*
+Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with the updates. These presentations are available in a variety of formats and themes.
 
-Joel Sherrill updated Pawel Solyga's presentation.  It is available in a variety of formats:
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.swf 2009 Logo Theme - Flash]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.ppt Powerpoint]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.pdf PDF]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.zip Browseable Flash zipped]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.odp OpenOffice]
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation.key.zip Keynote zipped]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.key.zip 2009 Logo Theme - Keynote]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.mov 2009 Logo Theme - Movie]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.odp 2009 Logo Theme - OpenOffice]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.pdf 2009 Logo Theme - PDF]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.ppt 2009 Logo Theme - PowerPoint]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.swf Flower Theme (2007 logo) - Flash]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.key.zip Flower Theme (2007 logo) - Keynote]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.odp Flower Theme (2007 logo) - OpenOffice]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.pdf Flower Theme (2007 logo) - PDF]  
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.ppt Flower Theme (2007 logo) - PowerPoint]
+
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.mov Flower Theme (2007 logo) - Video File]
+
 NOTE: The zipped Flash version must be downloaded and unzipped.  Then load the index.html in your favorite browser with Flash support.
 
 == 2008 Presentations ==
