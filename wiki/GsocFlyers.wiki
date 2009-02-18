@@ -29,15 +29,33 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_chinese_simplified.pdf Chinese (Simplified)]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_danish.pdf Danish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc-2009-nl.pdf Dutch]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_english.pdf English]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_esperanto.pdf Esperanto]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_estonian.pdf Estonian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_fr.pdf French]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_galician.pdf Galician]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_german.pdf German]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_hebrew.pdf Hebrew]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_italian.pdf Italian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Japanese.pdf Japanese]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_korean.pdf Korean]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_macedonian.pdf Macedonian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_polish.pdf Polish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Portuguese.pdf Portuguese]
 
