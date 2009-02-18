@@ -14,21 +14,21 @@ Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with t
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.mov 2009 Logo Theme - Movie]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.odp 2009 Logo Theme - OpenOffice]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo.odp 2009 Logo Theme - OpenOffice]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.pdf 2009 Logo Theme - PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo.pdf 2009 Logo Theme - PDF]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-final.ppt 2009 Logo Theme - PowerPoint]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo.ppt 2009 Logo Theme - PowerPoint]
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.swf Flower Theme (2007 logo) - Flash]
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.key.zip Flower Theme (2007 logo) - Keynote]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.odp Flower Theme (2007 logo) - OpenOffice]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC-Presentation2009-FlowerTheme.odp Flower Theme (2007 logo) - OpenOffice]
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.pdf Flower Theme (2007 logo) - PDF]  
+  * [http://google-summer-of-code.googlecode.com/files/GSoC-Presentation2009-FlowerTheme.pdf Flower Theme (2007 logo) - PDF]  
 
-  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.ppt Flower Theme (2007 logo) - PowerPoint]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC-Presentation2009-FlowerTheme.ppt Flower Theme (2007 logo) - PowerPoint]
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-FlowerTheme-final.mov Flower Theme (2007 logo) - Video File]
 
