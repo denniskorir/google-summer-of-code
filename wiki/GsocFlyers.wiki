@@ -49,7 +49,7 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_italian.pdf Italian]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Japanese.pdf Japanese]
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Japanese-fixed.pdf Japanese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_korean.pdf Korean]
 
