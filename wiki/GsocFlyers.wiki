@@ -19,6 +19,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Arabic.pdf Arabic]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_asturian.pdf Asturian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_bahasa.pdf Bahasa]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_brazillian.pdf Brazilian Portuguese]
@@ -55,11 +57,15 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_macedonian.pdf Macedonian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_norwegian_bokmal.pdf Norwegian (Bokmal)]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_polish.pdf Polish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Portuguese.pdf Portuguese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_ro.pdf Romanian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_russian.pdf Russian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template_sinhalese.pdf Sinhalese]
 
@@ -67,9 +73,13 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_spanish.pdf Spanish]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_tajik.pdf Tajik]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template-turkish.pdf Turkish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_vietnamese.pdf Vietnamese]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_welsh.pdf Welsh]
 
 = 2009 Organization Specific Flyers =
 
