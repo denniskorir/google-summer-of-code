@@ -4,6 +4,8 @@ This page contains general presentations on the Google Summer of Code Program.
 
 You might also want to check out our [LocalizedResources Localized Resources] page for community contributed presentations in languages other than English. 
 
+Our [Videos Videos] page is another useful resource.
+
 == 2009 Presentations ==
 
 Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with the updates. These presentations are available in a variety of formats and themes.
