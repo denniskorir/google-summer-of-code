@@ -34,6 +34,10 @@ Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with t
 
   * [http://google-summer-of-code.googlecode.com/files/GSoC-Presentation2009-FlowerTheme.mov Flower Theme (2007 logo) - Video File]
 
+== Community Contributed Presentations ==
+
+[http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.ppt PPT] - Slides from Philip Johnson's presentation on Google Summer of Code. See also the [http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.mov Video]
+
 
 == 2008 Presentations ==
 
