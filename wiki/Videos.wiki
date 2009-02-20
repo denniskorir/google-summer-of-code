@@ -17,3 +17,7 @@ You can find additional videos and screencasts in our [http://es.youtube.com/use
 = Community Contributed Screencasts = 
 
 [http://idyll.dreamhosters.com/transfer/gsoc-2008-screencast.mp4 Summer of Code, MP4]
+
+Philip Johnson's presentation on Google Summer of Code; contains useful comments on pitching the program to would-be student participants.
+
+[http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.mov Summer of Code, MOV]
