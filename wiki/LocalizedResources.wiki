@@ -18,4 +18,11 @@ Frederic Mueller and his colleagues at the Beijing LUG kindly provided a transla
 Adam Rakowski gave a presentation at his university and has contributed back his slides for use. [http://google-summer-of-code.googlecode.com/files/GoogleSoC-polish.zip PowerPoint, zipped]
 
 === Russian ===
-  * Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russian] with more information about the program.
+Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russian] with more information about the program.
+
+=== Thai ===
+
+Akarawuth Tamrareang kindly provided a Thai translation of our 2009 Program Presentation. It is available in a variety of formats:
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.odp Open Office Presentation]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.ppt Powerpoint]
