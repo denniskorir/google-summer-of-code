@@ -67,6 +67,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_macedonian.pdf Macedonian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_maltese.pdf Maltese]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_norwegian_bokmal.pdf Norwegian (Bokmal)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_north_sami.pdf Northern Sami]
