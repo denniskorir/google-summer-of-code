@@ -89,6 +89,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_tamil.pdf Tamil]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template_Thai_v2.pdf Thai]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template-turkish.pdf Turkish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_vietnamese.pdf Vietnamese]
