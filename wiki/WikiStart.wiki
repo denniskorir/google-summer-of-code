@@ -25,7 +25,7 @@ We'd love to have your help in spreading the word about Google Summer of Code.  
 If you would like to give a presentation on Google Summer of Code, check out the [ProgramPresentations program presentations page] for presentation templates. Feel free to modify the slides to suit your needs. If you give a presentation, please make sure to [mailto:lhospo@gmail.com tell us about it].
 
 ==Localized Information==
-You can find a list of resources for learning about the program, translated into a varity of languages, on the [LocalizedResources Localized Resources wiki page].
+You can find a list of resources for learning about the program, translated into a variety of languages, on the [LocalizedResources Localized Resources wiki page].
 
 ==Videos==
 Check out these [Videos informational videos], in a variety of languages, created by the community for the community.
