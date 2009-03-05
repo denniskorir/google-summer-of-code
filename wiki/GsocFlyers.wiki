@@ -17,6 +17,8 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_armenian.pdf Armenian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Arabic.pdf Arabic]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_asturian.pdf Asturian]
@@ -47,6 +49,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_estonian.pdf Estonian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_finnish.pdf Finnish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_fr.pdf French]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_galician.pdf Galician]
@@ -65,6 +69,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_korean.pdf Korean]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_lt.pdf Lithuanian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_macedonian.pdf Macedonian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_maltese.pdf Maltese]
@@ -73,13 +79,17 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_north_sami.pdf Northern Sami]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_occitan.pdf Occitan]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_polish.pdf Polish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_Portuguese.pdf Portuguese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_ro.pdf Romanian]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_russian.pdf Russian]
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_russian_new.pdf Russian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_serbian.pdf Serbian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template_sinhalese.pdf Sinhalese]
 
