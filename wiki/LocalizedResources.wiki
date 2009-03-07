@@ -20,6 +20,10 @@ Adam Rakowski gave a presentation at his university and has contributed back his
 === Russian ===
 Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russian] with more information about the program.
 
+=== Spanish ===
+
+Carlos Mauro Cárdenas Fernández gave a [http://unimauro.blogspot.com/2009/03/ponencia-sobre-el-gsoc-2009.html presentation on Google Summer of Code] to his local university.
+ 
 === Thai ===
 
 Akarawuth Tamrareang kindly provided a Thai translation of our 2009 Program Presentation. It is available in a variety of formats:
