@@ -61,6 +61,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_hebrew.pdf Hebrew]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_hindi.pdf Hindi]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_icelandic.pdf Icelandic]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_irish.pdf Irish]
