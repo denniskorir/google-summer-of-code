@@ -111,6 +111,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template-turkish.pdf Turkish]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_urdu.pdf Urdu]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_vietnamese.pdf Vietnamese]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_welsh.pdf Welsh]
