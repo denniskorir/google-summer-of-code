@@ -8,6 +8,9 @@
 === Chinese (Simplified) ===
 Frederic Mueller and his colleagues at the Beijing LUG kindly provided a translation of the [http://google-summer-of-code.googlecode.com/files/GSoC_presentation_SimplifiedChinese.odp program presentation into Simplified Chinese] (ODP file).  They have also posted more information about Google Summer of Code on the [http://www.beijinglug.org/ Beijing LUG website].
 
+=== German ===
+Dirk Haun has contributed this [http://www.haun-online.de/presentations/ presentation]. Available as PDF & Keynote.
+
 === Japanese ===
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation-Japanese.odp program presentation in Japanese] (ODP file).
   * There are [http://groups.google.com/group/google-summer-of-code-discuss-ja?hl=ja Japanese discussion list on Google Summer of Code].
