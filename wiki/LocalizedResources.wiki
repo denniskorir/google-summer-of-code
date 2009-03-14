@@ -5,6 +5,13 @@
 
   * You should also check out our [Videos videos] page for localized videos produced for the community, by the community.
 
+=== Brasilian Portuguese ===
+
+Gustavo Franco has translated our 2009 program presentation. You can download it in the following formats:
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo_pt-br.odp Open Document Presentation]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo_pt-br%282%29.pdf PDF]
+  * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo_pt-br.ppt PowerPoint]
+
 === Chinese (Simplified) ===
 Frederic Mueller and his colleagues at the Beijing LUG kindly provided a translation of the [http://google-summer-of-code.googlecode.com/files/GSoC_presentation_SimplifiedChinese.odp program presentation into Simplified Chinese] (ODP file).  They have also posted more information about Google Summer of Code on the [http://www.beijinglug.org/ Beijing LUG website].
 
