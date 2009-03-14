@@ -38,7 +38,9 @@ Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with t
 
 [http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.ppt PPT] - Slides from Philip Johnson's presentation on Google Summer of Code. See also the [http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.mov Video]
 
-[ttp://www.nsnam.org/docs/gsoc.ppt PPT] - Slides from Infosession at the University of Washington, March 2009, courtesy of Craig Dowell
+[http://www.nsnam.org/docs/gsoc.ppt PPT] - Slides from Infosession at the University of Washington, March 2009, courtesy of Craig Dowell
+
+[http://www.slideshare.net/dhaun] - Slides from Dirk Haun's Infosession on Google Summer of Code, also available in [http://code.google.com/p/google-summer-of-code/wiki/LocalizedResources German]
 
 
 == 2008 Presentations ==
