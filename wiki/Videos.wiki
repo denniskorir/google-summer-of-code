@@ -2,7 +2,15 @@
 
 You can find additional videos and screencasts in our [http://www.youtube.com/user/googOSPOstudntprgrms Google Open Source Student Programs YouTube channel].
 
-= Community Contributed Videos =
+= Community Contributed Screencasts = 
+
+[http://idyll.dreamhosters.com/transfer/gsoc-2008-screencast.mp4 Summer of Code, MP4]
+
+Philip Johnson's presentation on Google Summer of Code; contains useful comments on pitching the program to would-be student participants.
+
+[http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.mov Summer of Code, MOV]
+
+= Community Contributed Videos 2007 =
 
 [http://youtube.com/watch?v=OBUvf2q9vSc English - YouTube]
 
@@ -13,11 +21,3 @@ You can find additional videos and screencasts in our [http://www.youtube.com/us
 [http://youtube.com/watch?v=g9fKdYB0no4 Spanish - YouTube]
 
 [http://video.google.com/videoplay?docid=1508158786053084543 Português/Brasil - YouTube: Sidnei da Silva @ PyCon Brasil]
-
-= Community Contributed Screencasts = 
-
-[http://idyll.dreamhosters.com/transfer/gsoc-2008-screencast.mp4 Summer of Code, MP4]
-
-Philip Johnson's presentation on Google Summer of Code; contains useful comments on pitching the program to would-be student participants.
-
-[http://csdl.ics.hawaii.edu/~johnson/screencasts/GSoC2009.mov Summer of Code, MOV]
