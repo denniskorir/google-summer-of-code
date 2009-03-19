@@ -18,9 +18,15 @@ Laurynas Biveinis has written an excellent introduction to [http://of-code.blogs
 
 == Choosing a Mentoring Organization ==
 
+Alex Pico with GenMAPP has once again created a [http://delicious.com/gsoc2009 categorized list of mentoring organizations] for 2009 using Delicio.us, a social bookmarking site. For more on how to use this list most effectively, see Alex's [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/3f9b05dea6538a9a post on the Google Summer of Code Discussion list].
+
+Haoyu Bai, GSoC 2008 student working with the SWIG project, has created a [http://tinyurl.com/gsocideas custom search for all of our 2009 mentoring organizations]. For more on how to use this tool most effectively, see Haoyu's [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/b53f55e917d9766f post on the Google Summer of Code Discussion list].
+
+If you're interested in some historical references on participating organizations, you can check out:
+
 Alex Pico with GenMAPP created a [http://genmapp.org/gsoc/mentors_by_category.htm categorized list of mentoring organizations for GSoC 2008].  The list is admittedly somewhat subjective, it may be of help to you in narrowing down the list of organizations you'd like to investigate.
 
-You may also want to check out this list of [http://eflow.org/wiki/index.php?Mentors_by_language mentoring organizations categorized by programming language].
+You may also want to check out this list of [http://eflow.org/wiki/index.php?Mentors_by_language 2008 mentoring organizations categorized by programming language].
 
 While you'll want to choose a mentoring organization based on your technical skill set, there are many other factors to consider.  Further, several organizations will require similar expertise from their students, so you may find yourself facing some challenging decisions about where to spend your time applying.  Here are a few suggestions to help you determine which organizations will be the best ones for you:
 
