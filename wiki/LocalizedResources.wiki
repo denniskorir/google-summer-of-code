@@ -33,7 +33,10 @@ Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russ
 === Spanish ===
 
 Carlos Mauro Cárdenas Fernández gave a [http://unimauro.blogspot.com/2009/03/ponencia-sobre-el-gsoc-2009.html presentation on Google Summer of Code] to his local university.
- 
+
+Rodrigo Lazo has also contributed [http://google-summer-of-code.googlecode.com/files/slides.pdf 2009 program presentation slides] in the Spanish. These were the slides he used during his presentation at [http://www.ucsp.edu.pe/ Universidad Catolica San Pablo].
+
+
 === Thai ===
 
 Akarawuth Tamrareang kindly provided a Thai translation of our 2009 Program Presentation. It is available in a variety of formats:
