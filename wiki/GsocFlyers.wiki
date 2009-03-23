@@ -123,6 +123,8 @@ All of these flyers are available as PDF only.
 
 = 2009 Organization Specific Flyers =
 
+LimeSurvey - [http://google-summer-of-code.googlecode.com/files/LimeSurvey-GSoC-Flyer-2009.pdf PDF]
+
 RTEMS with 2009 Logo [http://google-summer-of-code.googlecode.com/files/GSoC-RTEMS-Flyer-2009Logo-V2.pdf English - PDF]
 
 RTEMS with Black Flower Logo [http://google-summer-of-code.googlecode.com/files/GSoC-2009-RTEMS-Flyer.pdf English - PDF]
