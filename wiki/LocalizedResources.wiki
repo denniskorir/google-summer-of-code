@@ -15,6 +15,10 @@ Gustavo Franco has translated our 2009 program presentation. You can download it
 === Chinese (Simplified) ===
 Frederic Mueller and his colleagues at the Beijing LUG kindly provided a translation of the [http://google-summer-of-code.googlecode.com/files/GSoC_presentation_SimplifiedChinese.odp program presentation into Simplified Chinese] (ODP file).  They have also posted more information about Google Summer of Code on the [http://www.beijinglug.org/ Beijing LUG website].
 
+=== Chinese (Traditional) ===
+
+Charles Chuang has translated the 2009 Program Presentation into Traditional Chinese. The slides are available as an [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Chinese-Traditional.odp Open Office Presentation] or as a [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Chinese-Traditional.pdf PDF].
+
 === German ===
 Dirk Haun has contributed this [http://www.haun-online.de/presentations/ presentation]. Available as PDF & Keynote.
 
