@@ -2,16 +2,23 @@
 
 = Advertising Google Summer of Code 2009 =
 The [http://google-summer-of-code.googlecode.com/files/GSoC2009Flyer.pdf English language version of the 2009 GSoC flyer] is now available.  If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
+
 == Translation Help ==
 
 If you would like to help us by localizing the program flyer, please:
   * comment on this wiki page that you plan to translate the flyer into a particular language
-  * download the [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_template.odt English language template]
+  * download the [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=2010+flyer&colspec=Filename+Summary+Uploaded+Size+DownloadCount English language template] (A4 or 8.5" x 11")
   * send the translated version to [mailto:lhospo@gmail.com Leslie Hawthorn]  
 
 Most of the text is the same as last year, except for the program dates and the first paragraph.  Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
 
 Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page].  
+
+= 2010 Flyers =
+
+All of these flyers are available as PDF only.
+
+
 
 = 2009 Flyers =
 
