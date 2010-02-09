@@ -22,7 +22,7 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 = 2009 Flyers =
 
-All of these flyers are available as PDF only.
+All of these flyers are available as PDF only.  They are here for historical reference and to inspire you if you'd like to create your own materials.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2009flyer_armenian.pdf Armenian]
 
