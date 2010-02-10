@@ -18,7 +18,43 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_asturian_A4.pdf Asturian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_bulgarian_USLetter.pdf Bulgarian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_catalan_A4.pdf Catalan]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_chinese_simplified.pdf Chinese - Simplified]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_DUTCH.pdf Dutch]
+
 English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pdf A4] or [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_8.5x11.pdf 8.5 x 11]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_french_A4.pdf French]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_icelandic_A4.pdf Icelandic]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_irish_A4.pdf Irish]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_italian.pdf Italian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_bokmal_A4.pdf Norwegian (Bokmal)]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_nynorsk_A4.pdf Norwegian (Nynorsk}]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_BR_A4.pdf Portuguese (Brasilian)]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_PT_A4.pdf Portuguese]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_russian_USLetter.pdf Russian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_serbian_A4.pdf Serbian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovak.pdf Slovak]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovenian_A4.pdf Slovenian]
 
 = 2009 Flyers =
 
