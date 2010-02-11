@@ -1,4 +1,5 @@
 #summary Flyers to Advertise the Google Summer of Code Program
+#labels flyer
 
 = Advertising Google Summer of Code 2010 =
 The English language version of the 2010 GSoC flyer is now available. ([http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pdf A4] or [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_8.5x11.pdf 8.5 x 11])  If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
@@ -26,9 +27,13 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_chinese_simplified.pdf Chinese - Simplified]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_danish_A4.pdf Danish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_DUTCH.pdf Dutch]
 
 English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pdf A4] or [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_8.5x11.pdf 8.5 x 11]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_esperanto_A4.pdf Esperanto]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_french_A4.pdf French]
 
@@ -55,6 +60,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovak.pdf Slovak]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovenian_A4.pdf Slovenian]
+
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_welsh.pdf Welsh]
 
 = 2009 Flyers =
 
