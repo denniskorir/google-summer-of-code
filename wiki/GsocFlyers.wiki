@@ -19,7 +19,13 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_albanian.pdf Albanian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_asturian_A4.pdf Asturian]
+
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_basque.pdf Basque]
+
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_english_UK.pdf British (Proper :) English]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_bulgarian_USLetter.pdf Bulgarian]
 
@@ -28,6 +34,8 @@ All of these flyers are available as PDF only.
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_chinese_simplified.pdf Chinese - Simplified]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_danish_A4.pdf Danish]
+
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_persian.pdf Dari (Persian)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_DUTCH.pdf Dutch]
 
@@ -40,6 +48,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_Hebrew.pdf Hebrew]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_hindi.pdf Hindi]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_icelandic_A4.pdf Icelandic]
 
@@ -55,6 +65,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_PT_A4.pdf Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_romanian.pdf Romanian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_russian_USLetter.pdf Russian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_serbian_A4.pdf Serbian]
@@ -62,6 +74,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovak.pdf Slovak]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovenian_A4.pdf Slovenian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Turkish.pdf Turkish]
 
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_welsh.pdf Welsh]
 
