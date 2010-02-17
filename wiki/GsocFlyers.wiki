@@ -39,6 +39,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_Hebrew.pdf Hebrew]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_icelandic_A4.pdf Icelandic]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_irish_A4.pdf Irish]
