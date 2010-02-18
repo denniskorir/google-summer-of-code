@@ -1,4 +1,5 @@
 #summary Presentations on the Google Summer of Code Program
+#labels presentation
 
 This page contains general presentations on the Google Summer of Code Program.
 
@@ -8,7 +9,7 @@ Our [Videos Videos] page is another useful resource.
 
 == 2010 Presentations ==
 
-You can find an updated version of the 2010 themed presentation slides available in a wide variety of formats. Thanks again to Joel Sherrill and Pawel Solyga for their help.
+You can find an updated version of the 2010 themed presentation slides available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=presentation+2010 wide variety of formats]. Thanks again to Joel Sherrill and Pawel Solyga for their help in creating the English language versions.
 
 == 2009 Presentations ==
 
