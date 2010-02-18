@@ -71,9 +71,13 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_serbian_A4.pdf Serbian]
 
+[http://google-summer-of-code.googlecode.com/files/Translation_Sinhala.pdf Sinhalese]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovak.pdf Slovak]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovenian_A4.pdf Slovenian]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_LetterTemplate_Arial_Thai.pdf Thai]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Turkish.pdf Turkish]
 
