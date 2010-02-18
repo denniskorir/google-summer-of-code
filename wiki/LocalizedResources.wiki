@@ -18,7 +18,7 @@ Gustavo has also put together this [http://gsoc-br.org/ website] with informatio
 
 Abby Li contributed a translation of the 2010 program presentation in [http://google-summer-of-code.googlecode.com/files/GSoC2010-Presentation-SimplifiedChinese.odp ODP] and [http://google-summer-of-code.googlecode.com/files/GSoC2010-Presentation-SimplifiedChinese.pdf PDF] formats.
 
-Frederic Mueller and his colleagues at the Beijing LUG kindly provided a translation of the [http://google-summer-of-code.googlecode.com/files/GSoC_presentation_SimplifiedChinese.odp program presentation into Simplified Chinese] (ODP file).  They have also posted more information about Google Summer of Code on the [http://www.beijinglug.org/ Beijing LUG website].
+In the past, Frederic Mueller and his colleagues at the Beijing LUG kindly provided a translation of the [http://google-summer-of-code.googlecode.com/files/GSoC_presentation_SimplifiedChinese.odp program presentation into Simplified Chinese] (ODP file).  They have also posted more information about Google Summer of Code on the [http://www.beijinglug.org/ Beijing LUG website].
 
 === Chinese (Traditional) ===
 
