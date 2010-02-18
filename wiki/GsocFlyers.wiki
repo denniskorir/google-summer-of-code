@@ -61,6 +61,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_nynorsk_A4.pdf Norwegian (Nynorsk}]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_polish_A4.pdf Polish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_BR_A4.pdf Portuguese (Brasilian)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_PT_A4.pdf Portuguese]
