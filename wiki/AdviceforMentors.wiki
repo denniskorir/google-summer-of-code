@@ -2,6 +2,10 @@
 
 = Welcome to the Advice for GSoC Mentors Page =
 
+== <b>New!</b>: Guide to Mentoring for Google Summer of Code ==
+
+Check out [http://en.flossmanuals.net/GSoCMentoringGuide this manual] produced by mentors and organization administrators for the community. Great place to start for beginners, plenty of useful tips for old hands, too.
+
 While participating in Google Summer of Code^TM^ is an incredibly rewarding endeavor, creating the necessary structures for participating in the program can be a daunting prospect.  The collective wisdom captured here should help you determine whether your organization has the resources to commit to participating in the program, how to deal with common pitfalls in the mentoring process and how to best encourage your students to both successfully complete their projects and stay on the path to becoming full developers/committers. 
 
 Google's program administrators *highly* recommend that your organization takes the time to publicly document how you plan to structure GSoC involvement within the project and how your organization plans to address some of the issues described on this page.  We hope this information will help you to more clearly articulate your project's culture to prospective students, as well as serving as the plan of record for dealing with problems that may arise during the course of the program.
