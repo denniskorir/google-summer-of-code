@@ -6,6 +6,10 @@ You might also want to check out our [LocalizedResources Localized Resources] pa
 
 Our [Videos Videos] page is another useful resource.
 
+== 2010 Presentations ==
+
+You can find an updated version of the 2010 themed presentation slides available in a wide variety of formats. Thanks again to Joel Sherrill and Pawel Solyga for their help.
+
 == 2009 Presentations ==
 
 Joel Sherrill updated Pawel Solyga's presentation and Pawel Solyga helped with the updates. These presentations are available in a variety of formats and themes.
