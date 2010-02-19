@@ -43,9 +43,9 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_esperanto_A4.pdf Esperanto]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_french_A4.pdf French]
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_fr_A4.pdf French]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
+[hhttp://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_Hebrew.pdf Hebrew]
 
@@ -79,11 +79,17 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_slovenian_A4.pdf Slovenian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_Arial_Spanish.pdf Spanish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_LetterTemplate_Arial_Thai.pdf Thai]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Turkish.pdf Turkish]
 
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_welsh.pdf Welsh]
+
+== Organization Specific Flyers ==
+
+RTEMS - [http://google-summer-of-code.googlecode.com/files/GSoC-RTEMS-Flyer-2010Logo-V2.pdf regular flyer] and [http://google-summer-of-code.googlecode.com/files/GSoC-Flyer-WithTearOffs.pdf with tear offs]
 
 = 2009 Flyers =
 
