@@ -23,9 +23,13 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_asturian_A4.pdf Asturian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_azerbaijani.pdf Azerbaijani]
+
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_basque.pdf Basque]
 
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_english_UK.pdf British (Proper :) English]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_breton.pdf Breton]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_bulgarian_USLetter.pdf Bulgarian]
 
