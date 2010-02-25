@@ -49,7 +49,7 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_fr_A4.pdf French]
 
-[hhttp://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_Hebrew.pdf Hebrew]
 
