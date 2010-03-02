@@ -27,6 +27,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_basque.pdf Basque]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_belarus.pdf Belarus]
+
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_english_UK.pdf British (Proper :) English]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_breton.pdf Breton]
@@ -36,6 +38,8 @@ All of these flyers are available as PDF only.
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_catalan_A4.pdf Catalan]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_chinese_simplified.pdf Chinese - Simplified]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_Croatian.pdf Croatian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_danish_A4.pdf Danish]
 
@@ -61,11 +65,13 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_italian.pdf Italian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_japanese.pdf Japanese]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_bokmal_A4.pdf Norwegian (Bokmal)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_nynorsk_A4.pdf Norwegian (Nynorsk}]
 
-[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_polish_A4.pdf Polish]
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Template_polish_revised.pdf Polish]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_BR_A4.pdf Portuguese (Brasilian)]
 
@@ -89,7 +95,11 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Turkish.pdf Turkish]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_ukranian_USLetter.pdf Ukranian]
+
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_welsh.pdf Welsh]
+
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Template_Yoruba.pdf Yoruba]
 
 == Organization Specific Flyers ==
 
