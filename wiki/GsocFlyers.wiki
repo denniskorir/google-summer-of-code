@@ -41,6 +41,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_Croatian.pdf Croatian]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_czech.pdf Czech]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_danish_A4.pdf Danish]
 
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_persian.pdf Dari (Persian)]
