@@ -61,6 +61,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_hindi.pdf Hindi]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Template_Arial_Hungarian.pdf Hungarian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_icelandic_A4.pdf Icelandic]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_irish_A4.pdf Irish]
