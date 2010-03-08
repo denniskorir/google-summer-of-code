@@ -75,6 +75,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_japanese.pdf Japanese]
 
+[http://google-summer-of-code.googlecode.com/files/gsocflyer2010_macedonian.pdf Macedonian]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_bokmal_A4.pdf Norwegian (Bokmal)]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_norwegian_nynorsk_A4.pdf Norwegian (Nynorsk}]
