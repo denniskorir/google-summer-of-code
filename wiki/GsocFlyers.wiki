@@ -31,6 +31,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4_belarus.pdf Belarus]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_bengali.pdf Bengali]
+
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_english_UK.pdf British (Proper :) English]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_breton.pdf Breton]
