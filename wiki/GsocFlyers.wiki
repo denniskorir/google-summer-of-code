@@ -57,6 +57,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_esperanto_A4.pdf Esperanto]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_finnish.pdf Finnish]
+
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_fr_A4.pdf French]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_german_A4.pdf German]
