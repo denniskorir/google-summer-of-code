@@ -119,6 +119,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 == Organization Specific Flyers ==
 
+Haiku - [http://google-summer-of-code.googlecode.com/files/2010-03-18_gsoc2010-haiku-flyer.pdf flyer] 
+
 RTEMS - [http://google-summer-of-code.googlecode.com/files/GSoC-RTEMS-Flyer-2010Logo-V2.pdf regular flyer] and [http://google-summer-of-code.googlecode.com/files/GSoC-Flyer-WithTearOffs.pdf with tear offs]
 
 = 2009 Flyers =
