@@ -93,6 +93,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_portuguese_PT_A4.pdf Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Template_Arial_pt-PT.pdf Portuguese (Portugal)]
+
 [http://google-summer-of-code.googlecode.com/files/gsocflyer2010_romanian.pdf Romanian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_russian_USLetter.pdf Russian]
