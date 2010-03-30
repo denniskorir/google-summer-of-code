@@ -13,7 +13,7 @@ If you would like to help us by localizing the program flyer, please:
 
 Most of the text is the same as last year, except for the program dates and the first paragraph.  Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
 
-Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:lhospo@gmail.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page]. If you need to use the [GsocLogos program logos] please do, just follow the posted guidelines.
+Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:carols@google.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page]. If you need to use the [GsocLogos program logos] please do, just follow the posted guidelines.
 
 = 2010 Flyers =
 
@@ -72,6 +72,8 @@ English - [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4.pd
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_A4Template_Arial_Hungarian.pdf Hungarian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_icelandic_A4.pdf Icelandic]
+
+[http://google-summer-of-code.googlecode.com/files/ID-gsoc2010flyer_A4Template_Arial.pdf Indonesian]
 
 [http://google-summer-of-code.googlecode.com/files/gsoc2010flyer_irish_A4.pdf Irish]
 
