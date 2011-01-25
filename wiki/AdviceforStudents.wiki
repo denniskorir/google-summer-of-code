@@ -4,6 +4,8 @@
 
 Whether or not you're new to open source development, the work you'll do as part of the Google Summer of Code^TM^ program is not the "usual" way people are involved in developing free software.  The information on this page, written by GSoC students and mentors for students, is meant to help you choose a mentoring organization, write your application and hone your skills as an open source developer.
 
+Firstly, please read the [http://www.booki.cc/gsocstudentguide/ Google Summer of Code™ Student Manual]. It contains a lot of helpful information about the program and about participating as a student in Google Summer of Code™. 
+
 If you are a complete beginner, you should check out [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/d52e90816863e9c0 this thread] by Adam Rakowski, 2008 student with the Tux4Kids project. That thread also contains great advice for students who have *many* ideas about how to improve a particular open source project.
 
 In addition to the advice here, Patrick Barnes, organization administrator for the Fedora Project, has posted some helpful [http://groups.google.com/group/google-summer-of-code-discuss/browse_thread/thread/4cccd94e0b9aefc9 hints] in the [http://groups.google.com/group/google-summer-of-code-discuss Google Summer of Code Discussion Group].
