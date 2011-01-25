@@ -10,6 +10,10 @@ These logos are is licensed under a [http://creativecommons.org/licenses/by-nc-n
 
 If you're wondering what this means, you are welcome to do what you'd like with the logo provided you do not change it beyond resizing it.  You are, for example, welcome to put it up on your website or use it on a flyer advertising your organization's participation in the program.  If you want to use it in a presentation, that's great, as long as you don't charge people to come and see you talk.  (Then again, you shouldn't be charging people to come hear you talk about Summer of Code anyway. :)
 
+== 2011 Logos ==
+
+The [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=2011+logo&colspec=Filename+Summary+Uploaded+Size+DownloadCount 2011 logo] is now available in JPEG and PNG.
+
 == 2010 Logos ==
 
 The [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=2010+logo&colspec=Filename+Summary+Uploaded+Size+DownloadCount 2010 logo] is now available in JPEG and PNG.
