@@ -41,6 +41,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.pt_BR.pdf Portuguese]
 
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.tr.pdf Turkish]
+
 = 2010 Flyers =
 
 All of these flyers are available as PDF only.
