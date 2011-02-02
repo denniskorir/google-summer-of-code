@@ -21,6 +21,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/GSOC2011-arabic-flyer.odt.pdf Arabic]
 
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.eu.pdf Basque] 
+
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.bg.pdf Bulgarian]
 
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2011FlyerA4.pdf  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2011Flyer.pd 8.5 x 11]
