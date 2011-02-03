@@ -27,9 +27,13 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.ca.pdf Catalan]
 
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.da.pdf Danish]
+
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer-nl.pdf Dutch]
 
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2011FlyerA4.pdf  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2011Flyer.pd 8.5 x 11]
+
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.eo.pdf Esperanto] 
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.fi.pdf Finnish] 
 
@@ -46,6 +50,10 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.nb.pdf Norwegian (Bokmål)]
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.pt_BR.pdf Portuguese]
+
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.ro.pdf Romanian]
+
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.sl.pdf Slovenian]
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.tr.pdf Turkish]
 
