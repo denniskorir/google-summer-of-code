@@ -7,6 +7,10 @@ You might also want to check out our [LocalizedResources Localized Resources] pa
 
 Our [Videos Videos] page is another useful resource.
 
+== 2011 Presentations ==
+
+You can find the 2011 themed presentation slides available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=presentation+2011 wide variety of formats]. Thanks again to Joel Sherrill and Pawel Solyga for their help in creating the English language versions.
+
 == 2010 Presentations ==
 
 You can find an updated version of the 2010 themed presentation slides available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=presentation+2010 wide variety of formats]. Thanks again to Joel Sherrill and Pawel Solyga for their help in creating the English language versions.
