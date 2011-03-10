@@ -57,6 +57,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.ga.pdf Irish] 
 
+[http://google-summer-of-code.googlecode.com/files/Google Summer of Code 2011 (isiXhosa).pdf isiXhosa] 
+
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.it.pdf Italian] 
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.mk.pdf Macedonian]
