@@ -29,6 +29,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.be.pdf Belarusian] 
 
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.br.pdf Breton] 
+
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.bg.pdf Bulgarian]
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.ca.pdf Catalan]
