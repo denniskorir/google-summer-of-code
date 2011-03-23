@@ -35,6 +35,8 @@ All of these flyers are available as PDF only.
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.ca.pdf Catalan]
 
+[http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer_chinese.pdf Simplified Chinese]
+
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer-Croatian.pdf Croatian]
 
 [http://google-summer-of-code.googlecode.com/files/GSoC2011Flyer.da.pdf Danish]
