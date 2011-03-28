@@ -99,7 +99,7 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 == Organization Specific Flyers ==
 
-All Organizations, English - [http://google-summer-of-code.googlecode.com/files/GSOC2011OrgsFlyer.pdf flyer] 
+All Organizations, English - [http://google-summer-of-code.googlecode.com/files/GSOC2011OrgsFlyer-1.pdf flyer] 
 
 = 2010 Flyers =
 
