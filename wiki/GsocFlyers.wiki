@@ -103,7 +103,9 @@ All Organizations, English - [http://google-summer-of-code.googlecode.com/files/
 
 BRL-CAD - [http://google-summer-of-code.googlecode.com/files/BRL-CAD_GSoC2011_flyer.pdf flyer]
 
-Haiku - [http://google-summer-of-code.googlecode.com/files/GSoC-Haiku-2011-Flyer-print.pdf flyer] 
+Haiku - [http://google-summer-of-code.googlecode.com/files/GSoC-Haiku-2011-Flyer-print.pdf flyer]
+
+Orange - [http://google-summer-of-code.googlecode.com/files/GSoC-2011-eng-web.pdf flyer]
 
 = 2010 Flyers =
 
