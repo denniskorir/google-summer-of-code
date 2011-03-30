@@ -101,7 +101,7 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 All Organizations, English - [http://google-summer-of-code.googlecode.com/files/GSOC2011OrgsFlyer-1.pdf flyer] 
 
-Haiku - [http://google-summer-of-code.googlecode.com/files/2011-03-18_gsoc2011-haiku-flyer-final_for-print.pdf flyer] 
+Haiku - [http://google-summer-of-code.googlecode.com/files/GSoC-Haiku-2011-Flyer-print.pdf flyer] 
 
 = 2010 Flyers =
 
