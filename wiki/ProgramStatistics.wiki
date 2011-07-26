@@ -6,6 +6,16 @@ Many folks ask us frequently for an overview of how many students participated i
 
 Check out our [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2009/09/tasty-new-google-summer-of-code-stats.html our September follow up post] for lots of detailed information including number of students by country, etc. and some [http://google-opensource.blogspot.com/2009/09/tasty-new-google-summer-of-code-stats.html additional statistics] about participants and top schools.
 
+*Statistics for 2011*
+
+Coding Dates: May 23rd - Aug 22nd
+
+$7.2M budget
+
+1115 students accepted
+
+175 Open Source organizations
+
 *Final Statistics for 2010*
 
 Coding Dates: May 24 - Aug 16th
