@@ -14,7 +14,13 @@ $7.2M budget
 
 1115 students accepted
 
+2096 mentors and co-mentors
+
 175 Open Source organizations
+
+Accepted students from 68 countries (including 6 new countries), mentors from 55 countries (including 7 new countries)
+
+97 countries with student applicants
 
 *Final Statistics for 2010*
 
@@ -36,6 +42,8 @@ Coding Dates: May 23 - Aug 25th
 $5M budget
 
 1000 students accepted
+
+1991 mentors and co-mentors
 
 150 Open Source organizations
 
