@@ -4,7 +4,7 @@
 
 Many folks ask us frequently for an overview of how many students participated in the program, how many organizations we accepted, etc. This page is your one stop shop for that data. Not finding some information you'd like? Comment here and we can respond as soon as possible to your request for information.
 
-Check out our [http://google-opensource.blogspot.com/2011/05/google-summer-of-code-where-are.html blog post on 2011 program statistics] and our posts from previous years: [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2009/09/tasty-new-google-summer-of-code-stats.html our September follow up post] for lots of detailed information including number of students by country, etc. and some [http://google-opensource.blogspot.com/2009/09/tasty-new-google-summer-of-code-stats.html additional statistics] about participants and top schools.
+Check out our [http://google-opensource.blogspot.com/2011/05/google-summer-of-code-where-are.html blog post on 2011 program statistics] and our posts from previous years: [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2009/09/tasty-new-google-summer-of-code-stats.html our September follow up post] for lots of detailed information including number of students by country, etc. and some additional statistics about participants and top schools.
 
 *Statistics for 2011*
 
