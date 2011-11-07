@@ -1,3 +1,5 @@
+#summary Role of IRC in open source development and applications for joining it
+
 = IRC is where People Talk about Open Source Projects =
 
 IRC (Internet Relay Chat) is one of the main communication channels for open source projects. You can freely join a channel that suits your interests if you are looking for help or interested in contributing. A page about contributing to any open source project will typically have its IRC channel listed. The GSoC program IRC channel is #gsoc on Freenode (irc.freenode.net) server.
