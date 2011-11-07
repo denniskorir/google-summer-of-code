@@ -1,0 +1,11 @@
+Best way to prepare for applying for GSoC in the future is to become a contributor of the project that interests you ahead of time. The links below link to pages with some nice folks in each organization who can help you make your first contribution any time throughout the year.
+
+Once you decide what project you are interested in contributing to and explore the information available about that project on its website and wiki, you can introduce yourself to the project's mentor and ask them any questions you have about contributing to the project. The mentor can help you build the project's code, identify an easy bug to start with, and help you with your patch for that bug. The mentor can guide you through your subsequent contributions and point to the resources for solving a particular task.
+
+[http://code.google.com/p/google-summer-of-code/Irc IRC] is one of the main communication channels for open source projects. You should try contacting a mentor in the project's IRC channel, and use e-mail if you don't see them on IRC. Typically, there are other people in the project's IRC channel, who can help you too. You can address the mentor directly in the IRC channel by using their nick in your question. E.g. if the mentor's IRC nick is kelly, you can say "kelly: hi! I just built project-foo and looking for a bug to fix - I found bug 123 and bug 321 in the project's bug tracking system that both look like something I can try to work on, but I wanted to see if you have any recommendation, since you are listed as a mentor for the project".
+
+If you are interested in finding a mentor for an organization not listed here, you can look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and try to find them on the project's IRC channel.
+
+== Organizations' Lists of Mentors ==
+
+ * [https://live.gnome.org/GnomeLove/Mentors GNOME mentors] - GNOME offers an easy to understand desktop for GNU/Linux and UNIX. It is also as an umbrella project for many applications that people use on their desktops, such as Empathy, Pitivi, gedit, and others.
