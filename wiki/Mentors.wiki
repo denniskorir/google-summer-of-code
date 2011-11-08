@@ -6,7 +6,9 @@ Once you decide what project you are interested in contributing to and explore t
 
 [http://code.google.com/p/google-summer-of-code/Irc IRC] is one of the main communication channels for open source projects. You should try contacting a mentor in the project's IRC channel, and use e-mail if you don't see them on IRC. Typically, there are other people in the project's IRC channel, who can help you too. You can address the mentor directly in the IRC channel by using their nick in your question. E.g. if the mentor's IRC nick is kelly, you can say "kelly: hi! I just built project-foo and looking for a bug to fix - I found bug 1234 and bug 4321 in the project's bug tracking system that both look like something I can try to work on, but I wanted to see if you have any recommendation, since you are listed as a mentor for the project".
 
-If you are interested in finding a mentor for an organization not listed here, you can look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and try to find them on the project's IRC channel. The full list of organizations that participated in Google Summer of Code in 2011 is [http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2011 here].
+There are thousands of open source organizations out there, and hundreds of them participated in GSoC in the past. The full list of organizations that participated in 2011 is [http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2011 here]. 
+
+Please don't hesitate to seek out a mentor from an organization not listed on this page. You can explore that organization's homepage, and chances are you will find some clues about how to get involved. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and try to find them on the project's IRC channel.
 
 Organizations interested in being added to the list can e-mail Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
