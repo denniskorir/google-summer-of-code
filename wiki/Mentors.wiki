@@ -8,7 +8,7 @@ Once you decide what project you are interested in contributing to and explore t
 
 There are thousands of open source organizations out there, and hundreds of them participated in GSoC in the past. For example, the full list of organizations that participated in 2011 is [http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2011 here]. 
 
-Please don't hesitate to explore an organization not listed on this page. Chances are you will find some clues about how to get involved on that organization's homepage. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and follow their posts on the project's IRC channel and mailing list to learn more about the project.
+Please don't hesitate to explore an organization not listed on this page. Chances are you will find some clues about how to get involved on that organization's homepage. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and follow their posts on the project's IRC channel and mailing list to learn more about the project. You can also ask any questions you have on the project's IRC channel and mailing list.
 
 Organizations that are interested in providing one-on-one mentors year round can be added to the list by e-mailing Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
