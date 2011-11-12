@@ -15,5 +15,6 @@ Organizations that are interested in providing one-on-one mentors year round can
 == Organizations' Lists of Mentors ==
 
  * [http://wiki.apertium.org/wiki/Apertium_mentors Apertium mentors] - The Apertium project provides a platform for making free and open source rule-based machine translation systems. There are currently around 30 language pairs, with several being unique to Apertium: Breton, Occitan, Asturian and Aragonese.
+ * [http://wiki.wesnoth.org/SoC_People_to_bug_on_IRC Battle for Wesnoth mentors] - Battle for Wesnoth is an open source, turn based strategy game in a medieval-fantasy setting. It is mature project with continuing active development and frequent improvements.
  * [https://live.gnome.org/GnomeLove/Mentors GNOME mentors] - GNOME offers an easy to understand desktop for GNU/Linux and UNIX. It is also as an umbrella project for many applications that people use on their desktops, such as Empathy, Pitivi, gedit, and others.
  * [https://wiki.documentfoundation.org/Mentors LibreOffice mentors] - !LibreOffice is the power-packed free, libre and open source personal productivity suite for Windows, Macintosh and GNU/Linux. It provides six feature-rich applications for all your document production and data processing needs: Writer, Calc, Impress, Draw, Math and Base.
