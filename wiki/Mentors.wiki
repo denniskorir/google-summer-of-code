@@ -12,11 +12,12 @@ Please don't hesitate to explore an organization not listed on this page. Chance
 
 Organizations that are interested in providing one-on-one mentors year round can be added to the list by e-mailing Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
-== Organizations' Lists of Mentors ==
+== Organizations' Mentors ==
 
  * [http://wiki.apertium.org/wiki/Apertium_mentors Apertium mentors] - The Apertium project provides a platform for making free and open source rule-based machine translation systems. There are currently around 30 language pairs, with several being unique to Apertium: Breton, Occitan, Asturian and Aragonese.
  * [http://wiki.wesnoth.org/SoC_People_to_bug_on_IRC Battle for Wesnoth mentors] - Battle for Wesnoth is an open source, turn based strategy game in a medieval-fantasy setting. It is mature project with continuing active development and frequent improvements.
  * [https://live.gnome.org/GnomeLove/Mentors GNOME mentors] - GNOME offers an easy to understand desktop for GNU/Linux and UNIX. It is also as an umbrella project for many applications that people use on their desktops, such as Empathy, Pitivi, gedit, and others.
  * [https://wiki.documentfoundation.org/Mentors LibreOffice mentors] - !LibreOffice is the power-packed free, libre and open source personal productivity suite for Windows, Macintosh and GNU/Linux. It provides six feature-rich applications for all your document production and data processing needs: Writer, Calc, Impress, Draw, Math and Base.
+ * [https://developer.mozilla.org/en/Introduction Mozilla introduction] and [https://developer.mozilla.org/en/Introduction#Find_a_bug_we%27ve_identified_as_being_good_for_newcomers mentored bugs] - Mozilla is dedicated to putting you in control of your online experience and shaping the future of the web for the public good with products like the Firefox web browser.
  * [http://openhatch.org/wiki/OpenHatch_mentors OpenHatch mentors] - !OpenHatch is an open source project with the goals of lowering the barriers to entry into open source contribution and increasing diversity. It provides training missions, IRC help, outreach events, and a way to find bugs from various projects.
- * [http://pythonmentors.com Python mentors] - Python is a widely-used open source programming language. Working on Python Core you would be improving the code for the Python technologies.
+ * [http://pythonmentors.com Python mentors] - Python is a widely-used open source programming language. Working on CPython you would be improving the most popular Python implementation, its documentation and its standard library.
