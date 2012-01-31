@@ -38,7 +38,7 @@ For GSoC 2008, we published all of our updates on the Google Open Source Blog. Y
 
 For GSoC 2007, we had a Google Summer of Code program blog. You can read [http://googlesummerofcode.blogspot.com there] about several of the highlights of the 2007 program. 
 
-If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris Di!Bona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog]. 
+If you're looking for more data on GSoC for 2006, check out the [http://code.google.com/soc/GSoC2006Statistics.pdf slides] from Chris DiBona's [http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373 presentation] at [http://conferences.oreillynet.com/os2006/ OSCON 2006].  You can also check out several posts about the results of 2006 program on the [http://google-code-updates.blogspot.com/ Google Code Blog]. 
 
 ==Advice for Mentors==
 Wondering how to choose the best applicants for your project?  How to deal with a student reticent to post questions to the project-wide mailing list? How to keep your project's students engaged with the community long past the program's conclusion?  
