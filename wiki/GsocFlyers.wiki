@@ -8,7 +8,7 @@ The English language version of the 2012 GSoC flyer is now available. ([http://c
 
 If you would like to help us by localizing the program flyer, please:
   * comment on this wiki page that you plan to translate the flyer into a particular language
-  * download the [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.odt English language template] (A4 or 8.5" x 11")
+  * download the [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.odt English language template] (8.5" x 11")
   * send the translated version to [mailto:carols@google.com Carol Smith]  
 
 Most of the text is the same as last year, except for the program dates and the first paragraph.  Make sure to check the comments section of this page to ensure that you're not duplicating translation efforts with someone else.  Once you send the translated version to us, we'll link it from this page.
