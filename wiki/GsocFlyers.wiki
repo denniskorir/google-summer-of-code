@@ -31,6 +31,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.si.pdf Sinhalese]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.sl.pdf Slovenian]
+
 = 2011 Flyers =
 
 All of these flyers are available as PDF only.
