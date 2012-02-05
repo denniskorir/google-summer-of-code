@@ -19,8 +19,7 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
-English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer-A4.pdf  A4]
-
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.en_GB.pdf British English]
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer-A4.pdf  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.pdf 8.5 x 11]
 
 = 2011 Flyers =
