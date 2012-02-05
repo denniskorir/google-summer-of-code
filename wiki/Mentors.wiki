@@ -10,6 +10,8 @@ There are thousands of open source organizations out there, and hundreds of them
 
 Please don't hesitate to explore an organization not listed on this page. Chances are you will find some clues about how to get involved on that organization's homepage. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and follow their posts on the project's IRC channel and mailing list to learn more about the project. You can also ask any questions you have on the project's IRC channel and mailing list.
 
+The organizations that will participate in GSoC in 2012 will be announced on March 16, but even if you start out contributing to an organization that happens to not be part of GSoC this year, you will still be much better prepared to apply to a different organization that will participate in GSoC.
+
 Organizations that are interested in providing one-on-one mentors year round can be added to the list by e-mailing Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
 == Organizations' Mentors ==
