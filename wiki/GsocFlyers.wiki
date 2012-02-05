@@ -29,6 +29,8 @@ All of these flyers are available as PDF only.
 
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer-A4.pdf  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.pdf 8.5 x 11]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.nb.pdf Norwegian Bokmål]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.nn.pdf Norwegian Nynorsk]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer_A4_Russian.pdf Russian]
