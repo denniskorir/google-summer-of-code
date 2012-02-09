@@ -10,7 +10,7 @@ There are thousands of open source organizations out there, and hundreds of them
 
 Please don't hesitate to explore an organization not listed on this page. Chances are you will find some clues about how to get involved on that organization's homepage. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and follow their posts on the project's IRC channel and mailing list to learn more about the project. You can also ask any questions you have on the project's IRC channel and mailing list.
 
-[[http://openhatch.org OpenHatch]] is a community site that has listings of mentors and easy bugs in many organizations. It also has [[http://openhatch.org/missions training missions]] that are useful to complete for anyone new to contributing to open source.
+[http://openhatch.org OpenHatch] is a community site that has listings of mentors and easy bugs in many organizations. It also has [http://openhatch.org/missions training missions] that are useful to complete for anyone new to contributing to open source.
 
 The organizations that will participate in GSoC in 2012 will be announced on March 16, but even if you start out contributing to an organization that happens to not be part of GSoC this year, you will still be much better prepared to apply to a different organization that will participate in GSoC.
 
