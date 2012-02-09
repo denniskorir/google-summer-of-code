@@ -6,9 +6,11 @@ Once you decide what project you are interested in contributing to and explore t
 
 [http://code.google.com/p/google-summer-of-code/wiki/Irc IRC] is one of the main communication channels for open source projects. You should try contacting a mentor in the project's IRC channel, and use e-mail if you don't see them on IRC. Typically, there are other people in the project's IRC channel, who can help you too. You can address the mentor directly in the IRC channel by using their nick in your question. E.g. if the mentor's IRC nick is kelly, you can say "kelly: hi! I just built project-foo and looking for a bug to fix - I found bug 1234 and bug 4321 in the project's bug tracking system that both look like something I can try to work on, but I wanted to see if you have any recommendation, since you are listed as a mentor for the project".
 
-There are thousands of open source organizations out there, and hundreds of them participated in GSoC in the past. For example, the full list of organizations that participated in 2011 is [http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2011 here]. 
+There are thousands of open source organizations out there, and hundreds of them participated in GSoC in the past. For example, the full list of organizations that participated in 2011 is [http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2011 here].
 
 Please don't hesitate to explore an organization not listed on this page. Chances are you will find some clues about how to get involved on that organization's homepage. One approach is to look at the commit log of the project within that organization that interests you to see who are its most frequent contributors and follow their posts on the project's IRC channel and mailing list to learn more about the project. You can also ask any questions you have on the project's IRC channel and mailing list.
+
+[[http://openhatch.org OpenHatch]] is a community site that has listings of mentors and easy bugs in many organizations. It also has [[http://openhatch.org/missions training missions]] that are useful to complete for anyone new to contributing to open source.
 
 The organizations that will participate in GSoC in 2012 will be announced on March 16, but even if you start out contributing to an organization that happens to not be part of GSoC this year, you will still be much better prepared to apply to a different organization that will participate in GSoC.
 
