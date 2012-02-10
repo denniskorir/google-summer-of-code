@@ -51,6 +51,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.nn.pdf Norwegian Nynorsk]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer_A4-pl.pdf Polish]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer_A4_Russian.pdf Russian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.si.pdf Sinhalese]
