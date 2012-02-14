@@ -5,6 +5,10 @@
 
   * You should also check out our [Videos videos] page for localized videos produced for the community, by the community.
 
+=== Bengali ===
+
+Mahfuzur Rahman Mamun has translated our 2012 program presentation. You can download it as a [http://code.google.com/p/google-summer-of-code/downloads/detail?name=gsoc_preso_bangla_2012.pdf pdf].
+
 === Brasilian Portuguese ===
 
 Gustavo Jordan has translated our 2009 program presentation. You can download it in the following formats:
