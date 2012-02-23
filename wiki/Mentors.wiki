@@ -16,6 +16,8 @@ The organizations that will participate in GSoC in 2012 will be announced on Mar
 
 Organizations that are interested in providing one-on-one mentors year round can be added to the list by e-mailing Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
+Please [http://code.google.com/p/google-summer-of-code/wiki/SpreadTheWordAboutMentoring help spread the word] about this resource by sending a provided e-mail to student groups, posting a status update on social networks, or distributing the flyer.
+
 == Organizations' Mentors ==
  * [http://community.apache.org/gettingStarted/101.html Apache Software Foundation mentors] - The Apache Software Foundation is an umbrella organization for a broad range of open source software projects. Through a collaborative and meritocratic development process, Apache projects deliver enterprise-grade, freely available software products that attract large communities of users.
  * [http://wiki.apertium.org/wiki/Apertium_mentors Apertium mentors] - The Apertium project provides a platform for making free and open source rule-based machine translation systems. There are currently around 30 language pairs, with several being unique to Apertium: Breton, Occitan, Asturian and Aragonese.
