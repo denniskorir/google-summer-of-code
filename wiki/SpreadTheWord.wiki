@@ -1,6 +1,6 @@
 #summary Resources for spreading the word about the mentorship opportunities in open source
 
-= Sample E-mail =
+== Sample E-mail ==
 
 Please send this e-mail to university departments, student groups, FOSS groups, and technical women groups.
 
@@ -22,11 +22,11 @@ Please consider applying for Google Summer of Code, encourage someone else to ap
 
 You can optionally add information about your organization before the last paragraph of this e-mail. You can lead in with something like "<Organization Name> is one of the organizations applying to participate in Google Summer of Code." and add a description of your organization and the different projects.
 
-= Sample Social Network Update =
+== Sample Social Network Update ==
 
 Prepare for Google Summer of Code! Select a project that interests you and contribute with the help of a mentor. http://bit.ly/xZXdpm
 
-= Flyer =
+== Flyer ==
 
 Please distribute this flyer ([http://code.google.com/p/google-summer-of-code/downloads/detail?name=open-source-mentoring-A4.pdf A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=open-source-mentoring-USLetter.pdf 8.5 x 11]) along with the [http://code.google.com/p/google-summer-of-code/wiki/GsocFlyers GSoC flyer] on university campuses and at various events.
 
