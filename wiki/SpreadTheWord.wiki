@@ -1,4 +1,4 @@
-#summary Resources for spreading the word about the mentorship opportunities in open source
+#summary Resources for spreading the word about the mentorship opportunities in preparation for GSoC
 
 == Sample E-mail ==
 
