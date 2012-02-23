@@ -30,4 +30,4 @@ Prepare for Google Summer of Code! Select a project that interests you and contr
 
 Please distribute this flyer ([http://code.google.com/p/google-summer-of-code/downloads/detail?name=open-source-mentoring-A4.pdf A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=open-source-mentoring-USLetter.pdf 8.5 x 11]) along with the [http://code.google.com/p/google-summer-of-code/wiki/GsocFlyers GSoC flyer] on university campuses and at various events.
 
-[https://live.gnome.org/GnomeWomen/OutreachProgram2012/SpreadTheWord?action=AttachFile&do=view&target=open-source-mentoring.png https://live.gnome.org/GnomeWomen/OutreachProgram2012/SpreadTheWord?action=AttachFile&do=view&target=open-source-mentoring.png]
+[https://live.gnome.org/GnomeWomen/OutreachProgram2012/SpreadTheWord?action=AttachFile&do=view&target=open-source-mentoring.png https://live.gnome.org/GnomeWomen/OutreachProgram2012/SpreadTheWord?action=AttachFile&do=get&target=open-source-mentoring.png]
