@@ -2,7 +2,7 @@
 
 == Sample E-mail ==
 
-Please send this e-mail to university departments, student groups, FOSS groups, and technical women groups.
+Please send this e-mail to university Computer Science departments, student groups, FOSS groups, and technical women groups.
 
 ----------------------------
 
@@ -16,7 +16,7 @@ The organizations that will participate in Google Summer of Code this year will 
 
 http://code.google.com/p/google-summer-of-code/wiki/Mentors
 
-Please consider applying for Google Summer of Code, encourage someone else to apply, or help spread the word by forwarding this e-mail to any student and technical women groups!
+Please consider applying for Google Summer of Code, encourage someone else to apply, or help spread the word by forwarding this e-mail to university Computer Science departments and student groups!
 
 ----------------------------
 
