@@ -12,7 +12,7 @@ If you're wondering what this means, you are welcome to do what you'd like with 
 
 == 2012 Logos ==
 
-The [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=2012+logo&colspec=Filename+Summary+Uploaded+Size+DownloadCount 2012 logo] is now available in JPEG and PNG, black on white, and white on black.
+The [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=2012+logo&colspec=Filename+Summary+Uploaded+Size+DownloadCount 2012 logo] is now available in JPEG, EPS, and PNG, black on white, and white on black.
 
 == 2011 Logos ==
 
