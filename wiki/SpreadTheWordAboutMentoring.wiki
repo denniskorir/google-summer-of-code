@@ -4,6 +4,8 @@
 
 Please send this e-mail to university Computer Science departments, student groups, FOSS groups, and technical women groups.
 
+Please update the [http://geekfeminism.wikia.com/wiki/List_of_academic_organizations_interested_in_women_in_CS wiki page with technical women groups at universities] when you send the information to these groups. Also, if you want to help out, please select a few of the groups listed there that have not been contacted, find their contact information, and send them this e-mail.
+
 ----------------------------
 
 Subject: Prepare for Google Summer of Code
@@ -21,6 +23,8 @@ Please consider applying for Google Summer of Code, encourage someone else to ap
 ----------------------------
 
 You can optionally add information about your organization before the last paragraph of this e-mail. You can lead in with something like "<Organization Name> is one of the organizations applying to participate in Google Summer of Code." and add a description of your organization and the different projects.
+
+You can optionally add your contact information and availability to answer questions in the end of the e-mail.
 
 == Sample Social Network Update ==
 
