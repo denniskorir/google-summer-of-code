@@ -48,6 +48,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.fr.pdf French]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer_A4-German.pdf German]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.gr.pdf Greek]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.ga.pdf Irish]
