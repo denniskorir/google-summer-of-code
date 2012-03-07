@@ -54,6 +54,9 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.ga.pdf Irish]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.it.pdf Italian]
+
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=google-summber-khmer.pdf Khmer]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.ky.pdf Kyrgyz]
