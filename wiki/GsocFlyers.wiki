@@ -74,6 +74,9 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.tt.pdf Tatar]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.udm.pdf Udmurt]
+
+
 = 2011 Flyers =
 
 All of these flyers are available as PDF only.
