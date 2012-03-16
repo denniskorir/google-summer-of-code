@@ -16,7 +16,7 @@ The organizations that will participate in GSoC in 2012 will be announced on Mar
 
 Organizations that are interested in providing one-on-one mentors year round can be added to the list by e-mailing Marina Zhurakhinskaya (marinazik at gmail) with a link to their list of mentors and a brief description.
 
-Please [http://code.google.com/p/google-summer-of-code/wiki/SpreadTheWordAboutMentoring help spread the word] about this resource by sending a provided e-mail to student groups, posting a status update on social networks, or distributing the flyer.
+Please [http://code.google.com/p/google-summer-of-code/wiki/SpreadTheWordAboutMentoring help spread the word] about this resource by sending a provided e-mail to student groups, posting a status update on social networks, or distributing the flyer and the leaflet with the information seen on this page.
 
 == Organizations' Mentors ==
  * [http://ankur.org.in/projects/project-ideas Ankur.org.in mentors] - Ankur.org.in is a group of volunteers who collaborate to promote localization and internationalization with the specific aim of improving usage of Bengali in Free and Open Source Software projects. Projects include translation, content development, and development of tools, utilities, widgets and APIs that help the localization effort.
