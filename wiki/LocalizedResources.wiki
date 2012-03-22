@@ -31,6 +31,8 @@ Charles Chuang has translated the 2009 Program Presentation into Traditional Chi
 === German ===
 Dirk Haun has contributed this [http://www.haun-online.de/presentations/ presentation]. Available as PDF & Keynote.
 
+We also have the Melange [http://code.google.com/p/google-summer-of-code/downloads/detail?name=google-sommer-code.pdf&can=2&q=#makechanges user's guide] translated as well. Thanks to Alexey Gnatuk for the PDF. 
+
 === Japanese ===
   * [http://google-summer-of-code.googlecode.com/files/GSoC2008-presentation-Japanese.odp program presentation in Japanese] (ODP file).
   * There are [http://groups.google.com/group/google-summer-of-code-discuss-ja?hl=ja Japanese discussion list on Google Summer of Code].
