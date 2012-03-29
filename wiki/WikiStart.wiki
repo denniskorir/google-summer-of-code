@@ -7,7 +7,7 @@ We started this wiki to provide helpful advice to prospective and accepted Googl
 
 Remember, this wiki is meant to provide guidance *only*.  What works well for one project may not work well for another, and each student's approach to the program will be unique. Further, each mentoring organization will need to create its own guidelines for participating in the program.  We hope the information provided on this wiki will be a useful starting point for drafting these guidelines, and we [mailto:lhospo@gmail.com welcome your feedback] about additional information that could be helpful.
 
-The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:lhospo@gmail.com let us know]. 
+The wiki is a work in progress, so if you see any sections marked "TODO" they will be gradually updated.  If you have suggestions for text for these sections, make sure to [mailto:ospoadmin@gmail.com let us know]. 
 
 ==Useful Links==
   * [http://code.google.com/soc/ Google Summer of Code Program Page]
