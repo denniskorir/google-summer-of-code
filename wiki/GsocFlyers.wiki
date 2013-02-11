@@ -15,7 +15,7 @@ Most of the text is the same as last year, except for the program dates and the 
 
 Alternatively, you're welcome and *encouraged* to create your own GSoC promotional materials.  Just [mailto:carols@google.com tell us] about it and we'll link to them from the [LocalizedResources translated/localized resources wiki page] or the [Videos videos page]. If you need to use the [GsocLogos program logos] please do, just follow the posted guidelines.
 
-= 2012 Flyers =
+= 2013 Flyers =
 
 All of these flyers are available as PDF only.
 
@@ -23,6 +23,7 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_sl.pdf Slovenian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013Flyer_es_mx.pdf Spanish]
 
 = 2012 Flyers =
 
