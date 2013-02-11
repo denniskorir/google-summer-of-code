@@ -21,6 +21,8 @@ All of these flyers are available as PDF only.
 
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.pdf&can=2&q=#makechanges  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013Flyer.pdf&can=2&q=#makechanges 8.5 x 11]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_ro.pdf Romanian]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_sl.pdf Slovenian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013Flyer_es_mx.pdf Spanish]
