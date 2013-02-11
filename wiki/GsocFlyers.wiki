@@ -2,7 +2,7 @@
 #labels flyer
 
 = Advertising Google Summer of Code 2013 =
-The English language version of the 20123 GSoC flyer is now available. ([http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.pdf&can=2&q=#makechanges A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013Flyer.pdf&can=2&q=#makechanges 8.5 x 11])  If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
+The English language version of the 2013 GSoC flyer is now available. ([http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.pdf&can=2&q=#makechanges A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013Flyer.pdf&can=2&q=#makechanges 8.5 x 11])  If you'd like to help spread the word about GSoC, download one of our flyers and put it up around your campus or any other places geeks near you congregate.  We can also use your help in translating the program flyer.
 
 == Translation Help ==
 
