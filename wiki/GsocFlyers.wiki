@@ -31,6 +31,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GGSoC2013FlyerA4.id.pdf Indonesian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mk.pdf Macedonian]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4-portugese.pdf Portugese]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_ro.pdf Romanian]
