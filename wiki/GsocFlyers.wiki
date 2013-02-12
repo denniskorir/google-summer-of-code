@@ -33,6 +33,10 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mk.pdf Macedonian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.nb.pdf Norwegian Bokmål]
+
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.nn.pdf Norwegian Nynorsk]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4-portugese.pdf Portugese]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_ro.pdf Romanian]
