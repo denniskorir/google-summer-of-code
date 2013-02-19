@@ -42,6 +42,10 @@ We also have the Melange [http://code.google.com/p/google-summer-of-code/downloa
 
 Adam Rakowski gave a presentation at his university and has contributed back his slides for use. [http://google-summer-of-code.googlecode.com/files/GoogleSoC-polish.zip PowerPoint, zipped]
 
+=== Portugese ===
+
+Carlos Serrao has translated the 2013 presentation into Portugese. [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC-2013-preso.pt-PT.odp ODT format]
+
 === Russian ===
 Aleksey Evtushenko has graciously created a website [http://gsoc.org.ua/ in Russian] with more information about the program.
 
