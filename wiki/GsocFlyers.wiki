@@ -43,6 +43,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.ga.pdf Irish]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4_ita.pdf Italian]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mk.pdf Macedonian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.nb.pdf Norwegian Bokmål]
