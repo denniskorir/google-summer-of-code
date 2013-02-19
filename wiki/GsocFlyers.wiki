@@ -73,6 +73,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.tt.pdf Tatar]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=Flyer_trk.pdf Turkish]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4-uk.pdf Ukranian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.cy.pdf Welsh]
