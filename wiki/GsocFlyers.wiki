@@ -63,6 +63,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mk2.pdf Macedonian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mt.pdf Maltese]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.mhr.pdf Meadow Mari]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.nb.pdf Norwegian Bokmål]
