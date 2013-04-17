@@ -117,6 +117,10 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2013FlyerA4.guc.pdf Wayuu]
 
+== Organization Specific Flyers ==
+
+Smalltalk - [http://gsoc2013.esug.org/poster flyers]
+
 = 2012 Flyers =
 
 All of these flyers are available as PDF only.
