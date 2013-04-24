@@ -121,6 +121,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 Smalltalk - [http://gsoc2013.esug.org/poster flyers]
 
+FreeBSD - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=2013-freebsd-gsoc.pdf flyer]
+
 = 2012 Flyers =
 
 All of these flyers are available as PDF only.
