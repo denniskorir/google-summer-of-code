@@ -25,6 +25,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4-German.pdf German]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer-es_mx.pdf Spanish]
+
 = 2013 Flyers =
 
 All of these flyers are available as PDF only.
