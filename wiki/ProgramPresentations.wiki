@@ -7,6 +7,10 @@ You might also want to check out our [LocalizedResources Localized Resources] pa
 
 Our [Videos Videos] page is another useful resource.
 
+== 2014 Presentations ==
+
+You can find the 2014 themed presentation slides available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=presentation+2014 wide variety of formats].
+
 == 2013 Presentations ==
 
 You can find the 2013 themed presentation slides available in a [http://code.google.com/p/google-summer-of-code/downloads/list?can=2&q=presentation+2013 wide variety of formats].
