@@ -33,6 +33,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_pt_BR.pdf Portugese (Brazilian)]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.si.pdf Sinhala]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer-es_mx.pdf Spanish]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.TR.pdf Turkish]
