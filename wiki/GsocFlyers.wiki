@@ -45,7 +45,7 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=Gsoc14_Gujarati_translation_Kesha_shah.pdf Gujarati]
 
-[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC 2014 Flyer Hindi by Vijay Barve.pdf Hindi]
+[https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC%202014%20Flyer%20Hindi%20by%20Vijay%20Barve.pdf&can=2&q=#makechanges Hindi]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.hun.pdf Hungarian]
 
