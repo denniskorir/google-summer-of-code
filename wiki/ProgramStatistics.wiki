@@ -4,7 +4,23 @@
 
 Many folks ask us frequently for an overview of how many students participated in the program, how many organizations we accepted, etc. This page is your one stop shop for that data. Not finding some information you'd like? Comment here and we can respond as soon as possible to your request for information.
 
-Check out our [http://google-opensource.blogspot.com/2012/05/google-summer-of-code-2012-by-numbers.html blog post on 2012 program statistics] and our posts from previous years: [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2012/05/google-summer-of-code-2012-stats-part-2.html our follow up post] for lots of detailed information including number of students by country, etc. and some additional statistics about participants and top schools.
+Check out our [http://google-opensource.blogspot.com/2013/06/google-summer-of-code-2013-full-of.html blog post on 2013 program statistics] and our posts from previous years: [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2012/05/google-summer-of-code-2012-stats-part-2.html our follow up post] for lots of detailed information including number of students by country, etc. and some additional statistics about participants and top schools.
+
+*Statistics for 2013*
+
+Coding Dates: 17 June - 27 September
+
+$7.3M budget
+
+1192 students accepted
+
+2215 org admins, mentors and co-mentors
+
+177 Open Source organizations
+
+Accepted students from 69 countries
+
+88.6% overall success rate
 
 *Statistics for 2012*
 
