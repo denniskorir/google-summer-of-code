@@ -49,6 +49,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.hun.pdf Hungarian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.ind.pdf Indonesian]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.gle.pdf Irish]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_ita.pdf Italian]
