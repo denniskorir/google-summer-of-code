@@ -65,6 +65,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.TR.pdf Turkish]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=Ukrainian_translation_Dhwanit.pdf Ukranian]
+
 = 2013 Flyers =
 
 All of these flyers are available as PDF only.
