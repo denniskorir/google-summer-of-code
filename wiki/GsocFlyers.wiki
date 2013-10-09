@@ -39,6 +39,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4-German.pdf German]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=Gsoc14_Gujarati_translation_Kesha_shah.pdf Gujarati]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.hun.pdf Hungarian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_ita.pdf Italian]
