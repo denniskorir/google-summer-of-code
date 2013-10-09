@@ -55,6 +55,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4-Tamil.pdf Tamil]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerTelugu.pdf Telugu]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2012Flyer.TR.pdf Turkish]
 
 = 2013 Flyers =
