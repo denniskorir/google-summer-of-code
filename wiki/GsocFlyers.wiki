@@ -41,6 +41,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_ita.pdf Italian]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4Marathi.pdf Marathi]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.nob.pdf Norwegian (Bokmål)]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_pt_BR.pdf Portugese (Brazilian)]
