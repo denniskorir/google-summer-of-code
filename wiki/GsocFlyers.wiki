@@ -27,6 +27,8 @@ All of these flyers are available as PDF only.
 
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.cat.pdf Catalan]
 
+[https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer.zh-hans-cn.pdf Chinese (Simplified)]
+
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4%20-%20Croatian.pdf&can=2&q=#makechanges Croatian]
 
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=czech_translation_Anjana_Shah.pdf Czech]
