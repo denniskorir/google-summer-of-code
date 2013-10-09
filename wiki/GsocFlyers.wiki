@@ -31,7 +31,6 @@ All of these flyers are available as PDF only.
 
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014DutchFlyerA4.pdf Dutch]
 
-
 English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.pdf&can=2&q=#makechanges  A4] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer.pdf&can=2&q=#makechanges 8.5 x 11]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.fin.pdf Finnish]
@@ -41,6 +40,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.hun.pdf Hungarian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_ita.pdf Italian]
+
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.nob.pdf Norwegian (Bokmål)]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_pt_BR.pdf Portugese (Brazilian)]
 
