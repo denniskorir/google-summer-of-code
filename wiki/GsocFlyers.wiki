@@ -91,6 +91,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC%202014%20Flyer%20Urdu%20by%20Ahsan%20Ali%20Shahid.pdf&can=2&q=#makechanges Urdu]
 
+[http://code.google.com/p/google-summer-of-code/downloads/detail?name=Google flyer_Vietnamese.pdf Vietnamese]
+
 = 2013 Flyers =
 
 All of these flyers are available as PDF only.
