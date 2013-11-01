@@ -77,6 +77,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.si.pdf Sinhala]
 
+[https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer_sl.pdf Slovenian]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyer-es_mx.pdf Spanish (Mexico)]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014Flyeres_ES.pdf Spanish (Spain)]
