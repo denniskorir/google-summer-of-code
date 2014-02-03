@@ -73,6 +73,8 @@ English - [http://code.google.com/p/google-summer-of-code/downloads/detail?name=
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4_pt_BR.pdf Portugese (Brazilian)] or [http://code.google.com/p/google-summer-of-code/downloads/detail?name=Portugese_translation_samir.pdf Portugese 2]
 
+[https://drive.google.com/file/d/0BwL4N-OdGxhQazhyQXBqTXZ0M3c/edit?usp=sharing Punjabi]
+
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014RussianFlyer.pdf Russian]
 
 [http://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.si.pdf Sinhala]
