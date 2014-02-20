@@ -19,7 +19,7 @@ Alternatively, you're welcome and *encouraged* to create your own GSoC promotion
 
 All of these flyers are available as PDF only.
 
-[https://docs.google.com/file/d/0BwL4N-OdGxhQdmdPblpIUUo5M28/edit Argonese] 
+[https://docs.google.com/file/d/0BwL4N-OdGxhQdmdPblpIUUo5M28/edit Albanian] 
 
 [https://code.google.com/p/google-summer-of-code/downloads/detail?name=GSoC2014FlyerA4.arg.pdf Argonese]
 
