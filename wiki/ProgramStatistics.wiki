@@ -10,8 +10,6 @@ Check out our [http://google-opensource.blogspot.com/2013/06/google-summer-of-co
 
 Coding Dates: 17 June - 27 September
 
-$7.3M budget
-
 1192 students accepted
 
 2215 org admins, mentors and co-mentors
@@ -26,8 +24,6 @@ Accepted students from 69 countries
 
 Coding Dates: May 21st - August 20th
 
-$7.3M budget
-
 1212 students accepted
 
 2221 org admins, mentors and co-mentors
@@ -41,8 +37,6 @@ Accepted students from 69 countries
 *Statistics for 2011*
 
 Coding Dates: May 23rd - Aug 22nd
-
-$7.2M budget
 
 1115 students accepted
 
@@ -62,8 +56,6 @@ Accepted students from 68 countries (including 6 new countries), mentors from 55
 
 Coding Dates: May 24 - Aug 16th
 
-$5M budget
-
 1026 students accepted
 
 150 Open Source organizations
@@ -74,8 +66,6 @@ $5M budget
 *Final Statistics for 2009*
 
 Coding Dates: May 23 - Aug 25th
-
-$5M budget
 
 1000 students accepted
 
@@ -88,8 +78,6 @@ $5M budget
 *Final Statistics for 2008:*
 
 Coding Dates: May 26-Aug 18th
-
-$5M budget
 
 More than 7000 applications received, which was more than the 2007 of just under 6200 (http://google-opensource.blogspot.com/2008/04/applications-are-in.html)
 
@@ -109,8 +97,6 @@ students on every continent (except, of course, Antarctica)
 
 Coding Dates: May 28th - August 31st
 
-$4M budget
-
 6,200 applications received
 
 905 students accepted
@@ -129,8 +115,6 @@ students on every continent (except, of course, Antarctica)
 
 Dates: May 1 - Sept 8th
 
-$3M budget
-
 630 Students
 
 1200 Mentors
@@ -142,8 +126,6 @@ $3M budget
 82% overall student success rate
 
 *Select Statistics for 2005:*
-
-$2M budget
 
 400 students
 
