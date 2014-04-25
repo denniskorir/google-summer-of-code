@@ -64,3 +64,9 @@ Akarawuth Tamrareang kindly provided a Thai translation of our 2009 Program Pres
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.odp Open Office Presentation]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.pdf PDF]
   * [http://google-summer-of-code.googlecode.com/files/GSoC2009-Presentation-BlueLogo-Thai_v2.ppt Powerpoint]
+
+
+=== Turkish ===
+
+You can find the GSoC 2014 presentation created by Furkan Kamaci in Turkish here:
+   * [https://drive.google.com/file/d/0BwL4N-OdGxhQc0dMVXRKc1BSMTg/edit?usp=sharing]
