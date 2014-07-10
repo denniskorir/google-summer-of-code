@@ -6,6 +6,14 @@ Many folks ask us frequently for an overview of how many students participated i
 
 Check out our [http://google-opensource.blogspot.com/2013/06/google-summer-of-code-2013-full-of.html blog post on 2013 program statistics] and our posts from previous years: [http://google-opensource.blogspot.com/2009/03/google-summer-of-code-by-numbers.html blog post on program statistics from 2005-2008] and [http://google-opensource.blogspot.com/2012/05/google-summer-of-code-2012-stats-part-2.html our follow up post] for lots of detailed information including number of students by country, etc. and some additional statistics about participants and top schools. You can also view a [https://docs.google.com/spreadsheets/d/1OtHURsRfJIrCXVAkncXby0rt0fR5yrLPSQ9vcpfuWEg/edit?usp=sharing complete list] of the countries that have participated in the program.
 
+*Statistics for 2014*
+
+Coding Dates: 19 May - 18 August
+
+1307 students accepted
+
+190 Open Source organizations
+
 *Statistics for 2013*
 
 Coding Dates: 17 June - 27 September
