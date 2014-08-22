@@ -14,14 +14,18 @@ IRC (Internet Relay Chat) is one of the main communication channels for open sou
 
 To use IRC you need an IRC client. The following applications provide IRC functionality:
 
+ * [http://hexchat.github.io HexChat] IRC client
  * [http://xchat.org XChat] IRC client
  * [https://live.gnome.org/Xchat-Gnome XChat-Gnome] IRC client
  * [http://www.kde.org/applications/internet/konversation Konversation] IRC client
  * [http://www.smuxi.org Smuxi] IRC client
+ * [https://wiki.gnome.org/Apps/Polari Polari] IRC client
  * [https://live.gnome.org/Empathy Empathy] IM and IRC client
  * [http://www.pidgin.im Pidgin] IM and IRC client
+ * [http://www.mozilla.org/thunderbird Thunderbird] Mail client (since version 15.0)
 
 Alternatively, you can connect to IRC from a browser by using one of the following options:
 
+ * [https://kiwiirc.com KiwiIRC] web IRC client
  * [http://mibbit.com Mibbit] web IRC chat 
  * [https://addons.mozilla.org/en-US/firefox/addon/16 Chatzilla] Firefox Add-on
